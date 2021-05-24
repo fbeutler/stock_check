@@ -15,11 +15,11 @@ def main():
 			for line in f:
 				if line[0] != '#':
 					dummy = line.split()
-					if dummy[13] != 'None' and float(dummy[13]) > 0:
+					if dummy[14] != 'None' and float(dummy[14]) > 0:
 						tags.append(dummy[0])
-						price.append(float(dummy[1]))
+						price.append(float(dummy[2]))
 						print("price[-1] = ", price[-1])
-						bvalue.append(float(dummy[13]))
+						bvalue.append(float(dummy[14]))
 						print("bvalue[-1] = ", bvalue[-1])
 						pbratios.append(price[-1]/bvalue[-1])
 
