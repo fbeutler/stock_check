@@ -10,8 +10,9 @@ def read_t212(filename):
     '''
 
     '''
-    file = open(filename,mode='r')
-    return BeautifulSoup(file.read(), "html.parser")
+    with open(filename,mode='r') as file:
+        content = BeautifulSoup(file.read(), "html.parser")
+    return content
 
 
 def get_soup(link):
@@ -21,9 +22,9 @@ def get_soup(link):
 	    html = urlopen(link)
 	except HTTPError as err: # The page is not found on the server
 	    print("ERROR: Internal server error!", err)
-	    return None 
+	    return None
 	except URLError as err:
 	    print("ERROR: The server could not be found!", err)
-	    return None 
+	    return None
 	else:
 	    return BeautifulSoup(html.read(), "html.parser")
