@@ -32,6 +32,34 @@ def get_pb(tag):
 			return None
 
 
+def get_sector(tag):
+	'''
+	'''
+	print("tag = ", tag)
+	link = 'https://ycharts.com/companies/%s' % tag.split('.')[0].strip()
+	soup = get_soup(link)
+	
+	if soup is None:
+		return None, None
+	else:
+		sector = ''
+		industry = ''
+		ul_el = soup.findAll("ul", {"class": "compProfile"})
+		if ul_el:
+			for li_el in ul_el[0].findAll('li'):
+				if li_el.findAll('strong')[0].text == 'Sector':
+					a_el = li_el.findAll('a')
+					if a_el:
+						sector = a_el[0].text
+				if li_el.findAll('strong')[0].text == 'Industry':
+					a_el = li_el.findAll('a')
+					if a_el:
+						industry = a_el[0].text
+			return sector, industry
+		else:
+			return None, None
+
+
 def get_pe(tag):
 	'''
 	'''
