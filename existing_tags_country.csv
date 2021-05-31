@@ -1,0 +1,8394 @@
+tag,country,tag_id
+BARC.L,United Kingdom,0
+VOD.L,United Kingdom,1
+BMW.DE,Germany,2
+DBK.DE,Germany,3
+TSLA,United States,4
+LLOY.L,United Kingdom,5
+1COV.DE,Germany,7
+1SI.DE,United States,11
+A,United States,221
+AA,United States,223
+AA4.L,United Kingdom,224
+AAAP.L,United Kingdom,226
+AAC,United States,227
+AACAY,China,228
+AACG,China,229
+AAD.DE,Germany,231
+AAF.L,United Kingdom,233
+AAGIY,Hong Kong,234
+AAIC,United States,235
+AAL.L,United Kingdom,237
+AAL,United States,238
+AALB.AS,Netherlands,239
+AAMC,United States,240
+AAME,United States,241
+AAN,United States,242
+AAOG.L,United Kingdom,243
+AAOI,United States,244
+AAON,United States,245
+AAP,United States,246
+AAPL,United States,250
+AAU.L,United Kingdom,254
+AAVMY,Netherlands,255
+AAWW,United States,256
+AAZ.L,Azerbaijan,257
+AB,United States,258
+ABB,Switzerland,259
+ABBB,United States,260
+ABBN.SW,Switzerland,261
+ABBV,United States,262
+ABC,United States,263
+ABC.L,United Kingdom,264
+ABCB,United States,265
+ABCL,Canada,266
+ABCM,United Kingdom,267
+ABCP,United States,268
+ABDP.L,United Kingdom,271
+ABDX.L,United Kingdom,272
+ABEA.DE,United States,273
+ABEC.DE,United States,274
+ABEO,United States,275
+ABEPF,Canada,276
+ABEV,Brazil,277
+ABF.L,United Kingdom,278
+ABG,United States,279
+ABGI,United States,280
+ABIO,United States,282
+ABLT,United States,283
+ABM,United States,284
+ABMD,United States,285
+ABML,United States,286
+ABN.AS,Netherlands,287
+ABNB,United States,288
+ABQQ,United States,290
+ABR,United States,291
+ABT,United States,292
+ABTX,United States,293
+ABUS,United States,294
+AC,United States,295
+AC.PA,France,296
+ACA,United States,297
+ACA.PA,France,298
+ACAC,United States,299
+ACAD,United States,300
+ACAH,United States,301
+ACAN,United States,302
+ACB,Canada,303
+ACBI,United States,304
+ACC,United States,305
+ACCD,United States,307
+ACCEL.AS,Netherlands,308
+ACCO,United States,309
+ACCYY,France,310
+ACEL,United States,311
+ACER,United States,312
+ACET,United States,313
+ACEV,United States,314
+ACGL,Bermuda,315
+ACH,China,316
+ACHC,United States,317
+ACHI.SW,Switzerland,318
+ACHL,United Kingdom,319
+ACHV,Canada,320
+ACI,United States,322
+ACIC,United States,323
+ACIU,Switzerland,324
+ACIW,United States,325
+ACLS,United States,327
+ACM,United States,328
+ACMR,United States,329
+ACMT,United States,330
+ACMTA,United States,331
+ACN,Ireland,332
+ACNB,United States,333
+ACND,United States,334
+ACOMO.AS,Netherlands,335
+ACOPY,New Zealand,336
+ACOR,United States,337
+ACQR,United States,339
+ACRDF,United States,340
+ACRHF,United States,341
+ACRL.L,United Kingdom,342
+ACRS,United States,343
+ACRX,United States,344
+ACSAY,Spain,346
+ACSO.L,United Kingdom,347
+ACST,Canada,348
+ACT.L,United Kingdom,350
+ACTC,United States,351
+ACTG,United States,352
+ACU,United States,353
+ACUIF,Canada,354
+ACVA,United States,355
+ACX.DE,Germany,357
+ACY,United States,359
+AD.AS,Netherlands,360
+ADA.L,United Kingdom,361
+ADAG,China,362
+ADAP,United Kingdom,363
+ADBE,United States,364
+ADC,United States,365
+ADCT,Switzerland,366
+ADDYY,Germany,367
+ADEN.SW,Switzerland,368
+ADER,United States,369
+ADES.L,United Arab Emirates,370
+ADES,United States,371
+ADEX,United States,372
+ADI,United States,373
+ADIL,United States,375
+ADJ.DE,Luxembourg,376
+ADL.DE,Germany,378
+ADM.L,United Kingdom,379
+ADM,United States,380
+ADMA,United States,381
+ADMP,United States,382
+ADMS,United States,383
+ADMT,United States,384
+ADN,United States,385
+ADN1.DE,Germany,386
+ADNT,Ireland,387
+ADOC,United States,388
+ADOM,United States,389
+ADP,United States,390
+ADP.PA,France,391
+ADPT,United States,392
+ADPXY,Australia,393
+ADRNY,Netherlands,395
+ADRZY,Austria,396
+ADS,United States,397
+ADS.DE,Germany,398
+ADSK,United States,399
+ADT,United States,400
+ADT1.L,United Kingdom,401
+ADTN,United States,402
+ADTX,United States,403
+ADUS,United States,404
+ADV.L,Isle of Man,405
+ADV,United States,406
+ADV.DE,Germany,407
+ADVIC.PA,France,408
+ADVM,United States,409
+ADVN.SW,Switzerland,410
+ADXN,Switzerland,411
+ADXS,United States,412
+ADYEN.AS,Netherlands,413
+ADYEY,Netherlands,414
+AE,United States,416
+AEAC,United States,417
+AEE,United States,419
+AEG.L,United Kingdom,420
+AEGN,United States,421
+AEHL,China,422
+AEHR,United States,423
+AEI,United States,424
+AEIS,United States,425
+AEL,United States,426
+AEM,Canada,427
+AEMD,United States,429
+AENZ,Peru,432
+AEO,United States,433
+AEP,United States,434
+AEP.L,United Kingdom,435
+AER,Ireland,436
+AERI,United States,437
+AES,United States,438
+AESE,United States,439
+AEVA,United States,441
+AEX.L,Ireland,443
+AEXAY,France,444
+AEXG.L,Canada,445
+AEY,United States,446
+AEYE,United States,447
+AEZS,United States,448
+AF.PA,France,449
+AFAP,United States,450
+AFBI,United States,452
+AFC.L,United Kingdom,453
+AFCG,United States,454
+AFG,United States,455
+AFHP.L,United Kingdom,456
+AFI,United States,457
+AFIB,United States,458
+AFIN,United States,459
+AFL,United States,460
+AFM.L,United Kingdom,461
+AFMD,Germany,462
+AFRM,United States,463
+AFTPY,Australia,464
+AFX.L,United Kingdom,465
+AFX.DE,Germany,466
+AFYA,Brazil,467
+AG,Canada,468
+AG1.DE,Germany,469
+AGAC,United States,470
+AGBA,Hong Kong,471
+AGC,United States,473
+AGCB,United States,474
+AGCO,United States,475
+AGE,United States,476
+AGEN,United States,479
+AGESY,Belgium,481
+AGFS,United States,483
+AGFX.L,United Kingdom,484
+AGFY,United States,485
+AGGR,United States,488
+AGIO,United States,490
+AGK.L,United Kingdom,491
+AGL,United States,492
+AGLE,United States,493
+AGLXY,Australia,494
+AGM,United States,495
+AGM.L,United Kingdom,496
+AGMH,Hong Kong,498
+AGN.AS,Netherlands,499
+AGNC,United States,500
+AGO,Bermuda,501
+AGOL,United States,502
+AGR,United States,503
+AGR,United States,504
+AGR.L,United Kingdom,505
+AGRO,Luxembourg,506
+AGRO,Luxembourg,507
+AGRPY,South Africa,508
+AGRX,United States,510
+AGS,United States,511
+AGS,United States,512
+AGTA.L,Mozambique,514
+AGTC,United States,515
+AGTI,United States,516
+AGX,United States,517
+AGY.L,United Kingdom,518
+AGYS,United States,519
+AHAC,United States,520
+AHC,United States,521
+AHCHY,China,522
+AHCO,United States,523
+AHEXY,Switzerland,524
+AHKSY,Japan,525
+AHPI,United States,527
+AHT,United States,528
+AHT.L,United Kingdom,529
+AI.PA,France,530
+AI,United States,531
+AIAGY,Germany,532
+AIG,United States,536
+AIH,China,546
+AIHS,China,547
+AIKI,United States,548
+AIM,United States,549
+AIMC,United States,550
+AIN,United States,551
+AINC,United States,552
+AINV,United States,553
+AIQUY,France,554
+AIR.PA,Netherlands,555
+AIR.DE,Netherlands,556
+AIR,United States,557
+AIR.L,United Kingdom,558
+AIRC,United States,559
+AIRG,United States,561
+AIRI,United States,562
+AIRT,United States,563
+AIT,United States,564
+AIV,United States,565
+AIXA.DE,Germany,566
+AIZ,United States,567
+AJAX,United States,568
+AJB.L,United Kingdom,569
+AJG,United States,570
+AJINY,Japan,572
+AJRD,United States,575
+AJX,United States,576
+AKA.PA,Belgium,577
+AKABY,Denmark,578
+AKAM,United States,579
+AKBA,United States,580
+AKBTY,Turkey,581
+AKE.PA,France,582
+AKIC,United States,583
+AKOM,United States,586
+AKRO,United States,587
+AKTS,United States,588
+AKTX,United Kingdom,589
+AKUS,United States,590
+AKYA,United States,591
+AKZA.AS,Netherlands,592
+AKZOY,Netherlands,593
+AL,United States,594
+ALAC,Hong Kong,595
+ALB,United States,597
+ALBA.L,United Kingdom,598
+ALBO,United States,599
+ALBY,United States,600
+ALC,Switzerland,601
+ALC,Switzerland,602
+ALC.SW,Switzerland,603
+ALCAR.PA,France,604
+ALCO,United States,605
+ALD.PA,France,606
+ALDX,United States,607
+ALE,United States,608
+ALEC,United States,609
+ALEUP.PA,France,610
+ALEX,United States,611
+ALF,United States,612
+ALFA.L,United Kingdom,614
+ALFEN.AS,Netherlands,615
+ALFVY,Sweden,616
+ALG,United States,617
+ALGBE.PA,France,619
+ALGM,United States,620
+ALGN,United States,621
+ALGS,United States,622
+ALGT,United States,623
+ALGW.L,United Kingdom,624
+ALHC,United States,625
+ALHGO.PA,United Kingdom,626
+ALHRS.PA,France,627
+ALIM,United States,628
+ALINN.PA,France,629
+ALIZY,Germany,630
+ALJJ,United States,631
+ALK,United States,632
+ALKEY.PA,France,633
+ALKS,Ireland,634
+ALKT,United States,635
+ALL,United States,636
+ALLE,Ireland,637
+ALLFG.AS,United Kingdom,638
+ALLGO.PA,France,639
+ALLK,United States,640
+ALLN.SW,Switzerland,641
+ALLO,United States,642
+ALLT,Israel,643
+ALLY,United States,644
+ALM.L,United States,646
+ALMC,United States,647
+ALMDP.PA,France,648
+ALNA,United States,649
+ALNPY,Japan,650
+ALNY,United States,651
+ALO.PA,France,652
+ALOT,United States,653
+ALPHE.PA,France,654
+ALPMY,Japan,655
+ALPN,United States,656
+ALPP,United States,657
+ALRIB.PA,France,659
+ALRM,United States,660
+ALRN,United States,661
+ALRS,United States,662
+ALS.L,United Kingdom,663
+ALSK,United States,664
+ALSMY,France,665
+ALSN,United States,666
+ALSN.SW,Switzerland,667
+ALT,United States,668
+ALT.L,United Kingdom,669
+ALTA,United States,670
+ALTG,United States,671
+ALTM,United States,672
+ALTN.L,United Kingdom,673
+ALTO,United States,674
+ALTR,United States,675
+ALTU,United States,676
+ALU.L,United Kingdom,677
+ALUS,Cayman Islands,679
+ALV,Sweden,680
+ALV.DE,Germany,681
+ALVR,United States,682
+ALVTX.PA,France,683
+ALWF.PA,France,684
+ALX,United States,685
+ALXN,United States,686
+ALXO,United States,687
+AM,United States,689
+AM.PA,France,690
+AM3D.DE,Germany,691
+AMADY,Spain,692
+AMAL,United States,694
+AMAO,United States,696
+AMAT,United States,698
+AMBA,United States,699
+AMBBY,Denmark,700
+AMBC,United States,701
+AMBK,United States,702
+AMBO,China,703
+AMBZ,United States,704
+AMC,United States,705
+AMC.L,British Virgin Islands,706
+AMCR,Switzerland,707
+AMCT,United States,708
+AMCX,United States,709
+AMD.DE,United States,710
+AMD,United States,711
+AME,United States,714
+AMED,United States,715
+AMEH,United States,716
+AMEN,United States,718
+AMFC,United States,719
+AMG,United States,720
+AMG.AS,Netherlands,721
+AMGN,United States,722
+AMGO.L,United Kingdom,723
+AMH,United States,724
+AMHC,United States,725
+AMIGY,United Kingdom,726
+AMK,United States,727
+AMKBY,Denmark,728
+AMKR,United States,729
+AML.L,United Kingdom,730
+AMLM,United States,731
+AMN,United States,733
+AMNB,United States,734
+AMNF,United States,735
+AMO.L,United Kingdom,736
+AMOI.L,British Virgin Islands,737
+AMOT,United States,738
+AMOV,Mexico,739
+AMP,United States,740
+AMPE,United States,741
+AMPG,United States,742
+AMPH,United States,743
+AMPI,United States,744
+AMPY,United States,745
+AMR,United States,746
+AMRB,United States,747
+AMRC,United States,748
+AMRK,United States,749
+AMRN,Ireland,750
+AMRS,United States,751
+AMRX,United States,752
+AMS.L,United Kingdom,753
+AMS,United States,754
+AMS,United States,755
+AMS.SW,Austria,756
+AMSC,United States,757
+AMSF,United States,758
+AMSIY,South Africa,759
+AMSSY,Austria,760
+AMST,United States,761
+AMSWA,United States,762
+AMT,United States,763
+AMTB,United States,764
+AMTBB,United States,765
+AMTE.L,United Kingdom,766
+AMTI,United States,767
+AMTX,United States,768
+AMUN.PA,France,769
+AMWD,United States,770
+AMWL,United States,771
+AMX,Mexico,772
+AMYT,Ireland,773
+AMYT.L,Ireland,774
+AMZ.DE,United States,775
+AMZN,United States,779
+AN,United States,781
+ANAB,United States,783
+ANAC,United States,784
+ANAT,United States,785
+ANCR.L,United Kingdom,786
+ANDA,Colombia,787
+ANDE,United States,788
+ANDR,United States,789
+ANET,United States,791
+ANF,United States,792
+ANG.L,United Kingdom,793
+ANGI,United States,794
+ANGN,United States,795
+ANGO,United States,796
+ANGPY,South Africa,797
+ANGS.L,United Kingdom,798
+ANIC.L,Isle of Man,799
+ANIK,United States,801
+ANIOY,Spain,802
+ANIP,United States,803
+ANIX,United States,804
+ANNX,United States,805
+ANPC,China,806
+ANPDY,China,807
+ANSLY,Australia,808
+ANSS,United States,809
+ANTE,China,810
+ANTM,United States,811
+ANTO.L,United Kingdom,812
+ANVS,United States,813
+ANX.L,United Kingdom,815
+ANY,Canada,816
+ANZBY,Australia,817
+ANZU,United States,818
+AO.L,United Kingdom,819
+AOF.DE,Germany,820
+AOM.L,United Kingdom,822
+AON,Ireland,823
+AONE,United States,824
+AONNY,Japan,825
+AOS,United States,826
+AOSL,United States,827
+AOUT,United States,828
+AOZOY,Japan,830
+AP,United States,831
+APA,United States,832
+APAM.AS,Luxembourg,833
+APAM,United States,834
+APC.DE,United States,836
+APD,United States,837
+APDN,United States,838
+APEI,United States,839
+APELY,Japan,840
+APEN,United States,841
+APF.L,United Kingdom,843
+APG,United States,844
+APGB,United States,845
+APH.L,United Kingdom,846
+APH,United States,847
+API,China,848
+APLE,United States,849
+APLO,United States,850
+APLS,United States,851
+APLT,United States,853
+APM,United Kingdom,854
+APNHY,South Africa,855
+APO,United States,856
+APOG,United States,857
+APOP,Israel,858
+APP.L,United Kingdom,859
+APP,United States,860
+APPF,United States,861
+APPH,United States,862
+APPN,United States,863
+APPS,United States,864
+APQ.L,Guernsey,865
+APR,United States,866
+APRE,United States,867
+APRN,United States,868
+APSG,United States,869
+APT,Canada,870
+APTD.L,United Kingdom,871
+APTL,United States,872
+APTO,Canada,873
+APTS,United States,874
+APTV,Ireland,875
+APTX,United States,876
+APVO,United States,877
+APWC,Taiwan,878
+APXT,United States,879
+APYX,United States,880
+AQB,United States,881
+AQMS,United States,882
+AQN,Canada,883
+AQSG.L,United Kingdom,884
+AQSP,United States,885
+AQST,United States,886
+AQUA,United States,887
+AQX.L,United Kingdom,888
+AR,United States,889
+ARAV,United States,890
+ARAY,United States,891
+ARB.L,United Kingdom,892
+ARBB.L,United Kingdom,893
+ARBG,United States,894
+ARBV,United States,895
+ARC,United States,896
+ARCAD.AS,Netherlands,897
+ARCB,United States,898
+ARCC,United States,899
+ARCE,Brazil,900
+ARCH,United States,901
+ARCO,Uruguay,902
+ARCT,United States,903
+ARD,Luxembourg,904
+ARDS,United States,905
+ARDX,United States,906
+ARE,United States,907
+ARE.L,United Kingdom,908
+AREC,United States,909
+ARES,United States,910
+ARG.L,Falkland Islands,911
+ARGO,Bermuda,912
+ARGX,Netherlands,913
+ARGX,Netherlands,914
+ARHN,United States,915
+ARI,United States,916
+ARIX.L,United Kingdom,917
+ARKAY,France,918
+ARKO,United States,919
+ARKR,United States,920
+ARL,United States,921
+ARL.DE,Germany,922
+ARLO,United States,923
+ARLP,United States,924
+ARMK,United States,925
+ARMP,United States,926
+ARNA,United States,927
+ARNC,United States,928
+ARO.L,Ukraine,929
+AROC,United States,930
+ARON.SW,Switzerland,931
+AROW,United States,932
+ARPO,United States,933
+ARQT,United States,934
+ARR,United States,936
+ARRW,United States,937
+ARRY,United States,938
+ARS.L,Australia,939
+ARTL,United States,940
+ARTNA,United States,941
+ARTNB,United States,942
+ARTW,United States,943
+ARVL,Luxembourg,944
+ARVN,United States,945
+ARW.L,United Kingdom,946
+ARW,United States,947
+ARWR,United States,948
+ARXRF,Canada,949
+ARYA,United States,950
+ARYD,United States,951
+ARZGY,Italy,952
+ASAI.L,Netherlands,953
+ASAN,United States,954
+ASAQ,United States,955
+ASAX,United States,956
+ASAZY,Sweden,957
+ASB,United States,958
+ASBFY,United Kingdom,959
+ASC,Bermuda,960
+ASC.L,United Kingdom,961
+ASCCY,Japan,962
+ASCL.L,United Kingdom,963
+ASEKY,Japan,966
+ASGLY,Japan,968
+ASGN,United States,969
+ASH,United States,970
+ASHM.L,United Kingdom,971
+ASHTY,United Kingdom,972
+ASIX,United States,975
+ASL.DE,Germany,976
+ASLE,United States,978
+ASLN,Singapore,980
+ASM.AS,Netherlands,981
+ASMB,United States,982
+ASML,Netherlands,983
+ASML.AS,Netherlands,984
+ASMVY,Hong Kong,985
+ASND,Denmark,986
+ASO,United States,987
+ASOMY,United Kingdom,988
+ASOZY,Poland,989
+ASPC,United States,990
+ASPL,Singapore,992
+ASPN,United States,994
+ASPS,Luxembourg,995
+ASPU,United States,996
+ASR,Mexico,997
+ASRNL.AS,Netherlands,998
+ASRT,United States,999
+ASRV,United States,1000
+AST.L,United Kingdom,1001
+ASTC,United States,1002
+ASTE,United States,1003
+ASTO.L,United Kingdom,1004
+ASTS,United States,1005
+ASUR,United States,1006
+ASX,Taiwan,1007
+ASXC,United States,1008
+ASXFY,Australia,1009
+ASY.L,United Kingdom,1010
+ASYS,United States,1011
+ASZ,United States,1012
+AT1.DE,Luxembourg,1013
+ATA.PA,France,1015
+ATAC,United States,1016
+ATAQ,United States,1017
+ATASY,Italy,1018
+ATC,United Kingdom,1019
+ATCN,United States,1020
+ATCO,United Kingdom,1021
+ATCX,United States,1022
+ATDRY,United Kingdom,1023
+ATE.PA,France,1024
+ATEC,United States,1026
+ATEN,United States,1027
+ATER,United States,1028
+ATEX,United States,1029
+ATEYY,Japan,1030
+ATG.L,United Kingdom,1031
+ATGE,United States,1032
+ATGN,United States,1033
+ATH,Bermuda,1034
+ATHA,United States,1035
+ATHE,Australia,1036
+ATHM,China,1037
+ATHX,United States,1039
+ATI,United States,1040
+ATIF,United States,1041
+ATKR,United States,1042
+ATLC,United States,1043
+ATLCY,Sweden,1044
+ATLKY,Sweden,1045
+ATLO,United States,1046
+ATM.L,Guernsey,1047
+ATMA.L,British Virgin Islands,1048
+ATMR,United States,1049
+ATNF,United States,1050
+ATNI,United States,1051
+ATNM,United States,1052
+ATNX,United States,1053
+ATO,United States,1054
+ATO.PA,France,1055
+ATOM,United States,1056
+ATOS,United States,1057
+ATQT.L,United Kingdom,1058
+ATR,United States,1059
+ATRA,United States,1061
+ATRC,United States,1062
+ATRI,United States,1063
+ATRO,United States,1064
+ATROB,United States,1065
+ATRS,United States,1066
+ATSG,United States,1069
+ATTO,Luxembourg,1073
+ATUS,United States,1074
+ATUSF,Canada,1075
+ATVI,United States,1076
+ATVK,United States,1077
+ATXI,United States,1078
+ATYM.L,Cyprus,1080
+AU,South Africa,1081
+AUB,United States,1082
+AUBN,United States,1083
+AUCOY,Cyprus,1085
+AUD,United States,1086
+AUDC,Israel,1087
+AUG.L,United Kingdom,1089
+AUGR.PA,France,1091
+AUMN,United States,1092
+AUOTY,Taiwan,1093
+AUPH,Canada,1094
+AURC,United Kingdom,1095
+AUS,United States,1096
+AUTG.L,United Kingdom,1097
+AUTL,United Kingdom,1098
+AUTN.SW,Switzerland,1099
+AUTO.L,United Kingdom,1100
+AUTO,United States,1101
+AUUD,United States,1102
+AUVI,United States,1103
+AUY,Canada,1104
+AV.L,United Kingdom,1105
+AVA,United States,1108
+AVAH,United States,1109
+AVAL,Colombia,1110
+AVAN,Cayman Islands,1111
+AVAP.L,Singapore,1112
+AVAV,United States,1113
+AVB,United States,1114
+AVBH,United States,1115
+AVCO,United States,1116
+AVCT,United States,1117
+AVD,United States,1118
+AVDL,Ireland,1119
+AVEO,United States,1120
+AVG.L,United Kingdom,1121
+AVGO,United States,1122
+AVGR,United States,1123
+AVGR,United States,1124
+AVHNY,Belgium,1125
+AVHOQ,Colombia,1126
+AVID,United States,1127
+AVIFY,Thailand,1128
+AVIR,United States,1129
+AVLNF,Canada,1130
+AVLR,United States,1131
+AVNS,United States,1132
+AVNT,United States,1133
+AVNW,United States,1134
+AVO,United States,1135
+AVON.L,United Kingdom,1136
+AVRO,United States,1137
+AVST.L,Czech Republic,1138
+AVT,United States,1139
+AVTR,United States,1140
+AVTX.AS,Netherlands,1141
+AVV.L,United Kingdom,1142
+AVXL,United States,1143
+AVY,United States,1144
+AVYA,United States,1145
+AWCMY,Australia,1146
+AWH,United States,1148
+AWI,United States,1149
+AWK,United States,1150
+AWR,United States,1151
+AWRE,United States,1152
+AWX,United States,1154
+AX,United States,1155
+AXAHY,France,1156
+AXAS,United States,1157
+AXDX,United States,1158
+AXGN,United States,1159
+AXL,United States,1160
+AXLA,United States,1161
+AXNX,United States,1162
+AXON,United States,1163
+AXP,United States,1164
+AXR,United States,1165
+AXS,Bermuda,1167
+AXSM,United States,1168
+AXTA,United States,1169
+AXTI,United States,1170
+AXU,Canada,1171
+AY,United Kingdom,1172
+AYAG,China,1173
+AYALY,Philippines,1174
+AYI,United States,1175
+AYLA,Israel,1176
+AYM.L,United Kingdom,1177
+AYRO,United States,1178
+AYSI,Australia,1179
+AYTU,United States,1180
+AYX,United States,1181
+AZEK,United States,1182
+AZIHY,Italy,1183
+AZN,United Kingdom,1185
+AZN.L,United Kingdom,1186
+AZO,United States,1187
+AZPN,United States,1188
+AZRE,India,1189
+AZRX,United States,1190
+AZUL,Brazil,1191
+AZYO,United States,1192
+AZZ,United States,1193
+B,United States,1194
+B4B.DE,Germany,1195
+B5A.DE,Germany,1196
+BA,United States,1197
+BAB.L,United Kingdom,1200
+BABA,China,1202
+BAC,United States,1204
+BAER.SW,Switzerland,1205
+BAESY,United Kingdom,1207
+BAG.L,United Kingdom,1209
+BAH,United States,1210
+BAK,Brazil,1211
+BAKK.L,United Kingdom,1212
+BALN.SW,Switzerland,1213
+BALY,United States,1215
+BAM,Canada,1216
+BAMNB.AS,Netherlands,1217
+BANB.SW,Switzerland,1218
+BANC,United States,1219
+BAND,United States,1220
+BANF,United States,1221
+BANI,United States,1222
+BANR,United States,1223
+BANT,United States,1224
+BANX,United States,1225
+BAOS,China,1226
+BAP,Peru,1227
+BAR.L,United Kingdom,1229
+BARC.L,United Kingdom,1230
+BARK.L,United Kingdom,1231
+BARN.SW,Switzerland,1232
+BAS.DE,Germany,1233
+BASFY,Germany,1237
+BATL,United States,1239
+BATS.L,United Kingdom,1240
+BAX,United States,1242
+BAYN.DE,Germany,1243
+BAYRY,Germany,1244
+BB,Canada,1245
+BBAR,Argentina,1247
+BBB.L,United Kingdom,1248
+BBBK,United States,1249
+BBBY,United States,1250
+BBCP,United States,1251
+BBD,Brazil,1252
+BBDC,United States,1253
+BBDO,Brazil,1254
+BBED.AS,Netherlands,1255
+BBGI,United States,1257
+BBI,United States,1260
+BBIG,United States,1261
+BBIO,United States,1263
+BBKCF,Canada,1264
+BBL,Australia,1265
+BBQ,United States,1268
+BBSI,United States,1269
+BBSN.L,United Kingdom,1270
+BBVA,Spain,1274
+BBVA,Spain,1275
+BBW,United States,1276
+BBY.L,United Kingdom,1277
+BBY,United States,1278
+BC,United States,1279
+BC8.DE,Germany,1280
+BCAB,United States,1281
+BCAC,United States,1282
+BCAL,United States,1283
+BCAT,United States,1285
+BCBP,United States,1286
+BCC,United States,1287
+BCDA,United States,1288
+BCE,Canada,1289
+BCEI,United States,1290
+BCEL,United States,1291
+BCH,Chile,1292
+BCLI,United States,1297
+BCML,United States,1298
+BCN.L,United Kingdom,1299
+BCNAY,Belgium,1300
+BCO,United States,1301
+BCOR,United States,1304
+BCOV,United States,1305
+BCOW,United States,1306
+BCPC,United States,1307
+BCRX,United States,1309
+BCS,United Kingdom,1310
+BCSF,United States,1312
+BCTF,United States,1314
+BCTG,United States,1315
+BCTX,Canada,1316
+BCUCY,Italy,1317
+BCVN.SW,Switzerland,1318
+BCYC,United Kingdom,1319
+BCYP,United States,1320
+BDC,United States,1321
+BDEV.L,United Kingdom,1322
+BDL,United States,1323
+BDN,United States,1324
+BDNNY,Sweden,1325
+BDORY,Brazil,1326
+BDR,United States,1327
+BDRFY,Germany,1328
+BDSI,United States,1329
+BDSX,United States,1330
+BDT.DE,Germany,1331
+BDTX,United States,1332
+BDVSY,South Africa,1333
+BDX,United States,1334
+BE,United States,1335
+BEAM,United States,1337
+BEAN.SW,Switzerland,1338
+BEBE,United States,1339
+BECN,United States,1340
+BEDU,China,1341
+BEEM,United States,1342
+BEG.L,United Kingdom,1343
+BEI.DE,Germany,1344
+BEKE,China,1346
+BEKN.SW,Switzerland,1347
+BELFA,United States,1348
+BELFB,United States,1349
+BELP,United States,1350
+BEM.L,United Kingdom,1353
+BEN,United States,1355
+BENE,United States,1356
+BEOB,United States,1358
+BEP,Bermuda,1359
+BERK,United States,1361
+BERY,United States,1362
+BESI.AS,Netherlands,1363
+BEST,China,1364
+BEZ.L,United Kingdom,1365
+BFAM,United States,1368
+BFC,United States,1369
+BFI,United States,1370
+BFIN,United States,1371
+BFIT.AS,Netherlands,1372
+BFLBY,Germany,1373
+BFLY,United States,1374
+BFRA,Germany,1375
+BFS,United States,1376
+BFSA.DE,Luxembourg,1377
+BFST,United States,1379
+BG,United States,1380
+BG,United States,1381
+BGAOY,Belgium,1382
+BGCP,United States,1384
+BGEO.L,United Kingdom,1385
+BGFV,United States,1388
+BGI,Canada,1390
+BGNE,China,1392
+BGO.L,United Kingdom,1393
+BGS,United States,1394
+BGSF,United States,1397
+BH,United States,1400
+BHAT,China,1402
+BHB,United States,1403
+BHC,Canada,1404
+BHE,United States,1405
+BHF,United States,1406
+BHLB,United States,1408
+BHP,Australia,1410
+BHP.L,Australia,1411
+BHRB,United States,1412
+BHSE,United States,1413
+BHTG,United States,1414
+BHVN,United States,1415
+BHWB,United States,1416
+BICEY,France,1417
+BIDS.L,United Kingdom,1418
+BIDU,China,1419
+BIFF.L,United Kingdom,1420
+BIG,United States,1421
+BIGC,United States,1422
+BIIB,United States,1423
+BIJ.DE,Germany,1424
+BILB.L,United Kingdom,1425
+BILI,China,1426
+BILL,United States,1427
+BIM.PA,France,1428
+BIMI,China,1429
+BIO,United States,1430
+BIO,United States,1431
+BIO3.DE,Germany,1433
+BIOC,United States,1434
+BIOL,United States,1436
+BIOM.L,United Kingdom,1437
+BION.L,Malaysia,1439
+BIOQ,United States,1440
+BIOT,United States,1441
+BIOX,Argentina,1443
+BIP,Bermuda,1444
+BISI.L,United Kingdom,1445
+BITE,United States,1446
+BIVI,United States,1447
+BJ,United States,1448
+BJRI,United States,1449
+BK,United States,1450
+BKCC,United States,1451
+BKD,United States,1452
+BKE,United States,1453
+BKFG,United States,1454
+BKG.L,United Kingdom,1455
+BKGFY,United Kingdom,1456
+BKGM,United States,1457
+BKH,United States,1458
+BKHYY,Israel,1460
+BKI,United States,1461
+BKNG,United States,1462
+BKOR,United States,1463
+BKR,United States,1464
+BKS.L,United Kingdom,1465
+BKSC,United States,1466
+BKT,United States,1467
+BKTI,United States,1468
+BKU,United States,1469
+BKUH,United States,1470
+BKUT,United States,1471
+BKUTK,United States,1472
+BKW.SW,Switzerland,1473
+BKY.L,Spain,1474
+BKYI,United States,1475
+BL,United States,1476
+BLBD,United States,1477
+BLCM,United States,1478
+BLCT,China,1479
+BLD,United States,1480
+BLDP,Canada,1482
+BLDR,United States,1483
+BLFS,United States,1484
+BLHEY,Switzerland,1485
+BLHK,United States,1486
+BLI,United States,1487
+BLIN,United States,1488
+BLK,United States,1489
+BLKB,United States,1490
+BLL,United States,1491
+BLMN,United States,1492
+BLND.L,United Kingdom,1493
+BLNK,United States,1494
+BLPH,United States,1497
+BLRX,Israel,1498
+BLS.SW,Switzerland,1499
+BLSA,United States,1500
+BLSFY,Australia,1501
+BLTG.L,United Kingdom,1502
+BLTS,United States,1503
+BLUE,United States,1504
+BLUW,United States,1506
+BLV.L,United Kingdom,1507
+BLVN.L,United Kingdom,1508
+BLX,Panama,1509
+BMA,Argentina,1510
+BMBL,United States,1511
+BMBN,United States,1512
+BME.L,Luxembourg,1514
+BMEA,United States,1515
+BMI,United States,1516
+BMK.L,United Kingdom,1517
+BMMJ,Canada,1518
+BMN.L,South Africa,1519
+BMNM,United States,1520
+BMO,Canada,1521
+BMRA,United States,1523
+BMRC,United States,1524
+BMRN,United States,1525
+BMRRY,Luxembourg,1526
+BMS.L,United Kingdom,1527
+BMTC,United States,1528
+BMTX,United States,1529
+BMV.L,British Virgin Islands,1530
+BMW.DE,Germany,1531
+BMW3.DE,Germany,1533
+BMWYY,Germany,1534
+BMY,United States,1535
+BMY.L,United Kingdom,1536
+BN.PA,France,1537
+BNC.L,Spain,1539
+BNCC,United States,1540
+BNCDY,Italy,1541
+BNED,United States,1542
+BNFT,United States,1543
+BNGO,United States,1544
+BNL,United States,1548
+BNP.PA,France,1549
+BNPQY,France,1550
+BNR.DE,Germany,1551
+BNR,China,1552
+BNS,Canada,1553
+BNSO,Hong Kong,1554
+BNTC,United States,1555
+BNTGY,Germany,1556
+BNTX,Germany,1557
+BNZL.L,United Kingdom,1558
+BOAC,United States,1559
+BOAS,United States,1560
+BOCH.L,Cyprus,1561
+BOCH,United States,1562
+BOD.L,Ireland,1563
+BOH,United States,1564
+BOIL.L,United Kingdom,1565
+BOKA.AS,Netherlands,1566
+BOKF,United States,1567
+BOL.PA,France,1568
+BOLS.AS,Netherlands,1569
+BOLT,United States,1570
+BOMN,United States,1571
+BOO.L,United Kingdom,1572
+BOOM.L,Jersey,1573
+BOOM,United States,1574
+BOOT.L,United Kingdom,1575
+BOOT,United States,1576
+BOR.L,United Kingdom,1577
+BOREF,Gibraltar,1578
+BORR,Bermuda,1579
+BORT,United States,1580
+BOSC,Israel,1581
+BOSS.DE,Germany,1582
+BOSSY,Germany,1583
+BOTB.L,United Kingdom,1584
+BOTJ,United States,1585
+BOWL.L,United Kingdom,1586
+BOWX,United States,1587
+BOX,United States,1588
+BOXL,United States,1589
+BOY.L,United Kingdom,1590
+BOZTY,Sweden,1591
+BP.L,United Kingdom,1592
+BP,United Kingdom,1593
+BPC.L,Isle of Man,1597
+BPFH,United States,1600
+BPMC,United States,1601
+BPOP,United States,1602
+BPOSY,Belgium,1604
+BPRN,United States,1605
+BPTH,United States,1607
+BPTS,France,1608
+BPY,Bermuda,1609
+BPYU,United States,1610
+BQ,China,1611
+BR,United States,1612
+BRBR,United States,1613
+BRBS,United States,1614
+BRBW,United States,1615
+BRBY.L,United Kingdom,1616
+BRC,United States,1617
+BRCK.L,United Kingdom,1618
+BRDCY,Japan,1619
+BREE.L,Jersey,1621
+BRES.L,United Kingdom,1623
+BREZ,United States,1625
+BRFS,Brazil,1627
+BRID,United States,1630
+BRK.L,United Kingdom,1632
+BRKL,United States,1635
+BRKR,United States,1636
+BRKS,United States,1637
+BRLI,China,1639
+BRLIU,China,1640
+BRLXF,Canada,1641
+BRMK,United States,1642
+BRN,United States,1643
+BRNL.AS,Netherlands,1645
+BRO,United States,1647
+BROG,United Arab Emirates,1648
+BRP,United States,1649
+BRPA,United States,1650
+BRPM,United States,1651
+BRQS,China,1652
+BRRE,United States,1653
+BRSD.L,Israel,1655
+BRSD.L,Israel,1656
+BRTHY,Japan,1659
+BRW.L,United Kingdom,1661
+BRX,United States,1663
+BRY,United States,1664
+BSAC,Chile,1665
+BSBK,United States,1666
+BSBR,Brazil,1667
+BSCA,United States,1669
+BSD.L,Israel,1670
+BSEFY,Japan,1671
+BSET,United States,1672
+BSFA.L,United Kingdom,1673
+BSFC,United States,1674
+BSGM,United States,1675
+BSHI,United States,1676
+BSIG,United States,1678
+BSKP.SW,Switzerland,1679
+BSL.DE,Germany,1680
+BSM,United States,1681
+BSMX,Mexico,1682
+BSN,United Kingdom,1683
+BSPA,United States,1684
+BSPE,United Kingdom,1685
+BSQR,United States,1686
+BSRR,United States,1687
+BSVN,United States,1690
+BSY,United States,1692
+BTAI,United States,1694
+BTAQ,Cayman Islands,1695
+BTBT,United States,1696
+BTCM,China,1698
+BTDPY,United Kingdom,1699
+BTG,Canada,1701
+BTI,United Kingdom,1702
+BTLCY,United Kingdom,1703
+BTN,United States,1704
+BTNB,Hong Kong,1705
+BTRS,United States,1706
+BTTR,United States,1707
+BTU,United States,1708
+BTVCY,United Kingdom,1709
+BTWN,Hong Kong,1710
+BTX,United States,1711
+BUCN.SW,Switzerland,1712
+BUD,Belgium,1713
+BUKS,United States,1714
+BUR,Guernsey,1717
+BUR.L,Guernsey,1718
+BURBY,United Kingdom,1719
+BURCA,United States,1720
+BURL,United States,1721
+BUSE,United States,1722
+BUSXD,Canada,1723
+BV,United States,1726
+BVB.DE,Germany,1727
+BVC.L,Israel,1728
+BVFL,United States,1729
+BVHBB,United States,1730
+BVI.PA,France,1731
+BVIC.L,United Kingdom,1732
+BVN,Peru,1733
+BVNRY,Denmark,1734
+BVS,United States,1735
+BVXP.L,United Kingdom,1737
+BVXV,Israel,1738
+BVZN.SW,Switzerland,1739
+BW,United States,1740
+BWA,United States,1741
+BWAC,United States,1742
+BWAY,Israel,1743
+BWB,United States,1744
+BWEN,United States,1745
+BWFG,United States,1746
+BWMN,United States,1748
+BWMX,Mexico,1749
+BWNG.L,United Kingdom,1751
+BWXT,United States,1753
+BWY.L,United Kingdom,1754
+BX,United States,1755
+BXBLY,Australia,1756
+BXC,United States,1757
+BXLC,United States,1758
+BXP,United States,1759
+BXRX,United States,1760
+BXS,United States,1761
+BY,United States,1763
+BYD,United States,1764
+BYDDY,China,1765
+BYFC,United States,1766
+BYG.L,United Kingdom,1767
+BYIT.L,United Kingdom,1768
+BYND,United States,1769
+BYRN,United States,1770
+BYSI,United States,1771
+BYTS,United States,1772
+BYW6.DE,Germany,1773
+BZH,United States,1774
+BZLFY,United Kingdom,1775
+BZT.L,United Kingdom,1776
+BZUN,China,1777
+BZZUY,Italy,1778
+C,United States,1779
+C0M.DE,Germany,1781
+C4XD.L,United Kingdom,1782
+CA.PA,France,1784
+CAAP,Luxembourg,1785
+CAAS,China,1786
+CABA,United States,1787
+CABGY,Denmark,1788
+CABO,United States,1790
+CAC,United States,1791
+CACC,United States,1792
+CACI,United States,1793
+CADE,United States,1794
+CAF,United States,1795
+CAG,United States,1796
+CAH,United States,1797
+CAHC,United States,1798
+CAI,United States,1799
+CAI,United States,1800
+CAJ,Japan,1801
+CAKE,United States,1802
+CAKFY,Germany,1803
+CAL,United States,1804
+CAL.L,United Kingdom,1805
+CALA,United States,1806
+CALB,United States,1807
+CALL.L,United Kingdom,1808
+CALM,United States,1809
+CALT,Sweden,1810
+CALX,United States,1811
+CAM.L,United Kingdom,1812
+CAMB.L,United Kingdom,1813
+CAML.L,United Kingdom,1814
+CAMP,United States,1815
+CAMT,Israel,1816
+CAN,China,1817
+CANF,Israel,1818
+CANG,China,1819
+CAP.PA,France,1820
+CAP,United States,1821
+CAPA,United States,1822
+CAPC.L,United Kingdom,1823
+CAPC,United States,1824
+CAPD.L,Mauritius,1825
+CAPR,United States,1826
+CAR,United States,1827
+CAR.L,United Kingdom,1828
+CARA,United States,1829
+CARD.L,United Kingdom,1830
+CARE,United States,1831
+CARG,United States,1832
+CARR,United States,1833
+CARR.L,United Kingdom,1834
+CARS,United States,1835
+CARV,United States,1836
+CAS,United States,1837
+CASA,United States,1838
+CASH,United States,1840
+CASI,United States,1841
+CASS,United States,1842
+CASY,United States,1843
+CAT,United States,1844
+CATB,United States,1845
+CATC,United States,1846
+CATM,United States,1848
+CATO,United States,1849
+CATY,United States,1850
+CAU.L,United Kingdom,1851
+CAWW,United States,1852
+CAY.L,United Kingdom,1853
+CB,Switzerland,1854
+CBAH,United States,1855
+CBAN,United States,1856
+CBAT,China,1857
+CBAY,United States,1858
+CBB,United States,1859
+CBBT,United States,1860
+CBCZ,United States,1861
+CBD,Brazil,1862
+CBDG.PA,France,1863
+CBFV,United States,1865
+CBG.L,United Kingdom,1866
+CBGPY,United Kingdom,1867
+CBIO,United States,1868
+CBK.DE,Germany,1869
+CBKCQ,United States,1870
+CBKM,United States,1871
+CBLAQ,United States,1872
+CBLI,United States,1873
+CBMB,United States,1874
+CBNK,United States,1876
+CBOE,United States,1877
+CBOX.L,United Kingdom,1878
+CBP.L,United Kingdom,1879
+CBRE,United States,1880
+CBRL,United States,1881
+CBSH,United States,1882
+CBT,United States,1884
+CBTX,United States,1885
+CBU,United States,1886
+CBWTF,Canada,1888
+CBX.L,United Kingdom,1889
+CBZ,United States,1890
+CC,United States,1891
+CCAC,China,1892
+CCAP.L,United Kingdom,1893
+CCAP,United States,1894
+CCB,United States,1895
+CCBC,United States,1896
+CCBG,United States,1897
+CCC.L,United Kingdom,1898
+CCC3.DE,United States,1899
+CCCC,United States,1900
+CCEL,United States,1901
+CCEP,United Kingdom,1902
+CCF,United States,1903
+CCFC,United States,1904
+CCFN,United States,1905
+CCGGY,Ireland,1906
+CCH.L,Switzerland,1907
+CCHGY,Switzerland,1908
+CCHWF,United States,1909
+CCI,United States,1910
+CCIV,United States,1911
+CCJ,Canada,1912
+CCK,United States,1914
+CCL,United States,1915
+CCL.L,United States,1916
+CCLAY,Australia,1917
+CCM,China,1918
+CCMP,United States,1919
+CCNC,China,1920
+CCNE,United States,1921
+CCO,United States,1922
+CCOEY,Japan,1923
+CCOI,United States,1924
+CCOJY,Japan,1925
+CCOM,United States,1926
+CCR.L,Ireland,1928
+CCRC,China,1929
+CCRN,United States,1930
+CCS,United States,1931
+CCT.L,United Kingdom,1932
+CCU,Chile,1933
+CCV,United States,1934
+CCVI,United States,1935
+CCX,United States,1936
+CCXI,United States,1937
+CCZ.L,Australia,1938
+CD,China,1939
+CDAK,United States,1940
+CDAY,United States,1941
+CDE,United States,1942
+CDEV,United States,1943
+CDEVY,Singapore,1944
+CDFF.L,United Kingdom,1945
+CDI.PA,France,1946
+CDK,United States,1947
+CDLX,United States,1948
+CDMO,United States,1949
+CDNA,United States,1950
+CDNS,United States,1951
+CDR,United States,1952
+CDTX,United States,1953
+CDW,United States,1954
+CDXC,United States,1955
+CDXS,United States,1956
+CDZI,United States,1957
+CE,United States,1958
+CE2.DE,Germany,1959
+CEA,China,1960
+CECE,United States,1963
+CEFC,United States,1964
+CEI,United States,1965
+CEIX,United States,1966
+CELC,United States,1967
+CELH,United States,1968
+CELJF,Israel,1969
+CEMI,United States,1971
+CENH,United Kingdom,1972
+CENT,United States,1973
+CENTA,United States,1974
+CENX,United States,1975
+CEPU,Argentina,1977
+CER.L,United Kingdom,1978
+CERC,United States,1979
+CERE,United States,1980
+CERN,United States,1981
+CERT,United States,1983
+CETX,United States,1985
+CEV.DE,Germany,1987
+CEVA,United States,1988
+CEY.L,Jersey,1989
+CF,United States,1990
+CFAC,United States,1991
+CFB,United States,1992
+CFBK,United States,1993
+CFCX,United States,1994
+CFFE,United States,1995
+CFFI,United States,1996
+CFFN,United States,1997
+CFG,United States,1998
+CFIN,United States,1999
+CFIV,United States,2000
+CFMS,United States,2001
+CFNB,United States,2002
+CFOK,United States,2003
+CFPZF,Canada,2004
+CFR.SW,Switzerland,2005
+CFR,United States,2006
+CFRUY,Switzerland,2007
+CFRX,United States,2008
+CFST,United States,2009
+CFV,United States,2010
+CFVI,United States,2011
+CFX,United States,2012
+CFYN.L,United Kingdom,2013
+CG,United States,2014
+CGA,China,2015
+CGBD,United States,2017
+CGC,Canada,2018
+CGEM,United States,2019
+CGEMY,France,2020
+CGEN,Israel,2021
+CGEO.L,Georgia,2022
+CGH.L,Kyrgyzstan,2023
+CGNX,United States,2024
+CGO.L,United Kingdom,2025
+CGRN,United States,2026
+CGS.L,United Kingdom,2027
+CGUSY,France,2029
+CGXYY,China,2031
+CHAQ,United States,2033
+CHAR.L,Guernsey,2034
+CHBAY,Japan,2035
+CHBH,United States,2036
+CHCI,United States,2037
+CHCO,United States,2038
+CHCT,United States,2039
+CHD,United States,2040
+CHDN,United States,2041
+CHDRY,France,2042
+CHE,United States,2043
+CHEF,United States,2044
+CHEK,Israel,2045
+CHEOY,Australia,2046
+CHF.L,United Kingdom,2047
+CHFW,United States,2048
+CHG.L,United Kingdom,2049
+CHGCY,Japan,2051
+CHGG,United States,2052
+CHH,United States,2053
+CHHE,China,2054
+CHK,United States,2056
+CHKP,Israel,2057
+CHMA,United States,2059
+CHMG,United States,2060
+CHNG,United States,2061
+CHNR,Hong Kong,2062
+CHPM,United States,2063
+CHPT,United States,2064
+CHRA,United States,2065
+CHRS,United States,2067
+CHRT.L,United Kingdom,2068
+CHRW,United States,2069
+CHRY.L,United Kingdom,2070
+CHRYY,New Zealand,2071
+CHS,United States,2072
+CHT,Taiwan,2073
+CHTR,United States,2074
+CHUC,United States,2076
+CHUY,United States,2077
+CHWY,United States,2078
+CHX,United States,2079
+CHYHY,Denmark,2080
+CI,United States,2081
+CIA,United States,2082
+CIB,Colombia,2083
+CIBEY,Egypt,2084
+CIBH,United States,2085
+CIBN,United States,2086
+CIBY,United States,2088
+CIC.L,United Kingdom,2089
+CICN.SW,Switzerland,2090
+CIDM,United States,2091
+CIEN,United States,2093
+CIG,Brazil,2094
+CIH,China,2096
+CIHKY,China,2097
+CIM,United States,2098
+CIN.L,United Kingdom,2099
+CINE.L,United Kingdom,2100
+CINF,United States,2101
+CIO,United States,2102
+CIR,United States,2104
+CIR.L,United Kingdom,2105
+CIT,United States,2106
+CIVB,United States,2110
+CIWV,United States,2111
+CIX,United States,2112
+CIZ.L,United Kingdom,2113
+CIZN,United States,2114
+CJJD,China,2115
+CJPRY,Japan,2116
+CKHGY,South Africa,2118
+CKHUY,Hong Kong,2119
+CKN.L,United Kingdom,2120
+CKPT,United States,2121
+CKX,United States,2122
+CL,United States,2123
+CLAA,United States,2124
+CLAR,United States,2125
+CLAS,United States,2126
+CLB.AS,Netherlands,2127
+CLB,Netherlands,2128
+CLBEY,Japan,2129
+CLBK,United States,2130
+CLBS,United States,2131
+CLCGY,South Africa,2132
+CLDB,United States,2134
+CLDR,United States,2136
+CLDT,United States,2137
+CLDX,United States,2138
+CLEU,China,2139
+CLF,United States,2140
+CLFD,United States,2141
+CLG.L,United Kingdom,2142
+CLGN,Israel,2143
+CLGX,United States,2144
+CLH,United States,2145
+CLI.L,United Kingdom,2146
+CLI,United States,2147
+CLIG.L,United Kingdom,2148
+CLII,United States,2149
+CLIM,United States,2150
+CLIN.L,United Kingdom,2151
+CLIR,United States,2152
+CLIS,United States,2153
+CLLNY,Spain,2154
+CLLS,France,2155
+CLN.SW,Switzerland,2158
+CLNE,United States,2159
+CLNN,United States,2160
+CLNY,United States,2162
+CLOK,United States,2163
+CLOV,United States,2164
+CLPBY,Denmark,2165
+CLPHY,Hong Kong,2166
+CLPS,Hong Kong,2167
+CLPT,United States,2168
+CLR,United States,2169
+CLRB,United States,2170
+CLRM,United States,2171
+CLRO,United States,2172
+CLSD,United States,2173
+CLSK,United States,2174
+CLSN,United States,2175
+CLVLY,Australia,2176
+CLVR,United States,2177
+CLVS,United States,2178
+CLVT,United Kingdom,2179
+CLW,United States,2180
+CLWD,United States,2181
+CLWT,Hong Kong,2182
+CLWY,United States,2183
+CLX,United States,2184
+CLX.L,United Kingdom,2185
+CLXT,United States,2186
+CLZNY,Switzerland,2187
+CM,Canada,2188
+CMA,United States,2189
+CMBM,United States,2191
+CMBN.SW,Switzerland,2192
+CMC,United States,2194
+CMCL.L,Jersey,2196
+CMCL,Jersey,2197
+CMCM,China,2198
+CMCO,United States,2199
+CMCSA,United States,2200
+CMCX.L,United Kingdom,2202
+CMD,United States,2203
+CME,United States,2204
+CMET.L,United Kingdom,2205
+CMG,United States,2206
+CMGR,United States,2209
+CMH.L,United Kingdom,2211
+CMI,United States,2213
+CMII,United States,2214
+CMLF,United States,2215
+CMLS,United States,2216
+CMMB,Israel,2217
+CMP,United States,2219
+CMPGY,United Kingdom,2220
+CMPI,United States,2221
+CMPR,Ireland,2222
+CMPS,United Kingdom,2223
+CMRE,Monaco,2224
+CMRS.L,United Kingdom,2225
+CMRX,United States,2226
+CMS,United States,2227
+CMSQY,Australia,2228
+CMT,United States,2229
+CMTL,United States,2230
+CMTV,United States,2231
+CMWAY,Australia,2232
+CNA,United States,2233
+CNA.L,United Kingdom,2234
+CNAF,United States,2235
+CNBA,United States,2236
+CNBB,United States,2237
+CNBKA,United States,2238
+CNBW,United States,2239
+CNBX,United States,2240
+CNBZ,United States,2241
+CNC,United States,2242
+CNCE,United States,2243
+CNCG,United States,2244
+CND,United States,2245
+CNDT,United States,2246
+CNE.L,United Kingdom,2248
+CNET,China,2249
+CNEY,China,2250
+CNF,China,2251
+CNFR,United States,2252
+CNG.L,Cayman Islands,2253
+CNHI,United Kingdom,2254
+CNI,Canada,2255
+CNIC.L,United Kingdom,2256
+CNIG,United States,2257
+CNK,United States,2258
+CNKS.L,United Kingdom,2259
+CNMD,United States,2260
+CNNB,United States,2261
+CNND,United States,2262
+CNNE,United States,2263
+CNO,United States,2264
+CNOB,United States,2265
+CNP,United States,2266
+CNP.PA,France,2267
+CNPAY,France,2268
+CNQ,Canada,2269
+CNR,United States,2270
+CNRD,United States,2271
+CNS,United States,2272
+CNSL,United States,2273
+CNSP,United States,2274
+CNST,United States,2275
+CNTB,China,2276
+CNTG,Germany,2277
+CNTTQ,Canada,2278
+CNTY,United States,2279
+CNX,United States,2280
+CNXN,United States,2282
+CO,Hong Kong,2284
+COA.L,United Kingdom,2285
+COBR.L,United Kingdom,2286
+COCP,United States,2289
+CODA,United States,2290
+CODI,United States,2291
+CODX,United States,2292
+CODYY,France,2293
+COE,China,2294
+COF,United States,2295
+COFS,United States,2298
+COG,United States,2300
+COG.L,United Kingdom,2301
+COGNY,Brazil,2302
+COGT,United States,2303
+COHN,United States,2304
+COHR,United States,2305
+COHU,United States,2306
+COIHY,United Kingdom,2307
+COIN,United States,2308
+COK.DE,Germany,2309
+COKE,United States,2310
+COLB,United States,2312
+COLD,United States,2313
+COLI,United States,2314
+COLL,United States,2315
+COLM,United States,2316
+COM.L,United Kingdom,2318
+COMM,United States,2320
+COMP,United States,2321
+COMS,United States,2322
+CON.DE,Germany,2323
+CONE,United States,2324
+CONN,United States,2325
+CONX,United States,2326
+COO,United States,2327
+COOL,United States,2328
+COOP,United States,2329
+COP,United States,2330
+COP.DE,Germany,2331
+COR,United States,2333
+CORA.L,British Virgin Islands,2334
+CORD.L,Guernsey,2335
+CORE,United States,2336
+CORO.L,United Kingdom,2338
+CORT,United States,2341
+COSM,United States,2343
+COST.L,United Kingdom,2344
+COST,United States,2345
+COTY,United States,2348
+COUP,United States,2350
+COUR,United States,2351
+COUV,United States,2352
+COVA,United States,2353
+COVTY,Germany,2354
+COWN,United States,2355
+CP,Canada,2356
+CPA,Panama,2357
+CPAC,Peru,2358
+CPB,United States,2359
+CPC.L,United Kingdom,2360
+CPE,United States,2361
+CPF,United States,2362
+CPG.L,United Kingdom,2363
+CPHC,United States,2364
+CPHI,China,2365
+CPI.L,United Kingdom,2366
+CPIX,United States,2367
+CPK,United States,2369
+CPKF,United States,2370
+CPNG,South Korea,2371
+CPP.L,United Kingdom,2372
+CPRI,United Kingdom,2373
+CPRT,United States,2374
+CPRX,United States,2375
+CPS,United States,2376
+CPSH,United States,2377
+CPSI,United States,2378
+CPSR,United States,2379
+CPSS,United States,2380
+CPT,United States,2381
+CPTA,United States,2382
+CPTK,United States,2383
+CPTP,United States,2384
+CPUH,United States,2385
+CPX.DE,Germany,2386
+CPX.L,Australia,2387
+CQP,United States,2389
+CR,United States,2390
+CRAI,United States,2391
+CRARY,France,2392
+CRAWA,United States,2393
+CRBN.AS,Netherlands,2394
+CRBP,United States,2395
+CRC.L,Jersey,2396
+CRC,United States,2397
+CRCL.L,United Kingdom,2398
+CRCT,United States,2399
+CRDA.L,United Kingdom,2402
+CRDF,United States,2403
+CREE,United States,2404
+CREG,China,2405
+CREO.L,United Kingdom,2407
+CRESY,Argentina,2408
+CREX,United States,2409
+CRH,Ireland,2410
+CRH.L,Ireland,2411
+CRHC,United States,2412
+CRHKY,Hong Kong,2413
+CRI,United States,2414
+CRIS,United States,2415
+CRK,United States,2416
+CRL.L,United Kingdom,2417
+CRL,United States,2418
+CRLBF,United States,2419
+CRM,United States,2420
+CRMD,United States,2423
+CRMT,United States,2426
+CRMZ,United States,2427
+CRN.L,Ireland,2428
+CRNC,United States,2429
+CRNT,Israel,2430
+CRNX,United States,2431
+CRON,Canada,2432
+CROX,United States,2433
+CRRFY,France,2436
+CRS,United States,2437
+CRSA,United States,2438
+CRSB,United States,2439
+CRSP,Switzerland,2440
+CRSR,United States,2441
+CRSS,United States,2442
+CRST.L,United Kingdom,2443
+CRT,United States,2444
+CRTD,United States,2445
+CRTM.L,United Kingdom,2446
+CRTO,France,2447
+CRTPF,Canada,2448
+CRTX,United States,2449
+CRU,United States,2450
+CRU.L,United Kingdom,2451
+CRUS,United States,2453
+CRV.L,United Kingdom,2454
+CRVL,United States,2455
+CRVS,United States,2456
+CRVW,United States,2457
+CRW.L,United Kingdom,2458
+CRWD,United States,2459
+CRWS,United States,2460
+CRY,United States,2461
+CRZBY,Germany,2462
+CRZY,United States,2464
+CS.PA,France,2465
+CS,Switzerland,2466
+CSBB,United States,2468
+CSBR,United States,2469
+CSCO,United States,2470
+CSCW,United States,2471
+CSFS.L,United Kingdom,2472
+CSGN.SW,Switzerland,2473
+CSGP,United States,2474
+CSGS,United States,2475
+CSII,United States,2478
+CSIOY,Japan,2479
+CSL,United States,2481
+CSLT,United States,2483
+CSN.L,United Kingdom,2484
+CSNVY,Netherlands,2485
+CSOD,United States,2486
+CSP.L,United Kingdom,2487
+CSPI,United States,2489
+CSPR,United States,2490
+CSTA,United States,2493
+CSTE,Israel,2494
+CSTI,United States,2495
+CSTL,United States,2496
+CSTM,France,2497
+CSTR,United States,2498
+CSU,United States,2499
+CSV,United States,2500
+CSVI,United States,2501
+CSWC,United States,2502
+CSWI,United States,2503
+CSX,United States,2504
+CSXXY,Australia,2506
+CTAC,United States,2509
+CTAM,United States,2510
+CTAQ,United States,2511
+CTAS,United States,2512
+CTB,United States,2513
+CTBI,United States,2514
+CTEC.L,United Kingdom,2515
+CTEK,United States,2516
+CTG,United States,2517
+CTGO,United States,2518
+CTH.L,United Kingdom,2519
+CTHR,United States,2520
+CTIB,United States,2521
+CTIC,United States,2522
+CTK,China,2523
+CTLP,United States,2524
+CTLT,United States,2525
+CTMX,United States,2526
+CTO,United States,2527
+CTO.L,United Kingdom,2528
+CTOS,United States,2529
+CTPNV.AS,Netherlands,2530
+CTRE,United States,2531
+CTRM,Cyprus,2532
+CTRN,United States,2533
+CTS,United States,2534
+CTSH,United States,2535
+CTSO,United States,2536
+CTTAY,Germany,2537
+CTUY,United States,2538
+CTVA,United States,2539
+CTXR,United States,2540
+CTXS,United States,2541
+CTYP,United States,2543
+CUB,United States,2545
+CUBE,United States,2546
+CUBI,United States,2547
+CUE,United States,2548
+CUEN,United States,2549
+CUII,Taiwan,2550
+CUK,United States,2551
+CULL,United States,2553
+CULP,United States,2554
+CURI,United States,2555
+CURLF,United States,2556
+CURO,United States,2557
+CURR,United States,2558
+CUSI,United States,2559
+CUTR,United States,2561
+CUZ,United States,2563
+CVA,United States,2564
+CVAC,Germany,2565
+CVBF,United States,2566
+CVCO,United States,2567
+CVCY,United States,2568
+CVEO,United States,2569
+CVET,United States,2570
+CVGI,United States,2571
+CVGW,United States,2572
+CVI,United States,2573
+CVII,United States,2574
+CVLG,United States,2575
+CVLT,United States,2576
+CVLY,United States,2577
+CVM,United States,2578
+CVNA,United States,2579
+CVR,United States,2580
+CVS,United States,2581
+CVSG.L,United Kingdom,2582
+CVSI,United States,2583
+CVU,United States,2584
+CVV,United States,2585
+CVX,United States,2586
+CW,United States,2587
+CWBC,United States,2588
+CWBHF,United States,2589
+CWBK,United States,2590
+CWBR,United States,2591
+CWC.DE,Germany,2592
+CWCO,Cayman Islands,2593
+CWEN,United States,2594
+CWGL,United States,2596
+CWH,United States,2597
+CWK,United States,2598
+CWK.L,United Kingdom,2599
+CWLDY,Australia,2600
+CWR.L,United Kingdom,2601
+CWST,United States,2602
+CWT,United States,2603
+CX,Mexico,2604
+CXDC,China,2607
+CXDO,United States,2608
+CXW,United States,2609
+CYAD,Belgium,2610
+CYAN,United States,2611
+CYBA.L,United Kingdom,2612
+CYBE,United States,2613
+CYBQY,Japan,2615
+CYBR,Israel,2618
+CYBR,Israel,2619
+CYCC,United States,2620
+CYCN,United States,2621
+CYD,Singapore,2622
+CYDVF,Canada,2623
+CYFL,United States,2624
+CYGIY,Japan,2626
+CYH,United States,2627
+CYR.DE,Germany,2629
+CYRN,Israel,2630
+CYRX,United States,2631
+CYTH,United States,2634
+CYTK,United States,2635
+CYTR,United States,2636
+CZBC,United States,2637
+CZBS,United States,2638
+CZBT,United States,2639
+CZFS,United States,2640
+CZMWY,Germany,2641
+CZN.L,United Kingdom,2642
+CZNC,United States,2643
+CZNL,United States,2644
+CZR,United States,2645
+CZWI,United States,2646
+D,United States,2648
+D4T4.L,United Kingdom,2649
+DAC,Greece,2654
+DADA,China,2655
+DAE.SW,Switzerland,2656
+DAFL,United States,2657
+DAI.DE,Germany,2659
+DAIO,United States,2660
+DAKT,United States,2661
+DAL,United States,2662
+DAN,United States,2663
+DANOY,France,2664
+DAO,China,2665
+DAR,United States,2667
+DARE,United States,2668
+DARK.L,United Kingdom,2669
+DASH,United States,2670
+DASTY,France,2671
+DAVA,United Kingdom,2672
+DB1.DE,Germany,2673
+DBAN.DE,Germany,2674
+DBD,United States,2675
+DBDR,United States,2676
+DBI,United States,2678
+DBK.DE,Germany,2679
+DBOEY,Germany,2680
+DBSDY,Singapore,2684
+DBTX,United States,2685
+DBVT,France,2686
+DBX,United States,2687
+DCBO,Canada,2698
+DCC.L,Ireland,2699
+DCI,United States,2700
+DCN.SW,Switzerland,2702
+DCO,United States,2703
+DCOM,United States,2704
+DCP,United States,2705
+DCPH,United States,2706
+DCRB,United States,2707
+DCRN,United States,2709
+DCT,United States,2710
+DCTA.L,Italy,2711
+DCTH,United States,2712
+DD,United States,2714
+DDD,United States,2715
+DDDD.L,United Kingdom,2716
+DDMX,Mexico,2718
+DDOG,United States,2719
+DDS,United States,2720
+DE,United States,2722
+DEA,United States,2723
+DEC.PA,France,2724
+DECK,United States,2726
+DEH,Hong Kong,2727
+DEI,United States,2728
+DELKY,Israel,2731
+DELL,United States,2732
+DELT.L,United Kingdom,2733
+DEN,United States,2735
+DENN,United States,2736
+DEO,United Kingdom,2737
+DEQ.DE,Germany,2738
+DESP,Argentina,2741
+DEST.L,United Kingdom,2742
+DEV.L,United Kingdom,2743
+DEZ.DE,Germany,2745
+DFCH.L,United Kingdom,2746
+DFFN,United States,2750
+DFH,United States,2751
+DFHT,United States,2752
+DFIN,United States,2753
+DFKCY,Japan,2754
+DFNS,United States,2755
+DFPH,United States,2757
+DFS,United States,2758
+DFS.L,United Kingdom,2759
+DFV.DE,Germany,2760
+DG.PA,France,2761
+DG,United States,2762
+DGE.L,United Kingdom,2763
+DGI9.L,United Kingdom,2764
+DGICA,United States,2765
+DGICB,United States,2766
+DGII,United States,2767
+DGLY,United States,2769
+DGNR,United States,2771
+DGNS,United States,2772
+DGNU,United States,2773
+DGX,United States,2779
+DHBC,United States,2781
+DHCA,United States,2782
+DHER.DE,Germany,2783
+DHHC,United States,2784
+DHI,United States,2785
+DHIL,United States,2786
+DHR,United States,2787
+DHT,Bermuda,2789
+DHX,United States,2790
+DIA.L,United Kingdom,2792
+DIC.DE,Germany,2793
+DIFTY,Japan,2795
+DIM.PA,France,2799
+DIMC,United States,2800
+DIN,United States,2801
+DIOD,United States,2802
+DIS,United States,2803
+DISCA,United States,2805
+DISCB,United States,2806
+DISCK,United States,2807
+DISH,United States,2808
+DISH.L,Jersey,2809
+DIT,United States,2810
+DJCO,United States,2812
+DK,United States,2814
+DKE.L,United Kingdom,2815
+DKILY,Japan,2816
+DKL.L,Cyprus,2817
+DKNG,United States,2818
+DKS,United States,2819
+DKSH.SW,Switzerland,2820
+DLA,United States,2821
+DLAKY,Germany,2822
+DLAR.L,United Kingdom,2823
+DLB,United States,2824
+DLCA,United States,2825
+DLG.L,United Kingdom,2826
+DLG.DE,United Kingdom,2827
+DLHC,United States,2828
+DLN.L,United Kingdom,2829
+DLPN,United States,2830
+DLR,United States,2831
+DLTH,United States,2832
+DLTR,United States,2833
+DLX,United States,2834
+DM,United States,2835
+DMAC,United States,2836
+DMGGF,Canada,2837
+DMGT.L,United Kingdom,2838
+DMKBA,United States,2839
+DMLRY,Germany,2840
+DMP.DE,Germany,2841
+DMRC,United States,2842
+DMS,United States,2843
+DMTK,United States,2844
+DMYI,United States,2845
+DMYQ,United States,2846
+DMZPY,Australia,2847
+DNB,United States,2850
+DNHBY,Norway,2852
+DNIYY,Italy,2853
+DNKEY,Denmark,2855
+DNL.L,United Kingdom,2856
+DNLI,United States,2857
+DNLM.L,United Kingdom,2858
+DNN,Canada,2860
+DNNGY,Denmark,2861
+DNOW,United States,2862
+DNPLY,Japan,2863
+DNTUY,Japan,2864
+DNZ,United States,2865
+DNZOY,Japan,2866
+DOC,United States,2868
+DOC,United States,2869
+DOCN,United States,2870
+DOCS.L,United Kingdom,2871
+DOCU,United States,2873
+DOGZ,China,2874
+DOKA.SW,Switzerland,2875
+DOM.L,United Kingdom,2876
+DOMO,United States,2877
+DOOR,United States,2878
+DORM,United States,2880
+DOTD.L,United Kingdom,2881
+DOV,United States,2882
+DOW,United States,2883
+DOX,United States,2884
+DOYU,China,2885
+DPEU.L,Netherlands,2888
+DPH.L,United Kingdom,2889
+DPLM.L,United Kingdom,2890
+DPP.L,Poland,2891
+DPSGY,Germany,2892
+DPW.DE,Germany,2893
+DPW,United States,2894
+DPZ,United States,2898
+DQ,China,2899
+DQJCY,Japan,2900
+DRD,South Africa,2901
+DRE,United States,2903
+DRI,United States,2904
+DRI.DE,Germany,2905
+DRIO,United States,2906
+DRNA,United States,2908
+DRQ,United States,2909
+DRRX,United States,2910
+DRVN,United States,2912
+DRW3.DE,Germany,2913
+DRW8.DE,Germany,2914
+DRX.L,United Kingdom,2915
+DS,United States,2916
+DSAC,Hong Kong,2917
+DSCSY,Japan,2918
+DSCV.L,United Kingdom,2919
+DSDVY,Denmark,2920
+DSEY,United Kingdom,2921
+DSG.L,United Kingdom,2922
+DSGN,United States,2923
+DSGT,Canada,2924
+DSGX,Canada,2925
+DSKE,United States,2926
+DSM.AS,Netherlands,2928
+DSNKY,Japan,2929
+DSP,United States,2930
+DSPG,United States,2931
+DSS,United States,2932
+DSSI,United States,2933
+DSWL,Macau,2934
+DSX,Greece,2935
+DSY.PA,France,2936
+DT,United States,2937
+DTCWY,Germany,2938
+DTE.DE,Germany,2939
+DTE,United States,2940
+DTEA,Canada,2941
+DTEGY,Germany,2943
+DTIL,United States,2944
+DTOC,United States,2945
+DTRK,United States,2946
+DTRL,United States,2947
+DTSS,China,2948
+DTY.L,United Kingdom,2950
+DUE.DE,Germany,2951
+DUFN.SW,Switzerland,2952
+DUFRY,Switzerland,2953
+DUK,United States,2954
+DUKE.L,United Kingdom,2955
+DUNE,United States,2956
+DUO,China,2957
+DUOT,United States,2958
+DURYY,Germany,2959
+DV,United States,2960
+DVA,United States,2961
+DVAX,United States,2962
+DVCR,United States,2963
+DVD,United States,2964
+DVN,United States,2965
+DVO.L,United Kingdom,2966
+DVRG.L,Ireland,2967
+DVT.PA,France,2969
+DWAHY,Japan,2970
+DWF.L,United Kingdom,2971
+DWNI.DE,Germany,2973
+DWNX,United States,2974
+DWOG,Canada,2975
+DWS.DE,Germany,2976
+DWSN,United States,2977
+DX,United States,2978
+DXC,United States,2981
+DXCM,United States,2982
+DXF,China,2983
+DXLG,United States,2986
+DXPE,United States,2987
+DXR,United States,2988
+DXRX.L,United Kingdom,2989
+DXYN,United States,2990
+DY,United States,2991
+DYAI,United States,2992
+DYN,United States,2993
+DYNE,United States,2994
+DYNR,United States,2995
+DYNT,United States,2996
+DYSL,United States,2997
+DZSI,United States,2998
+E,Italy,2999
+EA,United States,3000
+EAAS.L,United Kingdom,3001
+EAC,United States,3002
+EACO,United States,3003
+EADSY,Netherlands,3004
+EAF,United States,3005
+EAR,United States,3006
+EARN,United States,3007
+EARS,Bermuda,3008
+EAST,United States,3009
+EAT,United States,3011
+EB,United States,3012
+EBAY,United States,3014
+EBCOY,Japan,3015
+EBET,United States,3016
+EBF,United States,3017
+EBIX,United States,3018
+EBKDY,Austria,3019
+EBMT,United States,3020
+EBON,China,3021
+EBR,Brazil,3023
+EBRPY,Spain,3026
+EBS,United States,3027
+EBS,United States,3028
+EBSB,United States,3029
+EBTC,United States,3030
+EC,Colombia,3031
+ECEL.L,United Kingdom,3034
+ECHO.L,United Kingdom,3036
+ECHO,United States,3037
+ECIA,United States,3038
+ECIFY,France,3039
+ECK.L,United Kingdom,3040
+ECL,United States,3041
+ECM.L,United Kingdom,3042
+ECMPA.AS,Netherlands,3043
+ECOL,United States,3044
+ECOM,United States,3045
+ECOM,United States,3047
+ECOR,United States,3048
+ECPG,United States,3049
+ECRP,China,3050
+ECSC.L,United Kingdom,3051
+ECV.DE,Germany,3052
+ED,United States,3053
+EDAP,France,3054
+EDEN.PA,France,3055
+EDF.PA,France,3056
+EDHD,United States,3058
+EDIT,United States,3060
+EDL.L,United Kingdom,3061
+EDN,Argentina,3065
+EDNMY,France,3066
+EDPFY,Portugal,3069
+EDR.L,United Kingdom,3070
+EDR,United States,3071
+EDRY,Greece,3072
+EDSA,Canada,3073
+EDTK,China,3074
+EDTX,United Kingdom,3075
+EDU,China,3076
+EDUC,United States,3077
+EEE.L,United Kingdom,3081
+EEFT,United States,3082
+EEIQ,United States,3084
+EEX,United States,3090
+EFBI,United States,3091
+EFC,United States,3092
+EFGSY,France,3093
+EFGXY,Switzerland,3094
+EFIC1.AS,Netherlands,3095
+EFLVF,Canada,3099
+EFOI,United States,3100
+EFSC,United States,3102
+EFSH,United States,3103
+EFSI,United States,3104
+EFX,United States,3105
+EGAN,United States,3106
+EGBN,United States,3107
+EGDW,United States,3108
+EGHT,United States,3109
+EGIEY,Brazil,3110
+EGLE,United States,3112
+EGLX,Canada,3114
+EGO,Canada,3116
+EGP,United States,3117
+EGRX,United States,3119
+EGY,United States,3120
+EH,China,3121
+EHC,United States,3122
+EHTH,United States,3124
+EIG,United States,3125
+EIGR,United States,3126
+EIX,United States,3129
+EJFA,United States,3130
+EJFI.L,Jersey,3131
+EJPRY,Japan,3133
+EKF.L,United Kingdom,3134
+EKSO,United States,3136
+EKTAY,Sweden,3137
+EL.PA,France,3138
+EL,United States,3139
+ELA,United States,3140
+ELAMF,United States,3141
+ELAN,United States,3142
+ELDN,United States,3143
+ELEZY,Spain,3145
+ELF,United States,3146
+ELG.DE,Germany,3147
+ELIS.PA,France,3149
+ELIX.L,United Kingdom,3150
+ELLA.L,United Kingdom,3151
+ELLH,United States,3152
+ELLO,Israel,3153
+ELM.L,United Kingdom,3154
+ELMA,United States,3155
+ELMD,United States,3156
+ELOX,United States,3157
+ELP,Brazil,3158
+ELP,Brazil,3159
+ELS,United States,3160
+ELSE,United States,3161
+ELTK,Israel,3163
+ELTP,United States,3164
+ELUXY,Sweden,3165
+ELVT,United States,3166
+ELY,United States,3167
+ELYS,Canada,3168
+EM,China,3169
+EMAN,United States,3171
+EMAN.L,United Kingdom,3172
+EMCF,United States,3175
+EME.L,Australia,3178
+EME,United States,3179
+EMG.L,Jersey,3181
+EMH.L,Australia,3183
+EMIS.L,United Kingdom,3189
+EMKR,United States,3190
+EML,United States,3192
+EMMN.SW,Switzerland,3196
+EMMS,United States,3197
+EMN,United States,3199
+EMR.L,United Kingdom,3201
+EMR,United States,3202
+EMSN.SW,Switzerland,3205
+EMYB,United States,3212
+EN.PA,France,3213
+ENB,Canada,3214
+ENBP,United States,3215
+ENDP,Ireland,3217
+ENET.L,Israel,3220
+ENFA,United States,3221
+ENG,United States,3222
+ENG,United States,3223
+ENGGY,Spain,3225
+ENGH,United States,3226
+ENGI.PA,France,3227
+ENGIY,France,3228
+ENIA,Chile,3229
+ENIC,Chile,3230
+ENLAY,Italy,3231
+ENLC,United States,3232
+ENLV,Israel,3233
+ENNV,United States,3234
+ENOB,United States,3235
+ENOG.L,United Kingdom,3236
+ENPC,United States,3237
+ENPH,United States,3238
+ENQ.L,United Kingdom,3240
+ENR,United States,3241
+ENR.DE,Germany,3242
+ENS,United States,3244
+ENSG,United States,3245
+ENSV,United States,3246
+ENT.L,United Kingdom,3247
+ENTA,United States,3248
+ENTG,United States,3249
+ENTX,Israel,3250
+ENV,United States,3251
+ENVA,United States,3252
+ENVB,United States,3253
+ENVI,United States,3254
+ENW.L,United Kingdom,3255
+ENX.PA,Netherlands,3256
+ENZ,United States,3257
+ENZN,United States,3258
+EO.PA,France,3259
+EOAN.DE,Germany,3260
+EOG,United States,3262
+EOLS,United States,3263
+EONGY,Germany,3264
+EOSE,United States,3265
+EPAC,United States,3266
+EPAC,United States,3267
+EPAM,United States,3268
+EPAY,United States,3269
+EPC,United States,3270
+EPD,United States,3271
+EPGNY,Germany,3272
+EPHY,United States,3273
+EPM,United States,3275
+EPOKY,Sweden,3276
+EPR,United States,3277
+EPSN,United States,3278
+EPWN.L,United Kingdom,3279
+EPWR,United States,3280
+EPZM,United States,3281
+EQ,United States,3282
+EQBK,United States,3283
+EQC,United States,3284
+EQD,United States,3285
+EQFN,United States,3286
+EQH,United States,3288
+EQHA,United States,3289
+EQIX,United States,3290
+EQLS.L,United Kingdom,3292
+EQN.L,United Kingdom,3293
+EQNR,Norway,3294
+EQOS,Hong Kong,3295
+EQR,United States,3301
+EQS,United States,3302
+EQT,United States,3304
+EQT.L,Ireland,3305
+EQX,Canada,3306
+ERES,United States,3307
+ERGO.L,United Kingdom,3309
+ERIC,Sweden,3310
+ERIE,United States,3311
+ERII,United States,3312
+ERJ,Brazil,3313
+ERKH,United States,3314
+ERM.L,United Kingdom,3315
+ERMAY,France,3316
+ERYP,France,3322
+ES,United States,3323
+ESALY,Japan,3324
+ESBK,United States,3325
+ESC.L,United Kingdom,3326
+ESCA,United States,3327
+ESE,United States,3328
+ESEA,Greece,3329
+ESG.AS,Netherlands,3331
+ESGC,United States,3333
+ESGR,Bermuda,3334
+ESI,United States,3337
+ESKN.L,Guernsey,3338
+ESLOY,France,3339
+ESLT,Israel,3340
+ESM,United States,3341
+ESNT,Bermuda,3342
+ESNT.L,United Kingdom,3343
+ESO.L,United Kingdom,3344
+ESOA,United States,3345
+ESP,United States,3346
+ESP.L,United Kingdom,3347
+ESPR,United States,3351
+ESQ,United States,3352
+ESRT,United States,3353
+ESS,United States,3354
+ESSA,United States,3355
+ESSC,United States,3356
+EST.L,United Kingdom,3357
+ESTA,Costa Rica,3358
+ESTC,United States,3359
+ESTE,United States,3360
+ESXB,United States,3361
+ESYJY,United Kingdom,3362
+ESYS.L,United Kingdom,3363
+ET,United States,3364
+ETAC,United States,3365
+ETCMY,France,3366
+ETH,United States,3370
+ETN,Ireland,3372
+ETNB,United States,3373
+ETON,United States,3374
+ETR,United States,3375
+ETRN,United States,3376
+ETSY,United States,3377
+ETTX,United States,3379
+ETWO,United States,3380
+ETX.L,United Kingdom,3381
+EUCR,United States,3382
+EURN,Belgium,3395
+EURN,Belgium,3396
+EUSG,United States,3397
+EUSP,United States,3398
+EUZ.DE,Germany,3400
+EVA,United States,3401
+EVAX,Denmark,3403
+EVBG,United States,3404
+EVBN,United States,3405
+EVC,United States,3406
+EVD.DE,Germany,3407
+EVE.L,United Kingdom,3408
+EVE.SW,Switzerland,3409
+EVER,United States,3410
+EVFM,United States,3411
+EVG.L,United Kingdom,3412
+EVGN,Israel,3413
+EVH,United States,3414
+EVI,United States,3415
+EVK.DE,Germany,3416
+EVK,China,3417
+EVLO,United States,3418
+EVN,United States,3419
+EVNVY,Austria,3420
+EVOA,United States,3421
+EVOJ,United States,3422
+EVOK,United States,3423
+EVOL,United States,3424
+EVOP,United States,3425
+EVR,United States,3426
+EVR.L,United Kingdom,3427
+EVRA.L,British Virgin Islands,3428
+EVRG,United States,3429
+EVRI,United States,3430
+EVSBY,Belgium,3431
+EVT.DE,Germany,3432
+EVTC,United States,3433
+EVTCY,Germany,3434
+EVVTY,Sweden,3435
+EW,United States,3436
+EWBC,United States,3437
+EWTX,United States,3439
+EXAS,United States,3441
+EXC,United States,3442
+EXEL,United States,3443
+EXLS,United States,3445
+EXP,United States,3446
+EXPD,United States,3447
+EXPE,United States,3448
+EXPFF,Canada,3449
+EXPGY,Ireland,3450
+EXPI,United States,3451
+EXPN.L,Ireland,3452
+EXPO,United States,3453
+EXPR,United States,3454
+EXR,United States,3455
+EXSR,United States,3461
+EXTN,United States,3462
+EXTR,United States,3463
+EYE,United States,3471
+EYE.L,United Kingdom,3472
+EYEG,United States,3473
+EYEN,United States,3474
+EYES,United States,3475
+EYPT,United States,3476
+EZGO,China,3478
+EZJ.L,United Kingdom,3479
+EZPW,United States,3480
+F,United States,3481
+FAB.L,United Kingdom,3483
+FABP,United States,3484
+FACA,United States,3485
+FACO,United States,3488
+FACT,United States,3489
+FAF,United States,3490
+FAII,United States,3493
+FALC,United States,3495
+FAME,United States,3496
+FAMI,China,3497
+FAN.L,United Kingdom,3498
+FANG,United States,3500
+FANH,China,3502
+FANUY,Japan,3504
+FAR.L,Guernsey,3505
+FARM,United States,3506
+FARN.L,Finland,3507
+FARO,United States,3508
+FAST,United States,3511
+FAST.AS,Netherlands,3512
+FAT,United States,3513
+FATE,United States,3514
+FB,United States,3515
+FB2A.DE,United States,3517
+FBAK,United States,3520
+FBC,United States,3521
+FBHS,United States,3522
+FBIO,United States,3523
+FBIZ,United States,3524
+FBK,United States,3525
+FBMS,United States,3526
+FBNC,United States,3527
+FBP,United States,3528
+FBPA,United States,3529
+FBPI,United States,3530
+FBRX,United States,3532
+FBSI,United States,3534
+FBTT,United States,3536
+FBVA,United States,3538
+FC,United States,3539
+FCAC,United States,3540
+FCAP,United States,3541
+FCAP.L,United Kingdom,3542
+FCAX,United States,3543
+FCBC,United States,3544
+FCBP,United States,3545
+FCCN.L,United Kingdom,3547
+FCCO,United States,3548
+FCCT,United States,3549
+FCCY,United States,3550
+FCEL,United States,3551
+FCF,United States,3552
+FCFS,United States,3553
+FCH.L,United Kingdom,3554
+FCN,United States,3556
+FCNCA,United States,3557
+FCNCB,United States,3558
+FCOB,United States,3559
+FCPT,United States,3560
+FCRD,United States,3561
+FCRM.L,United Kingdom,3562
+FCUUF,Canada,3567
+FCUV,United States,3568
+FCX,United States,3569
+FDBC,United States,3570
+FDEV.L,United Kingdom,3571
+FDJ.PA,France,3573
+FDM.L,United Kingdom,3574
+FDMT,United States,3575
+FDP.L,United Kingdom,3578
+FDP,Cayman Islands,3579
+FDS,United States,3581
+FDUS,United States,3582
+FDVA,United States,3583
+FDX,United States,3584
+FE,United States,3585
+FEDU,China,3586
+FEIM,United States,3588
+FELE,United States,3589
+FELTY,Japan,3590
+FENG,China,3594
+FERG,United Kingdom,3597
+FERG.L,United Kingdom,3598
+FET,United States,3600
+FETM,United States,3601
+FEVR.L,United Kingdom,3605
+FEYE,United States,3607
+FF,United States,3608
+FFARM.AS,Netherlands,3609
+FFBC,United States,3610
+FFBW,United States,3611
+FFDF,United States,3612
+FFG,United States,3613
+FFHL,China,3614
+FFIC,United States,3615
+FFIN,United States,3616
+FFIV,United States,3617
+FFMH,United States,3618
+FFNTF,United States,3619
+FFNW,United States,3620
+FFWC,United States,3621
+FFWM,United States,3622
+FGBI,United States,3623
+FGEN,United States,3624
+FGF,United States,3625
+FGFH,United States,3626
+FGNA,United States,3628
+FGP.L,United Kingdom,3629
+FGR.PA,France,3631
+FHB,United States,3633
+FHI,United States,3634
+FHLB,United States,3635
+FHN,United States,3637
+FHS,China,3639
+FHTX,United States,3640
+FHZN.SW,Switzerland,3641
+FI,Netherlands,3642
+FIBK,United States,3643
+FICO,United States,3644
+FIDS,United States,3645
+FIE.DE,Germany,3646
+FIF.L,United Kingdom,3647
+FIII,United States,3648
+FINM,United States,3651
+FINMY,Italy,3652
+FINN,United States,3653
+FINV,China,3654
+FIPP.L,United Kingdom,3655
+FIS,United States,3656
+FISB,United States,3657
+FISI,United States,3658
+FISV,United States,3659
+FITB,United States,3660
+FIVE,United States,3661
+FIVE,United States,3662
+FIVN,United States,3663
+FIX,United States,3664
+FIXX,United States,3665
+FIZN,United States,3666
+FIZZ,United States,3667
+FJTCY,Japan,3668
+FJTNY,Japan,3669
+FJTSY,Japan,3670
+FKWL,United States,3673
+FKYS,United States,3674
+FL,United States,3675
+FLAC,United States,3676
+FLDM,United States,3677
+FLEX,Singapore,3678
+FLFG,United States,3679
+FLGT,United States,3681
+FLIC,United States,3683
+FLIDY,Denmark,3684
+FLIR,United States,3685
+FLK.L,United Kingdom,3686
+FLL,United States,3687
+FLME,United States,3688
+FLMN,United States,3689
+FLNT,United States,3690
+FLO.L,United Kingdom,3691
+FLO,United States,3692
+FLOW,United States,3696
+FLOW.AS,Netherlands,3697
+FLR,United States,3698
+FLS,United States,3699
+FLT,United States,3700
+FLTA.L,United Kingdom,3701
+FLTR.L,Ireland,3702
+FLUX,United States,3704
+FLWS,United States,3706
+FLX.L,United Kingdom,3707
+FLXN,United States,3711
+FLXS,United States,3712
+FLY.PA,France,3713
+FLY,Ireland,3714
+FMAC,United States,3715
+FMAO,United States,3716
+FMBH,United States,3717
+FMBI,United States,3718
+FMBL,United States,3719
+FMBM,United States,3720
+FMBN,United States,3721
+FMC,United States,3722
+FMCB,United States,3723
+FMCC,United States,3724
+FME.DE,Germany,3725
+FMFG,United States,3726
+FMFP,United States,3727
+FMNB,United States,3729
+FMOCY,Spain,3730
+FMS,Germany,3731
+FMTX,United States,3732
+FMX,Mexico,3733
+FN,Cayman Islands,3734
+FNB,United States,3735
+FNBT,United States,3736
+FNCB,United States,3737
+FNCH,United States,3738
+FND,United States,3739
+FNF,United States,3740
+FNFI,United States,3741
+FNGR,United States,3742
+FNHC,United States,3743
+FNKO,United States,3744
+FNLC,United States,3745
+FNMA,United States,3746
+FNRN,United States,3747
+FNTL.L,United Kingdom,3748
+FNTN.DE,Germany,3749
+FNV,Canada,3750
+FNWB,United States,3751
+FNX.L,United Kingdom,3752
+FOA,United States,3753
+FOCS,United States,3754
+FOE,United States,3755
+FOJCY,Finland,3756
+FOLD,United States,3757
+FONR,United States,3758
+FOR,United States,3760
+FORA,United States,3761
+FORD,United States,3762
+FORE,United States,3763
+FORM,United States,3765
+FORN.SW,Switzerland,3766
+FORR,United States,3767
+FORT.L,United Kingdom,3768
+FORTY,Israel,3769
+FOSL,United States,3770
+FOTB,United States,3771
+FOUR.L,United Kingdom,3772
+FOUR,United States,3773
+FOVSY,Turkey,3774
+FOX,United States,3775
+FOX.L,United Kingdom,3776
+FOXA,United States,3777
+FOXF,United States,3778
+FOXT.L,United Kingdom,3779
+FOXW,United States,3780
+FP.PA,France,3781
+FPAC,United States,3782
+FPAY,United States,3783
+FPE.DE,Germany,3784
+FPE3.DE,Germany,3785
+FPH,United States,3786
+FPP.L,British Virgin Islands,3788
+FPRUY,Germany,3789
+FQT.DE,Austria,3790
+FR.PA,France,3791
+FRA.DE,Germany,3792
+FRAF,United States,3793
+FRAN.L,United Kingdom,3794
+FRANQ,United States,3795
+FRAS.L,United Kingdom,3796
+FRBA,United States,3797
+FRBK,United States,3798
+FRC,United States,3799
+FRCOY,Japan,3800
+FRD,United States,3801
+FRE.DE,Germany,3802
+FREE,United States,3803
+FREQ,United States,3804
+FRES.L,Mexico,3805
+FRFC,United States,3806
+FRG,United States,3807
+FRGI,United States,3808
+FRHC,Kazakhstan,3809
+FRLN,United Kingdom,3811
+FRME,United States,3812
+FRMO,United States,3813
+FRO,Bermuda,3814
+FROG,United States,3815
+FRON,United States,3816
+FRP.L,United Kingdom,3817
+FRPH,United States,3818
+FRPT,United States,3819
+FRRVY,Spain,3820
+FRSB,United States,3821
+FRSG,United States,3822
+FRST,United States,3823
+FRSX,Israel,3824
+FRT,United States,3825
+FRTA,United States,3826
+FRU.DE,Finland,3827
+FRW,United States,3828
+FRX,United States,3829
+FRXB,United States,3830
+FSBC,United States,3831
+FSBW,United States,3832
+FSCR,United States,3833
+FSEA,United States,3834
+FSFG,United States,3837
+FSG.L,United Kingdom,3839
+FSI,Canada,3840
+FSII,United States,3841
+FSJ.L,United Kingdom,3842
+FSK,United States,3843
+FSKR,United States,3844
+FSLR,United States,3846
+FSLY,United States,3847
+FSM,Canada,3848
+FSNB,United States,3851
+FSNT.DE,Germany,3852
+FSNUY,Germany,3853
+FSP,United States,3854
+FSR,United States,3855
+FSRL,United States,3856
+FSRV,United States,3857
+FSRX,United States,3858
+FSS,United States,3859
+FSSI,United States,3860
+FST,United States,3861
+FSTA.L,United Kingdom,3862
+FSTR,United States,3863
+FSTX,United Kingdom,3864
+FSUGY,Australia,3865
+FTAA,United States,3867
+FTC.L,United Kingdom,3869
+FTCH,United Kingdom,3870
+FTCI,United States,3871
+FTCV,United States,3873
+FTDL,United States,3874
+FTDR,United States,3875
+FTEK,United States,3877
+FTFT,China,3878
+FTHM,United States,3880
+FTI,United Kingdom,3881
+FTI.PA,United Kingdom,3882
+FTIV,United States,3883
+FTK,United States,3884
+FTLF,United States,3885
+FTMR,Canada,3886
+FTNT,United States,3890
+FTOC,United States,3891
+FTPA,United States,3892
+FTS,Canada,3893
+FTSI,United States,3894
+FTV,United States,3896
+FUBO,United States,3898
+FUJHY,Japan,3899
+FUJIY,Japan,3900
+FUL,United States,3901
+FUL.L,United Kingdom,3902
+FULC,United States,3903
+FULT,United States,3904
+FUM.L,United Kingdom,3905
+FUN,United States,3906
+FUNC,United States,3907
+FUPBY,Germany,3908
+FUR.AS,Netherlands,3909
+FUSB,United States,3911
+FUSE,United States,3913
+FUSN,Canada,3914
+FUTR.L,United Kingdom,3916
+FUTU,Hong Kong,3917
+FUV,United States,3918
+FUWAY,Japan,3919
+FVAM,United States,3920
+FVCB,United States,3921
+FVE,United States,3923
+FVRR,Israel,3925
+FVT,United States,3926
+FWAA,United States,3927
+FWONA,United States,3928
+FWONK,United States,3929
+FWP,Denmark,3930
+FWRD,United States,3931
+FXNC,United States,3934
+FXPO.L,Switzerland,3935
+FYBR,United States,3937
+G,Bermuda,3940
+G1A.DE,Germany,3941
+G24.DE,Germany,3942
+G3E.L,China,3943
+G4M.L,United Kingdom,3944
+GABC,United States,3945
+GAIA,United States,3949
+GAIN,United States,3950
+GALE.SW,Switzerland,3951
+GALT,United States,3952
+GAMA.L,United Kingdom,3953
+GAN,United States,3955
+GANX,United States,3956
+GAPA,United States,3957
+GASNY,Spain,3958
+GASS,Greece,3959
+GATC.L,United Kingdom,3960
+GATO,United States,3961
+GATX,United States,3962
+GAV.SW,Switzerland,3963
+GAW.L,United Kingdom,3964
+GAXY,United States,3965
+GB,Switzerland,3966
+GBCI,United States,3968
+GBDC,United States,3969
+GBERY,Switzerland,3971
+GBF.DE,Germany,3972
+GBG.L,United Kingdom,3973
+GBIO,United States,3974
+GBL,United States,3976
+GBLBY,Belgium,3978
+GBLI,United States,3979
+GBNH,Canada,3982
+GBNY,United States,3983
+GBOOY,Mexico,3984
+GBOX,United States,3985
+GBR,United States,3986
+GBRG,Hong Kong,3987
+GBS,United States,3988
+GBT,United States,3992
+GBX,United States,3995
+GCAC,United States,3996
+GCBC,United States,3997
+GCG.L,Hong Kong,3998
+GCI,United States,4000
+GCM.L,United Kingdom,4002
+GCMG,United States,4003
+GCO,United States,4004
+GCO,United States,4005
+GCP,United States,4007
+GCTAY,Spain,4008
+GDDY,United States,4011
+GDEN,United States,4012
+GDOT,United States,4014
+GDP,United States,4015
+GDR.L,United Kingdom,4016
+GDRX,United States,4017
+GDRZF,United States,4018
+GDS,China,4019
+GDWN.L,United Kingdom,4020
+GDYN,United States,4024
+GE,United States,4025
+GEBN.SW,Switzerland,4027
+GECC,United States,4028
+GEF,United States,4032
+GEG,United States,4034
+GEMD.L,United Kingdom,4035
+GEN.L,United Kingdom,4036
+GENC,United States,4037
+GENE,Australia,4038
+GENI,United Kingdom,4039
+GENL.L,United Kingdom,4040
+GENN,United States,4041
+GEO,United States,4042
+GEOS,United States,4043
+GERN,United States,4044
+GES,United States,4045
+GET.PA,France,4046
+GETB.L,United Kingdom,4047
+GEVO,United States,4048
+GFASY,Brazil,4051
+GFED,United States,4052
+GFF,United States,4053
+GFG.DE,Luxembourg,4054
+GFHG.L,Cayman Islands,4055
+GFI,South Africa,4056
+GFIN.L,United Kingdom,4057
+GFKSY,Bermuda,4058
+GFL,Canada,4059
+GFM.L,United Kingdom,4060
+GFN,United States,4063
+GFRD.L,United Kingdom,4064
+GFS.L,United Kingdom,4065
+GFT.DE,Germany,4066
+GFX,United States,4067
+GGAL,Argentina,4068
+GGB,Brazil,4069
+GGG,United States,4070
+GGP.L,United Kingdom,4072
+GH,United States,4076
+GHAC,United States,4077
+GHC,United States,4078
+GHE.L,United Kingdom,4079
+GHG,China,4080
+GHH.L,United Kingdom,4081
+GHL,United States,4082
+GHLD,United States,4083
+GHM,United States,4084
+GHSI,United States,4085
+GHT.L,United Kingdom,4086
+GHVI,United States,4087
+GIB,Canada,4091
+GIFI,United States,4093
+GIG,United States,4094
+GIGA,United States,4095
+GIGA,United States,4096
+GIGM,Taiwan,4097
+GIII,United States,4098
+GIIX,United States,4099
+GIKLY,Spain,4100
+GIL.DE,Germany,4101
+GILD,United States,4103
+GILD.L,United Kingdom,4104
+GILT,Israel,4107
+GIS,United States,4109
+GIVN.SW,Switzerland,4112
+GIX,United States,4113
+GJNSY,Norway,4114
+GKOS,United States,4115
+GKP.L,Bermuda,4116
+GL,United States,4117
+GLAD,United States,4118
+GLAPY,Ireland,4120
+GLAQ,United States,4121
+GLB.L,Ireland,4122
+GLBL,United States,4124
+GLBS,Greece,4125
+GLBZ,United States,4126
+GLDD,United States,4128
+GLDFF,Canada,4129
+GLE.L,United Kingdom,4133
+GLE.PA,France,4134
+GLEN.L,Switzerland,4135
+GLEO,United States,4136
+GLG,China,4137
+GLGI,United States,4139
+GLJ.DE,Germany,4142
+GLMD,Israel,4143
+GLNG,Bermuda,4144
+GLO.L,United Kingdom,4145
+GLOB,Luxembourg,4146
+GLOG,Greece,4147
+GLOP,Greece,4148
+GLPEY,Portugal,4149
+GLPG,Belgium,4150
+GLPG.AS,Belgium,4151
+GLPI,United States,4152
+GLR.L,United Kingdom,4154
+GLRE,Cayman Islands,4156
+GLSI,United States,4157
+GLT,United States,4158
+GLTO,Denmark,4161
+GLW,United States,4167
+GLXZ,United States,4168
+GLYC,United States,4169
+GM,United States,4170
+GMAA.L,United Kingdom,4171
+GMAB,Denmark,4172
+GMBL,Malta,4173
+GMBT,United States,4174
+GMDA,Israel,4175
+GME,United States,4176
+GMED,United States,4177
+GMGI,United States,4178
+GMI.SW,Switzerland,4179
+GMII,United States,4180
+GMM.DE,Germany,4181
+GMMVF,Israel,4182
+GMR.L,United Kingdom,4185
+GMS,United States,4186
+GMS.L,United Arab Emirates,4187
+GMTX,United States,4188
+GMVHY,United Kingdom,4189
+GNAC,United States,4190
+GNC.L,Ireland,4191
+GNCA,United States,4192
+GNE,United States,4193
+GNFT,France,4194
+GNGBY,Sweden,4195
+GNHAY,Switzerland,4196
+GNK,United States,4197
+GNL,United States,4198
+GNLN,United States,4199
+GNNDY,Denmark,4200
+GNOG,United States,4201
+GNPK,United States,4202
+GNPX,United States,4203
+GNRC,United States,4204
+GNRS,United States,4205
+GNRV,United States,4206
+GNS.L,United Kingdom,4207
+GNSS,United States,4208
+GNTX,United States,4209
+GNTY,United States,4210
+GNUS,United States,4211
+GNW,United States,4212
+GO,United States,4213
+GOAC,United States,4214
+GOCO,United States,4217
+GOED,United States,4218
+GOEV,United States,4219
+GOFPY,Greece,4220
+GOG.L,United Kingdom,4221
+GOGL,Bermuda,4222
+GOGO,United States,4223
+GOL,Brazil,4224
+GOLD,Canada,4225
+GOLF,United States,4226
+GOOD,United States,4229
+GOOD.L,United Kingdom,4230
+GOOG,United States,4232
+GOOGL,United States,4233
+GOOS ,Canada,4235
+GORO,United States,4236
+GOSS,United States,4237
+GOVB,United States,4239
+GOVX,United States,4240
+GP,Canada,4241
+GPAC,United States,4242
+GPC,United States,4243
+GPH.L,Turkey,4244
+GPI,United States,4245
+GPK,United States,4246
+GPMT,United States,4247
+GPN,United States,4248
+GPOR.L,United Kingdom,4250
+GPRE,United States,4251
+GPRK,Colombia,4252
+GPRO,United States,4253
+GPS,United States,4254
+GPX,United States,4256
+GR1T.L,Mauritius,4257
+GRA,United States,4258
+GRAY,United States,4259
+GRBK,United States,4260
+GRC.L,United Kingdom,4261
+GRC,United States,4262
+GRCL,China,4263
+GRCY,China,4264
+GRF,United States,4266
+GRFS,Spain,4267
+GRG.L,United Kingdom,4268
+GRI.L,United Kingdom,4269
+GRIL,United States,4271
+GRIN,Singapore,4272
+GRKP.SW,Switzerland,4273
+GRMM,United States,4274
+GRMN,Switzerland,4275
+GRNQ,Malaysia,4276
+GRNV,United States,4277
+GROW,United States,4278
+GROW.L,United Kingdom,4279
+GRPN,United States,4281
+GRRB,United States,4282
+GRSV,United States,4283
+GRTS,United States,4284
+GRTX,United States,4285
+GRUB,United States,4286
+GRVY,South Korea,4287
+GRWG,United States,4288
+GS,United States,4289
+GSAH,United States,4293
+GSAQ,United States,4294
+GSAT,United States,4295
+GSBC,United States,4296
+GSBD,United States,4297
+GSC1.DE,Germany,4298
+GSEV,United States,4301
+GSHD,United States,4304
+GSIT,United States,4305
+GSK,United Kingdom,4306
+GSK.L,United Kingdom,4307
+GSKY,United States,4308
+GSL,United Kingdom,4309
+GSM,United Kingdom,4311
+GSMG,China,4312
+GSPE,United States,4313
+GSQD,United States,4315
+GSRX,United States,4316
+GSS.L,United Kingdom,4317
+GST.L,Australia,4319
+GT,United States,4320
+GTBIF,United States,4321
+GTBP,United States,4322
+GTCH,United States,4323
+GTE,Canada,4324
+GTEC,China,4325
+GTES,United States,4326
+GTH,China,4327
+GTHX,United States,4328
+GTIM,United States,4329
+GTLS,United States,4330
+GTLY.L,United Kingdom,4331
+GTMAY,Mexico,4332
+GTMEY,Philippines,4333
+GTN,United States,4334
+GTPA,United States,4336
+GTPB,United States,4337
+GTPS,United States,4338
+GTS,United States,4339
+GTT,United States,4340
+GTT.PA,France,4341
+GTYH,United States,4343
+GULRY,Hong Kong,4344
+GURE,China,4345
+GVA,United States,4347
+GVDNY,Switzerland,4348
+GVFF,United States,4349
+GVMH.L,Hong Kong,4350
+GVNV.AS,Netherlands,4351
+GVP,United States,4352
+GVYB,United States,4354
+GWAC,United States,4355
+GWB,United States,4356
+GWGH,United States,4357
+GWI.L,Guernsey,4358
+GWMO.L,Ireland,4359
+GWOX,United States,4360
+GWRE,United States,4361
+GWRS,United States,4362
+GWW,United States,4363
+GXGX,United States,4364
+GXI.DE,Germany,4365
+GXII,United States,4366
+GYG.L,Spain,4368
+GYM.L,United Kingdom,4369
+GYRO,United States,4370
+GYS.L,United Kingdom,4371
+GZPFY,Russia,4372
+H,United States,4373
+H24.DE,Germany,4374
+HA,United States,4377
+HAAC,United States,4378
+HAE,United States,4380
+HAFC,United States,4381
+HAIN,United States,4383
+HAL,United States,4384
+HALL,United States,4386
+HALO,United States,4388
+HAPP,China,4390
+HARL,United States,4391
+HARP,United States,4392
+HAS.L,United Kingdom,4393
+HAS,United States,4394
+HASI,United States,4395
+HAT.L,United Kingdom,4396
+HAWPY,Singapore,4397
+HAYD.L,United Kingdom,4398
+HAYN,United States,4399
+HAYW,United States,4400
+HBAN,United States,4401
+HBB,United States,4402
+HBCP,United States,4403
+HBH.DE,Germany,4404
+HBI,United States,4405
+HBIA,United States,4406
+HBIO,United States,4407
+HBMD,United States,4408
+HBNC,United States,4409
+HBP,United States,4410
+HBR.L,United Kingdom,4411
+HBRN.L,Ireland,4412
+HBSI,United States,4413
+HBT,United States,4414
+HCA,United States,4415
+HCANF,Canada,4417
+HCAP,United States,4418
+HCAQ,United States,4419
+HCAR,United States,4420
+HCAT,United States,4421
+HCBC,United States,4422
+HCBN,United States,4423
+HCC,United States,4424
+HCCC,United States,4425
+HCCI,United States,4426
+HCDI,United States,4427
+HCFT.L,United Kingdom,4428
+HCGI,United States,4429
+HCHC,United States,4430
+HCI,United States,4431
+HCIC,United States,4432
+HCII,United States,4433
+HCKT,United States,4434
+HCM,Hong Kong,4435
+HCM.L,Hong Kong,4436
+HCMC,United States,4437
+HCMLY,Switzerland,4438
+HCSG,United States,4439
+HD,United States,4440
+HDB,India,4441
+HDD.DE,Germany,4442
+HDELY,Germany,4443
+HDG.AS,Netherlands,4445
+HDSN,United States,4451
+HE,United States,4452
+HE1.L,Tanzania,4453
+HEAD.L,United Kingdom,4454
+HEAR,United States,4456
+HEC,United States,4458
+HEES,United States,4460
+HEGIY,China,4462
+HEI,United States,4463
+HEI.DE,Germany,4464
+HEIA.AS,Netherlands,4466
+HEIJM.AS,Netherlands,4467
+HEINY,Netherlands,4468
+HEIO.AS,Netherlands,4469
+HELE,United States,4470
+HELN.SW,Switzerland,4471
+HEMO.L,United Kingdom,4472
+HEN.DE,Germany,4473
+HEN3.DE,Germany,4474
+HENKY,Germany,4475
+HENOY,Germany,4476
+HEOFF,Canada,4477
+HEP,United States,4478
+HEPA,United States,4479
+HERA,United States,4480
+HERTF,Canada,4482
+HES,United States,4484
+HESAY,France,4485
+HESM,United States,4486
+HEWA,United States,4487
+HEXO,Canada,4488
+HFBA,United States,4489
+HFBK,United States,4490
+HFBL,United States,4491
+HFC,United States,4492
+HFD.L,United Kingdom,4493
+HFFG,United States,4495
+HFG.DE,Germany,4496
+HFG.L,United Kingdom,4497
+HFWA,United States,4498
+HGEN,United States,4499
+HGKGY,Hong Kong,4500
+HGSH,China,4501
+HGV,United States,4503
+HHC,United States,4504
+HHFA.DE,Germany,4505
+HHLA,Hong Kong,4507
+HHR,Russia,4508
+HHULY,Germany,4509
+HI,United States,4510
+HIBB,United States,4511
+HIFS,United States,4514
+HIG,United States,4515
+HIGA,United States,4516
+HIHO,Hong Kong,4517
+HII,United States,4518
+HIII,United States,4519
+HIK.L,United Kingdom,4520
+HIL,United States,4521
+HILS.L,United Kingdom,4522
+HIMS,United States,4523
+HIMX,Taiwan,4524
+HINOY,Japan,4525
+HJLI,United States,4528
+HKHHY,Netherlands,4529
+HKIB,Hong Kong,4530
+HKMPY,United Kingdom,4532
+HKUOY,Japan,4534
+HKXCY,Hong Kong,4535
+HL.L,United Kingdom,4536
+HL,United States,4537
+HLAG.DE,Germany,4538
+HLAH,United States,4539
+HLAN,United States,4540
+HLCL.L,United Kingdom,4541
+HLE.DE,Germany,4542
+HLF,United States,4543
+HLFN,United States,4544
+HLG,China,4545
+HLI,United States,4546
+HLIO,United States,4547
+HLIT,United States,4548
+HLLGY,Germany,4550
+HLNE,United States,4552
+HLSPY,Sweden,4553
+HLT,United States,4554
+HLTOY,Greece,4555
+HLUYY,Denmark,4556
+HLX,United States,4557
+HLXA,United States,4558
+HMC,Japan,4561
+HMCO,United States,4565
+HMHC,United States,4571
+HMI.L,Australia,4572
+HMLN,United States,4576
+HMLP,Bermuda,4577
+HMN,United States,4578
+HMNF,United States,4579
+HMPT,United States,4580
+HMSB.DE,Sweden,4582
+HMSO.L,United Kingdom,4584
+HMST,United States,4585
+HMTV,United States,4586
+HMY,South Africa,4591
+HNFSA,United States,4594
+HNFSB,United States,4595
+HNG.L,United Kingdom,4596
+HNGR,United States,4597
+HNI,United States,4598
+HNNA,United States,4599
+HNNMY,Sweden,4600
+HNP,China,4601
+HNR1.DE,Germany,4602
+HNRG,United States,4603
+HNST,United States,4604
+HO.PA,France,4605
+HOC.L,United Kingdom,4606
+HOCPY,Japan,4607
+HOFSQ,Bermuda,4608
+HOFT,United States,4609
+HOFV,United States,4610
+HOG,United States,4611
+HOL,United States,4613
+HOLI,China,4614
+HOLX,United States,4616
+HOMB,United States,4617
+HOME,United States,4619
+HON,United States,4620
+HONE,United States,4621
+HONT,United States,4622
+HOOK,United States,4623
+HOPE,United States,4624
+HOT.DE,Germany,4625
+HOTC.L,United Kingdom,4627
+HOTH,United States,4628
+HOV,United States,4629
+HOWL,United States,4630
+HOYE.L,Cayman Islands,4631
+HP,United States,4632
+HPE,United States,4633
+HPGLY,Germany,4634
+HPK,United States,4635
+HPP,United States,4636
+HPQ,United States,4637
+HPX,United States,4639
+HQI,United States,4640
+HQY,United States,4641
+HRB,United States,4642
+HRC,United States,4643
+HRGG,United States,4644
+HRGLY,United Kingdom,4645
+HRI,United States,4646
+HRL,United States,4648
+HRMY,United States,4649
+HRN.L,United Kingdom,4650
+HROW,United States,4651
+HRPK.DE,Germany,4652
+HRST,United States,4653
+HRTG,United States,4654
+HRTH,United States,4655
+HRTX,United States,4656
+HRVSF,United States,4658
+HRZN,United States,4659
+HSAQ,United States,4660
+HSBA.L,United Kingdom,4661
+HSBC,United Kingdom,4662
+HSBI,United States,4663
+HSC,United States,4665
+HSD.L,United Kingdom,4667
+HSIC,United States,4672
+HSII,United States,4673
+HSKA,United States,4675
+HSNGY,Hong Kong,4677
+HSON,United States,4678
+HSP.L,United Kingdom,4679
+HSQVY,Sweden,4681
+HSS.L,United Kingdom,4682
+HST,United States,4683
+HSTM,United States,4686
+HSTO,United States,4687
+HSV.L,United Kingdom,4690
+HSW.L,Ireland,4691
+HSX.L,Bermuda,4694
+HSY,United States,4697
+HT,United States,4698
+HTA,United States,4699
+HTBI,United States,4700
+HTBK,United States,4701
+HTBX,United States,4702
+HTCMY,Japan,4703
+HTG.L,United Kingdom,4704
+HTGC,United States,4705
+HTGM,United States,4706
+HTH,United States,4707
+HTHIY,Japan,4708
+HTHT,China,4709
+HTLD,United States,4710
+HTLF,United States,4711
+HTOO,Ireland,4712
+HTPA,United States,4713
+HTWS.L,United Kingdom,4720
+HTZGQ,United States,4721
+HUBB,United States,4722
+HUBG,United States,4723
+HUBS,United States,4724
+HUDI,China,4725
+HUGS,United States,4726
+HUIZ,China,4727
+HUM.L,United Kingdom,4729
+HUM,United States,4730
+HUN,United States,4731
+HUR.L,United Kingdom,4732
+HURC,United States,4733
+HURN,United States,4734
+HUSA,United States,4735
+HUSN,United States,4736
+HUYA,China,4737
+HVBC,United States,4738
+HVBTF,Canada,4739
+HVLM,United States,4740
+HVRRY,Germany,4743
+HVT,United States,4744
+HWAL,United States,4746
+HWBK,United States,4747
+HWC,United States,4748
+HWCC,United States,4749
+HWDJY,United Kingdom,4750
+HWDN.L,United Kingdom,4751
+HWEN,United States,4752
+HWG.L,United Kingdom,4753
+HWIN,United States,4754
+HWIS,United States,4755
+HWKN,United States,4756
+HWM,United States,4757
+HX,China,4759
+HXGBY,Sweden,4760
+HXL,United States,4761
+HXOH,United States,4762
+HY,United States,4763
+HYAC,United States,4764
+HYFM,United States,4767
+HYLN,United States,4773
+HYMC,United States,4774
+HYPMY,Brazil,4775
+HYQ.DE,Germany,4776
+HYRE,United States,4778
+HYVE.L,United Kingdom,4781
+HYW,China,4782
+HZAC,United States,4783
+HZN,United States,4785
+HZNP,Ireland,4786
+HZO,United States,4787
+HZON,United States,4788
+I3E.L,United Kingdom,4789
+IAA,United States,4790
+IAC,United States,4792
+IACA,United States,4793
+IACB,Israel,4794
+IACC,Israel,4795
+IAG,Canada,4797
+IAG.L,Spain,4798
+IAIC,United States,4799
+IBA,Mexico,4806
+IBAL,United States,4807
+IBCP,United States,4811
+IBDRY,Spain,4815
+IBER,United States,4817
+IBEX,United States,4818
+IBIO,United States,4824
+IBKR,United States,4825
+IBM,United States,4826
+IBN,India,4827
+IBOC,United States,4828
+IBP,United States,4829
+IBPO.L,Guernsey,4830
+IBRX,United States,4831
+IBST.L,United Kingdom,4832
+IBTX,United States,4838
+IBWC,United States,4840
+ICAD,United States,4842
+ICBK,United States,4843
+ICCC,United States,4845
+ICCH,United States,4846
+ICD,United States,4847
+ICE,United States,4848
+ICFI,United States,4849
+ICHR,United States,4851
+ICL,Israel,4852
+ICLK,Hong Kong,4853
+ICLR,Ireland,4854
+ICMB,United States,4855
+ICON,United States,4857
+ICON.L,United Kingdom,4858
+ICP.L,United Kingdom,4859
+ICPT,United States,4860
+ICTSF,Netherlands,4861
+ICUI,United States,4862
+ID,United States,4863
+IDA,United States,4864
+IDBA,Norway,4865
+IDCC,United States,4866
+IDE.L,United Kingdom,4867
+IDEA.L,United Kingdom,4868
+IDEX,United States,4869
+IDEXY,Spain,4870
+IDH.L,United Kingdom,4871
+IDHC.L,Jersey,4872
+IDIA.SW,Switzerland,4873
+IDKFF,Canada,4876
+IDKOY,Japan,4877
+IDN,United States,4878
+IDOX.L,United Kingdom,4879
+IDP.L,United Kingdom,4880
+IDRA,United States,4883
+IDT,United States,4884
+IDWM,United States,4890
+IDXG,United States,4893
+IDXX,United States,4894
+IDYA,United States,4895
+IEA,United States,4896
+IEC,United States,4899
+IEHC,United States,4905
+IEP,United States,4914
+IEP,United States,4915
+IES.L,Jersey,4917
+IESC,United States,4918
+IESFY,Colombia,4919
+IEX,United States,4924
+IFBD,China,4925
+IFF,United States,4926
+IFHI,United States,4928
+IFJPY,United Kingdom,4929
+IFMK,United States,4930
+IFNNY,Germany,4931
+IFRX,Germany,4933
+IFS,Peru,4934
+IFX.DE,Germany,4938
+IGAC,United States,4939
+IGAS.L,United Kingdom,4940
+IGC,United States,4942
+IGG.L,United Kingdom,4946
+IGGHY,United Kingdom,4947
+IGIC,Jordan,4949
+IGMS,United States,4954
+IGNY,United States,4955
+IGR.L,United Kingdom,4956
+IGT,United Kingdom,4958
+IH,China,4961
+IHC.L,United Kingdom,4963
+IHC,United States,4964
+IHG.L,United Kingdom,4965
+IHG,United Kingdom,4966
+IHICY,Japan,4967
+IHP.L,United Kingdom,4968
+IHRT,United States,4970
+IHT,United States,4971
+IIAC,United Kingdom,4975
+IIG.L,United Kingdom,4976
+IIII,United States,4979
+IIIN,United States,4980
+IIIV,United States,4981
+IIN,United States,4982
+IINX,China,4984
+IIPR,United States,4986
+IIVI,United States,4989
+IKA.L,United Kingdom,4995
+IKNA,United States,4996
+IKNX,United States,4997
+IKT,United States,5000
+IKTSY,United Kingdom,5001
+ILD.PA,France,5002
+ILIAY,France,5003
+ILKAY,Australia,5004
+ILMN,United States,5005
+IMAB,China,5006
+IMAC,United States,5007
+IMAX,Canada,5008
+IMB.L,United Kingdom,5009
+IMBBY,United Kingdom,5010
+IMBI,United States,5011
+IMCC,Israel,5013
+IMCD.AS,Netherlands,5014
+IMCR,United Kingdom,5015
+IMGN,United States,5017
+IMH,United States,5018
+IMI.L,United Kingdom,5019
+IMIAY,United Kingdom,5020
+IMKTA,United States,5023
+IMM.L,United Kingdom,5024
+IMMO.L,United Kingdom,5025
+IMMP,Australia,5026
+IMMR,United States,5027
+IMNM,United States,5028
+IMOS,Taiwan,5029
+IMPL,United States,5030
+IMPUY,South Africa,5031
+IMPX,Cayman Islands,5032
+IMRA,United States,5033
+IMRN,Australia,5034
+IMTE,Hong Kong,5035
+IMTX,Germany,5036
+IMUX,United States,5037
+IMV,Canada,5038
+IMVT,United States,5039
+IMXI,United States,5040
+INBK,United States,5044
+INBP,United States,5045
+INBX,United States,5046
+INCE.L,United Kingdom,5048
+INCH.L,United Kingdom,5049
+INCPY,United Kingdom,5051
+INCY,United States,5052
+INDB,United States,5053
+INDI.L,Guernsey,5054
+INDO,Indonesia,5055
+INDT,United States,5056
+INDV.L,United States,5057
+INF.PA,France,5058
+INF.L,United Kingdom,5059
+INFA.L,United Kingdom,5060
+INFI,United States,5061
+INFN,United States,5062
+INFO,United Kingdom,5063
+INFU,United States,5065
+INFY,India,5066
+ING,Netherlands,5068
+INGA.AS,Netherlands,5069
+INGN,United States,5070
+INGR,United States,5071
+INH.DE,Germany,5072
+INHC.L,United Kingdom,5073
+INIS,United States,5074
+INKA,United States,5075
+INL.L,United Kingdom,5076
+INLB,United States,5077
+INLZ.L,United Kingdom,5078
+INMB,United States,5079
+INMD,Israel,5080
+INNV,United States,5083
+INO,United States,5084
+INOD,United States,5085
+INOV,United States,5086
+INPST.AS,Poland,5088
+INPX,United States,5089
+INRD,United States,5090
+INRN.SW,Switzerland,5092
+INS.L,United Kingdom,5093
+INS,United States,5094
+INSE.L,United Kingdom,5095
+INSE,United States,5096
+INSG,United States,5097
+INSM,United States,5098
+INSP,United States,5099
+INSW,United States,5100
+INTC,United States,5101
+INTEQ,Luxembourg,5102
+INTER.AS,Netherlands,5103
+INTG,United States,5104
+INTO.L,Germany,5107
+INTT,United States,5108
+INTU,United States,5109
+INTZ,United States,5111
+INUV,United States,5112
+INVA,United States,5114
+INVE,United States,5115
+INVH,United States,5116
+INVP.L,South Africa,5117
+INVU,United States,5118
+INVZ,Israel,5119
+INX.L,United Kingdom,5120
+INZY,United States,5122
+IO,United States,5123
+IOF.L,United Kingdom,5124
+IOFB,United States,5125
+IOG.L,United Kingdom,5126
+IOM.L,United Kingdom,5128
+IONI,South Korea,5129
+IONS,United States,5130
+IOSP,United States,5131
+IOVA,United States,5132
+IP,United States,5133
+IPA,Canada,5134
+IPAR,United States,5135
+IPDN,United States,5137
+IPEL.L,United Kingdom,5139
+IPF.L,United Kingdom,5140
+IPG,United States,5141
+IPGP,United States,5142
+IPHA,France,5143
+IPI,United States,5144
+IPN.PA,France,5146
+IPNFF,Canada,5147
+IPO.L,United Kingdom,5148
+IPOD,United States,5149
+IPOE,United States,5150
+IPOF,United States,5151
+IPSEY,France,5155
+IPVA,United States,5157
+IPVF,United States,5158
+IPVI,United States,5159
+IPW,United States,5160
+IPWR,United States,5161
+IPX.L,United Kingdom,5162
+IQ,China,5164
+IQAI.L,Jersey,5165
+IQE.L,United Kingdom,5166
+IQG.L,United Kingdom,5167
+IQST,United States,5172
+IQV,United States,5173
+IR,United States,5174
+IRBT,United States,5175
+IRCP,Argentina,5177
+IRDM,United States,5178
+IRIX,United States,5179
+IRM,United States,5180
+IRMD,United States,5181
+IROQ,United States,5182
+IRR.L,Australia,5183
+IRS,Argentina,5184
+IRTC,United States,5186
+IRWD,United States,5187
+ISBA,United States,5199
+ISBC,United States,5200
+ISDR,United States,5202
+ISEE,United States,5205
+ISENF,Canada,5206
+ISIG,United States,5210
+ISLE,United States,5212
+ISMAY,Spain,5214
+ISNS,United States,5215
+ISOS,United States,5216
+ISR.DE,Germany,5219
+ISR,United States,5220
+ISRG,United States,5221
+ISSC,United States,5222
+ISSDY,Denmark,5223
+ISTR,United States,5224
+ISUN,United States,5225
+ISUZY,Japan,5228
+IT,United States,5231
+ITAC,United States,5232
+ITCB,Chile,5233
+ITCI,United States,5234
+ITEX,United States,5236
+ITGR,United States,5237
+ITHX,United States,5238
+ITI,United States,5239
+ITIC,United States,5240
+ITJTY,Sweden,5241
+ITM.L,United Kingdom,5243
+ITMR,Israel,5244
+ITOCY,Japan,5245
+ITOS,United States,5246
+ITP,China,5247
+ITQ,United States,5249
+ITRI,United States,5250
+ITRK.L,United Kingdom,5251
+ITRM,Ireland,5252
+ITRN,Israel,5253
+ITS.L,United Kingdom,5254
+ITT,United States,5255
+ITTOY,Japan,5256
+ITUB,Brazil,5257
+ITV.L,United Kingdom,5258
+ITW,United States,5259
+ITX.L,United States,5262
+IVA,France,5290
+IVAC,United States,5291
+IVAN,United States,5292
+IVC,United States,5293
+IVFH,United States,5294
+IVR,United States,5296
+IVST,United States,5297
+IVU.DE,Germany,5298
+IVZ,United States,5300
+IWG.L,Switzerland,5307
+IX,Japan,5314
+IXI.L,United Kingdom,5315
+IZEA,United States,5317
+J,United States,5319
+JACK,United States,5320
+JADE.L,Hong Kong,5321
+JAGX,United States,5323
+JAKK,United States,5324
+JAMF,United States,5326
+JAN,United States,5327
+JAN.L,United Kingdom,5328
+JANL,United States,5329
+JAPAY,Japan,5330
+JAPSY,Japan,5331
+JAX,United States,5334
+JAY.L,United Kingdom,5335
+JAZZ,Ireland,5336
+JBAXY,Switzerland,5337
+JBHT,United States,5338
+JBL,United States,5339
+JBLU,United States,5340
+JBSAY,Brazil,5341
+JBSS,United States,5342
+JBT,United States,5343
+JCDAF,Israel,5344
+JCI,Ireland,5347
+JCIC,United States,5348
+JCOM,United States,5349
+JCS,United States,5350
+JCTCF,United States,5351
+JCYGY,Singapore,5352
+JD,China,5353
+JDEP.AS,Netherlands,5355
+JDVB,United States,5356
+JDW.L,United Kingdom,5357
+JEF,United States,5359
+JELD,United States,5361
+JEN.DE,Germany,5363
+JENGQ,Canada,5364
+JET.L,Netherlands,5368
+JET2.L,United Kingdom,5369
+JETKY,Netherlands,5372
+JFBC,United States,5373
+JFIN,China,5374
+JFU,China,5376
+JG,China,5377
+JGCCY,Japan,5379
+JHD.L,United Kingdom,5383
+JHG,United Kingdom,5385
+JHX,Ireland,5386
+JIH,United States,5387
+JILL,United States,5389
+JJSF,United States,5390
+JKHY,United States,5391
+JKRO,United States,5392
+JKS,China,5393
+JKX.L,United Kingdom,5394
+JLG.L,United Kingdom,5396
+JLL,United States,5397
+JLP.L,United Kingdom,5398
+JMAT.L,United Kingdom,5399
+JMHLY,Bermuda,5402
+JMIA,Germany,5404
+JMPLY,United Kingdom,5405
+JMSB,United States,5406
+JNCE,United States,5407
+JNJ,United States,5408
+JNPR,United States,5409
+JOAN,United States,5410
+JOB,United States,5411
+JOBS,China,5412
+JOE,United States,5413
+JOFF,United States,5414
+JOG.L,Jersey,5415
+JOUL.L,United Kingdom,5416
+JOUT,United States,5417
+JP,China,5418
+JPM,United States,5425
+JPPHY,Japan,5430
+JPS,United States,5431
+JPSWY,Japan,5433
+JPXGY,Japan,5435
+JRJC,China,5442
+JRONY,Portugal,5443
+JRSH,United States,5445
+JRSS,China,5446
+JRVR,Bermuda,5448
+JSAIY,United Kingdom,5449
+JSCPY,Japan,5450
+JSDA,United States,5451
+JSE.L,Singapore,5452
+JSG.L,United Kingdom,5453
+JSGRY,Japan,5455
+JT,China,5456
+JTC.L,Jersey,5457
+JTEKY,Japan,5458
+JTTRY,Japan,5459
+JUMSY,Greece,5461
+JUN3.DE,Germany,5462
+JUP.L,United Kingdom,5463
+JUPW,United States,5464
+JUSHF,United States,5466
+JUST.L,United Kingdom,5467
+JUVF,United States,5468
+JVA,United States,5469
+JWEL,China,5472
+JWN,United States,5473
+JWS,United States,5474
+JWSM,United States,5475
+JYAC,United States,5476
+JYNT,United States,5477
+K,United States,5479
+K3C.L,United Kingdom,5480
+KAEPY,Japan,5481
+KAHC,United States,5482
+KAI,United States,5483
+KAII,United States,5484
+KAIKY,Japan,5485
+KAIR,United States,5486
+KAJMY,Japan,5487
+KALA,United States,5488
+KALU,United States,5489
+KALV,United States,5490
+KAMN,United States,5491
+KANP,United States,5492
+KAOOY,Japan,5493
+KAPE.L,United Kingdom,5495
+KAR,United States,5496
+KARO,Singapore,5497
+KAT.L,United Kingdom,5498
+KAZ.L,United Kingdom,5499
+KB,South Korea,5500
+KBAL,United States,5502
+KBCSY,Belgium,5505
+KBH,United States,5506
+KBNT,United States,5508
+KBPH,United States,5509
+KBR,United States,5510
+KBSF,China,5511
+KBX.DE,Germany,5512
+KC,China,5513
+KCAC,United States,5514
+KCLI,United States,5515
+KCO.DE,Germany,5516
+KCT.L,United Kingdom,5518
+KDDIY,Japan,5519
+KDMN,United States,5520
+KDNC.L,United Kingdom,5521
+KDNY,United States,5522
+KDP,United States,5523
+KE,United States,5524
+KEFI.L,Cyprus,5525
+KEGX,United States,5526
+KELYA,United States,5527
+KELYB,United States,5528
+KEN,Singapore,5529
+KENDR.AS,Netherlands,5530
+KEP,South Korea,5531
+KEQU,United States,5532
+KER.PA,France,5533
+KERN,United States,5534
+KETL.L,Isle of Man,5536
+KEWL,United States,5537
+KEX,United States,5538
+KEY,United States,5539
+KEYS.L,United Kingdom,5540
+KEYS,United States,5541
+KFFB,United States,5542
+KFRC,United States,5543
+KFS,United States,5544
+KFY,United States,5545
+KGC,Canada,5546
+KGF.L,United Kingdom,5547
+KGFHY,United Kingdom,5548
+KGH.L,United Kingdom,5549
+KGP.L,Ireland,5550
+KGSPY,Ireland,5551
+KGX.DE,Germany,5552
+KHC,United States,5553
+KHNGY,Switzerland,5554
+KIBO.L,Ireland,5555
+KIDS,United States,5556
+KIE.L,United Kingdom,5557
+KIGRY,Germany,5558
+KIII,United States,5559
+KIKOY,Japan,5560
+KIM,United States,5561
+KIN,United States,5562
+KIN,United States,5563
+KINS,United States,5564
+KIRK,United States,5565
+KIROY,South Africa,5566
+KIST.L,United Kingdom,5567
+KKOYY,Finland,5568
+KKR,United States,5569
+KL,Canada,5571
+KLAC,United States,5572
+KLAQ,United States,5573
+KLDI,United States,5574
+KLDO,United States,5575
+KLIC,Singapore,5576
+KLR.L,United Kingdom,5577
+KLR,Italy,5578
+KLXE,United States,5581
+KMB,United States,5582
+KMDA,Israel,5583
+KMI,United States,5584
+KMK.L,United Kingdom,5585
+KMPH,United States,5586
+KMPR,United States,5587
+KMR.L,Ireland,5588
+KMT,United States,5589
+KMTUY,Japan,5590
+KMX,United States,5591
+KN.PA,France,5592
+KN,United States,5593
+KNB.L,United Kingdom,5594
+KNBE,United States,5595
+KNBWY,Japan,5596
+KNCRY,Finland,5597
+KNDI,China,5598
+KNIN.SW,Switzerland,5599
+KNL,United States,5600
+KNOS.L,United Kingdom,5601
+KNRRY,Germany,5602
+KNSA,Bermuda,5603
+KNSL,United States,5604
+KNTE,United States,5605
+KNX,United States,5606
+KNYJY,Finland,5607
+KO,United States,5608
+KOD,United States,5609
+KOD.L,United Kingdom,5610
+KODK,United States,5611
+KOF,Mexico,5612
+KOO.L,United Kingdom,5613
+KOP,United States,5614
+KOPN,United States,5615
+KOS,United States,5616
+KOSS,United States,5617
+KOTMY,Japan,5618
+KPLUY,Germany,5620
+KPN.AS,Netherlands,5621
+KPTI,United States,5622
+KR,United States,5623
+KRA,United States,5624
+KRBP,United States,5625
+KRC,United States,5626
+KRKNF,Canada,5627
+KRKR,China,5628
+KRM.L,United Kingdom,5629
+KRMD,United States,5630
+KRN.DE,Germany,5631
+KRNL,United States,5632
+KRNT,Israel,5633
+KRNTY,Germany,5634
+KRNY,United States,5635
+KRO,United States,5636
+KRON,United States,5637
+KROS,United States,5638
+KRPZ.L,United Kingdom,5639
+KRT,United States,5640
+KRTX,United States,5641
+KRUS,United States,5642
+KRYAY,Ireland,5643
+KRYS,United States,5644
+KSB3.DE,Germany,5645
+KSBI,United States,5646
+KSHB,United States,5647
+KSMT,United States,5648
+KSPN,United States,5650
+KSRYY,Japan,5651
+KSS,United States,5652
+KSU,United States,5653
+KT,South Korea,5654
+KTA.DE,Germany,5655
+KTB,United States,5656
+KTCC,United States,5657
+KTEK.DE,Germany,5659
+KTHN,United States,5660
+KTOS,United States,5661
+KTRA,United States,5662
+KTYB,United States,5663
+KU2.DE,Germany,5664
+KUBTY,Japan,5665
+KUKAY,Germany,5666
+KUKE,China,5667
+KURA,United States,5668
+KURI,United States,5670
+KURRY,Japan,5671
+KVHI,United States,5672
+KVSA,United States,5673
+KVSB,United States,5674
+KVSC,United States,5675
+KW,United States,5677
+KWAC,United States,5678
+KWBT,China,5679
+KWG.L,United Kingdom,5681
+KWHIY,Japan,5682
+KWPCY,Japan,5683
+KWR,United States,5684
+KWS.DE,Germany,5685
+KWS.L,Ireland,5686
+KXIN,China,5687
+KYMR,United States,5688
+KYOCY,Japan,5689
+KYSEY,Japan,5690
+KZG.L,United Kingdom,5691
+KZIA,Australia,5692
+KZMYY,United Kingdom,5693
+KZR,United States,5694
+L,United States,5695
+LABP,United States,5697
+LAC,Canada,5699
+LACQ,United States,5700
+LAD,United States,5701
+LADR,United States,5702
+LAIX,China,5704
+LAKE,United States,5705
+LAM.L,United Arab Emirates,5707
+LAMR,United States,5708
+LANC,United States,5709
+LAND,United States,5710
+LAND.L,United Kingdom,5711
+LARK,United States,5712
+LAS.L,United Kingdom,5713
+LASR,United States,5714
+LATN,United States,5715
+LAUR,United States,5716
+LAWS,United States,5717
+LAZ,Bermuda,5718
+LAZR,United States,5719
+LAZY,United States,5720
+LB,United States,5721
+LBAI,United States,5722
+LBC,United States,5723
+LBPH,United States,5725
+LBRDA,United States,5727
+LBRDB,United States,5728
+LBRDK,United States,5729
+LBRT,United States,5730
+LBTI,China,5732
+LBTYA,United Kingdom,5733
+LBTYB,United Kingdom,5734
+LBTYK,United Kingdom,5735
+LC,United States,5737
+LCAA,Singapore,5738
+LCAP,United States,5739
+LCI,United States,5742
+LCII,United States,5743
+LCNB,United States,5744
+LCTC,United States,5750
+LCTX,United States,5752
+LCUT,United States,5754
+LCY,United States,5756
+LDG.L,United Kingdom,5763
+LDHA,United States,5764
+LDI,United States,5765
+LDL,United States,5766
+LDOS,United States,5767
+LDSCY,United Kingdom,5768
+LE,United States,5770
+LEA,United States,5771
+LEAF,United States,5772
+LEAP,United States,5773
+LEAT,South Africa,5774
+LECO,United States,5775
+LEDS,Taiwan,5776
+LEE,United States,5777
+LEG.DE,Germany,5779
+LEG,United States,5780
+LEGA,United States,5781
+LEGH,United States,5782
+LEGN,United States,5783
+LEGO,United States,5784
+LEHN.SW,Switzerland,5785
+LEI.DE,Germany,5786
+LEJU,China,5787
+LEK.L,Nigeria,5788
+LEN,United States,5789
+LEND.L,Guernsey,5791
+LEO.DE,Germany,5792
+LESL,United States,5796
+LEU,United States,5797
+LEV,Canada,5800
+LEVI,United States,5801
+LEVL,United States,5802
+LEXX,Canada,5803
+LFC,China,5804
+LFGP,United States,5805
+LFI.L,United Kingdom,5806
+LFMD,United States,5807
+LFTR,United States,5808
+LFUS,United States,5809
+LFVN,United States,5810
+LGAC,United States,5811
+LGEN.L,United Kingdom,5818
+LGFRY,China,5823
+LGHL,Hong Kong,5827
+LGIH,United States,5828
+LGIQ,United States,5829
+LGL,United States,5833
+LGND,United States,5834
+LGO,Canada,5835
+LGRDY,France,5837
+LGRS.L,United Kingdom,5838
+LGVN,United States,5842
+LH,United States,5843
+LHA.DE,Germany,5844
+LHAA,United States,5845
+LHC,Bahamas,5846
+LHCG,United States,5847
+LHDX,United States,5848
+LHX,United States,5849
+LI,China,5850
+LICT,United States,5851
+LIFE,United States,5852
+LIGHT.AS,Netherlands,5853
+LII,United States,5854
+LIII,Bahamas,5855
+LILA,United States,5856
+LILAK,United States,5857
+LIN,United Kingdom,5858
+LIN.DE,United Kingdom,5859
+LINC,United States,5860
+LIND,United States,5861
+LINK,United States,5862
+LINX,Brazil,5863
+LIO.L,United Kingdom,5864
+LIQT,Denmark,5865
+LISN.SW,Switzerland,5866
+LIT.L,Australia,5867
+LITB,China,5868
+LITE,United States,5869
+LITOF,Canada,5870
+LIVE,United States,5872
+LIVK,Mexico,5873
+LIVN,United Kingdom,5874
+LIVX,United States,5877
+LIXT,United States,5878
+LIZI,China,5879
+LJAQ,United States,5880
+LJPC,United States,5882
+LKCO,China,5884
+LKFN,United States,5885
+LKNCY,China,5886
+LKQ,United States,5888
+LL,United States,5889
+LLESY,Australia,5890
+LLKKF,Australia,5892
+LLNW,United States,5893
+LLOY.L,United Kingdom,5894
+LLY,United States,5895
+LMACA,United States,5896
+LMAO,United States,5897
+LMAT,United States,5898
+LMB,United States,5899
+LME.L,United Kingdom,5900
+LMFA,United States,5901
+LMND,United States,5902
+LMNL,Canada,5903
+LMNR,United States,5904
+LMNX,United States,5905
+LMP.L,United Kingdom,5906
+LMPX,United States,5907
+LMRK,United States,5908
+LMST,United States,5910
+LMT,United States,5911
+LNC,United States,5912
+LND,Brazil,5913
+LNDC,United States,5914
+LNEGY,Sweden,5915
+LNFA,United States,5916
+LNG,United States,5917
+LNN,United States,5920
+LNNGY,China,5921
+LNNNY,Germany,5922
+LNSTY,United Kingdom,5923
+LNSX.DE,Germany,5924
+LNT,United States,5925
+LNTH,United States,5927
+LOB,United States,5929
+LOCO,United States,5932
+LODE,United States,5933
+LOGC,United States,5935
+LOGI,Switzerland,5936
+LOGN,United States,5938
+LOKB,United States,5940
+LOKM,United States,5941
+LOMA,Argentina,5942
+LONE,United States,5943
+LONN.SW,Switzerland,5944
+LOOK.L,United Kingdom,5945
+LOOP.L,United Kingdom,5946
+LOOP,Canada,5947
+LOPE,United States,5948
+LORL,United States,5949
+LOTZ,United States,5951
+LOV,Germany,5952
+LOVE,United States,5953
+LOW,United States,5954
+LPBC,United States,5956
+LPCN,United States,5957
+LPG,United States,5959
+LPI,United States,5960
+LPK.DE,Germany,5961
+LPL,South Korea,5962
+LPLA,United States,5963
+LPRO,United States,5965
+LPSN,United States,5966
+LPTH,United States,5967
+LPTX,United States,5968
+LPX,United States,5969
+LQDA,United States,5970
+LQDT,United States,5974
+LQMT,United States,5975
+LR.PA,France,5977
+LRCX,United States,5978
+LRE.L,Bermuda,5979
+LRENY,Brazil,5980
+LRLCY,France,5981
+LRMR,United States,5982
+LRN,United States,5983
+LRS1.DE,Luxembourg,5985
+LSAI.L,United Kingdom,5986
+LSAQ,United States,5987
+LSBK,United States,5988
+LSCC,United States,5989
+LSEA,United States,5990
+LSEG.L,United Kingdom,5991
+LSF,United States,5992
+LSFG,United States,5993
+LSL.L,United Kingdom,5995
+LSPD,Canada,5996
+LSRCY,Japan,5997
+LSTR,United States,5998
+LSYN,United States,6000
+LTBR,United States,6002
+LTC,United States,6003
+LTG.L,United Kingdom,6004
+LTHM,United States,6005
+LTMAQ,Chile,6008
+LTMCF,Canada,6009
+LTRN,United States,6010
+LTRPA,United States,6011
+LTRPB,United States,6012
+LTRX,United States,6013
+LU,China,6015
+LUB,United States,6016
+LUCE.L,United Kingdom,6017
+LULU,Canada,6020
+LUMN,United States,6021
+LUMN,United States,6022
+LUMO,United States,6023
+LUNA,United States,6024
+LUNG,United States,6025
+LUV,United States,6027
+LUVU,United States,6028
+LUXA,United States,6029
+LVMUY,France,6030
+LVRA,Cayman Islands,6031
+LVS,United States,6032
+LVTX,Netherlands,6033
+LW,United States,6034
+LWAC,United States,6035
+LWAY,United States,6036
+LWLG,United States,6041
+LX,China,6042
+LXEH,China,6043
+LXFR,United Kingdom,6044
+LXRX,United States,6046
+LXS.DE,Germany,6047
+LXU,United States,6048
+LYB,United States,6050
+LYBC,United States,6051
+LYFT,United States,6052
+LYG,United Kingdom,6053
+LYL,China,6054
+LYRA,United States,6060
+LYTS,United States,6063
+LYV,United States,6064
+LZAGY,Switzerland,6069
+LZB,United States,6070
+LZRFY,Brazil,6071
+M,United States,6072
+M0Y.DE,Germany,6073
+M5Z.DE,Germany,6074
+MA,United States,6075
+MAA,United States,6076
+MAAC,United States,6077
+MAAL,United States,6078
+MAB.L,United Kingdom,6079
+MAB1.L,United Kingdom,6080
+MAC,United States,6081
+MACA,United States,6082
+MACC,United States,6083
+MACE,United States,6084
+MACF.L,United Kingdom,6085
+MACK,United States,6087
+MACP.L,United Kingdom,6088
+MACQ,United States,6089
+MACU,United States,6090
+MAFL.L,Cayman Islands,6092
+MAG,Canada,6093
+MAGOY,Germany,6096
+MAGS,Israel,6098
+MAHLY,Japan,6099
+MAI.L,United Kingdom,6100
+MAIN,United States,6102
+MAJJ,United States,6104
+MAKSY,United Kingdom,6105
+MALRY,Australia,6106
+MAN,United States,6108
+MAN.DE,Germany,6109
+MANH,United States,6110
+MANO.L,United Kingdom,6111
+MANT,United States,6112
+MANU,United Kingdom,6113
+MAR,United States,6115
+MARA,United States,6116
+MARK,United States,6118
+MARS.L,United Kingdom,6119
+MARUY,Japan,6120
+MAS,United States,6121
+MASI,United States,6122
+MASS,United States,6123
+MAST.L,United Kingdom,6124
+MAT,United States,6125
+MATD.L,Isle of Man,6126
+MATW,United States,6128
+MATX,United States,6129
+MAURY,Japan,6130
+MAUSY,Japan,6131
+MAX,United States,6134
+MAXN,Singapore,6135
+MAXR,United States,6136
+MAYS,United States,6137
+MBAC,United States,6138
+MBCN,United States,6139
+MBH.L,United Kingdom,6140
+MBI,United States,6141
+MBII,United States,6142
+MBIN,United States,6143
+MBIO,United States,6144
+MBO.L,Malaysia,6145
+MBOT,United States,6146
+MBRX,United States,6147
+MBT,Russia,6148
+MBTC,United States,6149
+MBUU,United States,6150
+MBWM,United States,6151
+MC.PA,France,6152
+MC,United States,6153
+MCAD,United States,6154
+MCARY,Japan,6155
+MCB.L,United Kingdom,6156
+MCB,United States,6157
+MCBC,United States,6158
+MCBI,United States,6159
+MCBK,United States,6160
+MCBS,United States,6161
+MCCK,United States,6162
+MCD,United States,6163
+MCEM,United States,6164
+MCF,United States,6165
+MCFE,United States,6166
+MCFT,United States,6167
+MCHB,United States,6168
+MCHN.SW,Switzerland,6170
+MCHOY,South Africa,6171
+MCHP,United States,6172
+MCHX,United States,6174
+MCK,United States,6175
+MCKS.L,United Kingdom,6176
+MCL.L,United Kingdom,6177
+MCLS.L,United Kingdom,6178
+MCMJ,United States,6180
+MCO,United States,6181
+MCPHY.PA,France,6182
+MCRAA,United States,6183
+MCRAB,United States,6184
+MCRB,United States,6185
+MCRI,United States,6186
+MCRO.L,United Kingdom,6187
+MCS,United States,6188
+MCVT,United States,6191
+MCY,United States,6192
+MD,United States,6193
+MDB,United States,6194
+MDC,United States,6195
+MDC.L,South Africa,6196
+MDCA,United States,6197
+MDG1.DE,Germany,6199
+MDGL,United States,6200
+MDGS,Israel,6201
+MDH,United States,6202
+MDIA,United States,6203
+MDIBY,Italy,6204
+MDJH,China,6205
+MDLA,United States,6206
+MDLY,United States,6207
+MDLZ,United States,6208
+MDP,United States,6210
+MDRR,United States,6211
+MDRX,United States,6212
+MDT,Ireland,6213
+MDU,United States,6214
+MDVT,United States,6215
+MDWD,Israel,6216
+MDWT,United States,6217
+MDXG,United States,6218
+MEAL.L,United Kingdom,6219
+MEC,United States,6220
+MED,United States,6222
+MEDP,United States,6223
+MEDS,United States,6224
+MEEC,United States,6225
+MEG,United States,6226
+MEI,United States,6227
+MEIP,United States,6228
+MELI,Argentina,6231
+MER.L,United Kingdom,6233
+MERC,Canada,6234
+MERC.L,United Kingdom,6235
+MESA,United States,6236
+MESO,Australia,6238
+MET,United States,6239
+METC,United States,6241
+METEX.PA,France,6242
+METX,China,6243
+MF.PA,France,6244
+MFA,United States,6245
+MFC,Canada,6246
+MFG,Japan,6247
+MFGP,United Kingdom,6248
+MFH,China,6249
+MFIN,United States,6250
+MFNC,United States,6251
+MFON,United States,6252
+MG,United States,6253
+MGA,Canada,6254
+MGAM.L,United Kingdom,6255
+MGEE,United States,6258
+MGGT.L,United Kingdom,6259
+MGI,United States,6260
+MGIC,Israel,6261
+MGLN,United States,6262
+MGM,United States,6263
+MGNI,United States,6264
+MGNK.DE,Germany,6265
+MGNS.L,United Kingdom,6266
+MGNX,United States,6267
+MGOM,United States,6268
+MGP,United States,6269
+MGP.L,United Kingdom,6270
+MGPI,United States,6271
+MGRC,United States,6272
+MGTA,United States,6273
+MGTI,United States,6274
+MGTX,United States,6275
+MGY,United States,6276
+MGYR,United States,6277
+MHC.L,United Kingdom,6278
+MHGU,United States,6279
+MHGVY,Norway,6280
+MHH,United States,6281
+MHK,United States,6282
+MHLD,Bermuda,6283
+MHO,United States,6285
+MHPC,United States,6286
+MHPC,United States,6287
+MIC,United States,6288
+MICR,United States,6289
+MICT,United States,6290
+MIDD,United States,6291
+MIDW.L,United Kingdom,6293
+MIELY,Japan,6294
+MIKN.SW,Switzerland,6300
+MIL.L,Myanmar,6301
+MILE,United States,6302
+MIME,United Kingdom,6303
+MIND.L,United Kingdom,6304
+MIND,United States,6305
+MIRI.L,United Kingdom,6309
+MIRM,United States,6310
+MIST,Canada,6311
+MIT,United States,6312
+MITC,Israel,6313
+MITEY,Japan,6314
+MITK,United States,6315
+MITO,Cayman Islands,6316
+MITSY,Japan,6318
+MITUY,Japan,6319
+MIXT,United States,6321
+MJARF,Canada,6322
+MJH.L,Jersey,6323
+MKC,United States,6324
+MKD,China,6326
+MKGI,United States,6327
+MKKGY,Germany,6328
+MKL,United States,6329
+MKS.L,United Kingdom,6330
+MKSI,United States,6331
+MKTAY,Japan,6332
+MKTX,United States,6333
+MKTY,United States,6334
+MLAB,United States,6337
+MLAC,Hong Kong,6338
+MLCO,Hong Kong,6339
+MLGF,United States,6340
+MLHR,United States,6341
+MLI,United States,6342
+MLM,United States,6344
+MLND,United States,6345
+MLP.DE,Germany,6349
+MLP,United States,6350
+MLR,United States,6355
+MLSS,United States,6356
+MLVF,United States,6358
+MLVN.L,United Kingdom,6359
+MMAC,United States,6360
+MMAG.L,United Kingdom,6361
+MMB.PA,France,6362
+MMC,United States,6363
+MMH.L,United Kingdom,6364
+MMI,United States,6365
+MMM,United States,6369
+MMM.L,United Kingdom,6370
+MMMB,United States,6371
+MMP,United States,6372
+MMS,United States,6373
+MMSI,United States,6374
+MMSMY,Japan,6375
+MMT.PA,France,6376
+MMX.L,British Virgin Islands,6377
+MMYT,India,6378
+MN,United States,6379
+MNBEY,Japan,6380
+MNBO,United States,6381
+MNDI.L,United Kingdom,6382
+MNDO,Israel,6383
+MNG.L,United Kingdom,6384
+MNKD,United States,6386
+MNMD,United States,6389
+MNO.L,Australia,6390
+MNOV,United States,6391
+MNPR,United States,6393
+MNR,United States,6394
+MNRG.L,United Kingdom,6395
+MNRL,United States,6396
+MNRO,United States,6397
+MNSB,United States,6398
+MNSO,China,6399
+MNST,United States,6400
+MNTC.L,United Kingdom,6401
+MNTK,United States,6402
+MNTX,United States,6403
+MNZS.L,United Kingdom,6404
+MO,United States,6405
+MOBQ,United States,6407
+MOD,United States,6408
+MODD,United States,6409
+MODE.L,United Kingdom,6410
+MODN,United States,6411
+MODV,United States,6413
+MOFG,United States,6414
+MOGO,Canada,6417
+MOGU,China,6418
+MOH,United States,6419
+MOHCY,Greece,6420
+MOHO,China,6421
+MOMO,China,6422
+MON,United States,6423
+MONDY,United Kingdom,6424
+MONOY,Japan,6425
+MONY.L,United Kingdom,6426
+MOON.L,United Kingdom,6427
+MOR.DE,Germany,6428
+MOR,Germany,6429
+MORF,United States,6430
+MORN,United States,6431
+MOS,United States,6432
+MOSY,United States,6433
+MOTN,United States,6434
+MOTR.L,United Kingdom,6435
+MOTS,United States,6436
+MOTV,United States,6437
+MOV,United States,6438
+MOVE,United States,6439
+MOXC,Hong Kong,6440
+MP,United States,6441
+MPAA,United States,6442
+MPAC.L,United Kingdom,6443
+MPAD,United States,6444
+MPB,United States,6445
+MPC,United States,6446
+MPE.L,United Kingdom,6447
+MPL.L,Guernsey,6448
+MPLN,United States,6449
+MPLX,United States,6450
+MPNGY,China,6451
+MPW,United States,6453
+MPWR,United States,6454
+MPX,United States,6455
+MQBKY,Australia,6456
+MRAAY,Japan,6457
+MRAC,United States,6458
+MRAM,United States,6459
+MRBK,United States,6460
+MRC,United States,6461
+MRCC,United States,6463
+MRCY,United States,6465
+MREO,United Kingdom,6466
+MRGO,United States,6467
+MRIN,United States,6468
+MRK.DE,Germany,6469
+MRK,United States,6470
+MRKR,United States,6471
+MRL.L,United Kingdom,6473
+MRLN,United States,6474
+MRM,Japan,6475
+MRMD,United States,6476
+MRNA,United States,6477
+MRNS,United States,6478
+MRO,United States,6479
+MRO.L,United Kingdom,6480
+MRPLY,South Africa,6481
+MRSN,United States,6482
+MRTI,United States,6483
+MRTN,United States,6484
+MRTX,United States,6485
+MRUS,Netherlands,6486
+MRVI,United States,6487
+MRVL,United States,6488
+MRW.L,United Kingdom,6489
+MS,United States,6490
+MSA,United States,6491
+MSAC,United States,6492
+MSADY,Japan,6493
+MSBC,United States,6495
+MSBI,United States,6496
+MSC,Hong Kong,6497
+MSCI,United States,6498
+MSEX,United States,6502
+MSF.DE,United States,6503
+MSFT,United States,6508
+MSGE,United States,6509
+MSGM,United States,6510
+MSGN,United States,6511
+MSGS,United States,6512
+MSI,United States,6513
+MSI.L,United Kingdom,6514
+MSLH.L,United Kingdom,6515
+MSLOY,Japan,6516
+MSM,United States,6517
+MSMN.L,Australia,6518
+MSN,United States,6519
+MSON,United States,6520
+MSP,United States,6521
+MSTR,United States,6524
+MSVB,United States,6525
+MSYS.L,United Kingdom,6526
+MT.AS,Luxembourg,6527
+MTAC,United States,6528
+MTB,United States,6529
+MTBC,United States,6530
+MTC,China,6531
+MTC.L,United Kingdom,6532
+MTCH,United States,6533
+MTCR,United States,6534
+MTD,United States,6535
+MTDR,United States,6536
+MTEM,United States,6538
+MTEX,United States,6539
+MTG,United States,6540
+MTH,United States,6542
+MTHRY,Japan,6543
+MTL,Russia,6544
+MTLHY,Japan,6546
+MTLS,Belgium,6547
+MTN,United States,6548
+MTNB,United States,6549
+MTO.L,United Kingdom,6550
+MTOR,United States,6551
+MTP,United Kingdom,6552
+MTPH.L,United Kingdom,6553
+MTR.L,United Kingdom,6554
+MTRN,United States,6555
+MTRO.L,United Kingdom,6556
+MTRX,United States,6557
+MTSFY,Japan,6558
+MTSI,United States,6559
+MTSL,Israel,6560
+MTVW.L,United Kingdom,6563
+MTW,United States,6564
+MTX,United States,6566
+MTZ,United States,6567
+MU,United States,6568
+MUDS,United States,6570
+MUEL,United States,6571
+MUFG,Japan,6572
+MUL.L,United Kingdom,6573
+MULG,China,6574
+MUR,United States,6578
+MURGY,Germany,6579
+MUSA,United States,6581
+MUST.L,United Kingdom,6582
+MUV2.DE,Germany,6584
+MUX,Canada,6585
+MVBF,United States,6586
+MVIS,United States,6588
+MVLY,United States,6589
+MWA,United States,6591
+MX,Luxembourg,6594
+MXC,United States,6595
+MXC.L,Australia,6596
+MXCT.L,United States,6597
+MXIM,United States,6599
+MXL,United States,6600
+MXMTY,Mexico,6601
+MYBF,United States,6605
+MYE,United States,6606
+MYFW,United States,6607
+MYGN,United States,6608
+MYMD ,United States,6610
+MYO,United States,6611
+MYOV,United Kingdom,6612
+MYRG,United States,6613
+MYRK.DE,Germany,6614
+MYSL.L,Australia,6615
+MYSZ,Israel,6616
+MYT,China,6617
+MYTE,Germany,6618
+MZDAY,Japan,6619
+N4P.L,United Kingdom,6620
+N91.L,South Africa,6621
+NA9.DE,Germany,6622
+NAAC,United States,6623
+NABZY,Australia,6624
+NACB,United States,6625
+NAH.L,United Kingdom,6626
+NAII,United States,6627
+NAK,Canada,6629
+NAKD,New Zealand,6630
+NANO.L,United Kingdom,6631
+NANX,United States,6632
+NAOV,United States,6633
+NAPA,United States,6634
+NAPS.L,United Kingdom,6635
+NAR.L,United Kingdom,6636
+NARI,United States,6637
+NASB,United States,6639
+NAT,Bermuda,6642
+NATH,United States,6643
+NATI,United States,6644
+NATR,United States,6645
+NAUH,United States,6646
+NAV,United States,6647
+NAVB,United States,6648
+NAVI,United States,6649
+NAVYA.PA,France,6650
+NBA,United States,6651
+NBEV,United States,6652
+NBHC,United States,6653
+NBIX,United States,6655
+NBN,United States,6658
+NBR,Bermuda,6659
+NBRV,Ireland,6660
+NBSE,United States,6661
+NBST,United States,6662
+NBTB,United States,6663
+NBTX,France,6664
+NBY,United States,6665
+NC,United States,6666
+NCBDY,Japan,6667
+NCBS,United States,6668
+NCC.L,United Kingdom,6669
+NCCL.L,British Virgin Islands,6670
+NCLH,United States,6672
+NCLTY,Japan,6673
+NCMGY,Australia,6674
+NCMI,United States,6675
+NCNA,United Kingdom,6676
+NCNO,United States,6677
+NCR,United States,6678
+NCSM,United States,6679
+NCTY,China,6680
+NCYT.L,United Kingdom,6682
+NDA.DE,Germany,6683
+NDAC,United States,6684
+NDAQ,United States,6685
+NDBKY,South Africa,6686
+NDEKY,Japan,6687
+NDLS,United States,6689
+NDRA,United States,6690
+NDSN,United States,6691
+NDX1.DE,Germany,6692
+NEBC,United States,6693
+NECB,United States,6694
+NEDAP.AS,Netherlands,6695
+NEE,United States,6696
+NEFB,United States,6697
+NEM,United States,6698
+NEM.DE,Germany,6699
+NEO,United States,6700
+NEOEN.PA,France,6701
+NEOG,United States,6702
+NEON,Sweden,6703
+NEP,United States,6704
+NEPH,United States,6705
+NEPT,Canada,6706
+NERV,United States,6707
+NES,United States,6708
+NESN.SW,Switzerland,6710
+NESR,United States,6711
+NET,United States,6712
+NETE,United States,6713
+NETI,Monaco,6714
+NETW.L,United Arab Emirates,6715
+NEU,United States,6716
+NEW,China,6717
+NEWA,China,6718
+NEWAY.AS,Netherlands,6719
+NEWR,United States,6720
+NEWT,United States,6721
+NEX,United States,6722
+NEX.L,United Kingdom,6723
+NEXA,Luxembourg,6724
+NEXI,United States,6725
+NEXOY,Japan,6726
+NEXS.L,United Kingdom,6727
+NEXT,United States,6728
+NFBK,United States,6729
+NFC.L,United Kingdom,6730
+NFC.DE,United States,6731
+NFE,United States,6732
+NFG,United States,6733
+NFH,China,6734
+NFLX,United States,6739
+NFX.L,United Kingdom,6740
+NG,Canada,6741
+NG.L,United Kingdom,6742
+NGAB,United States,6743
+NGAC,United States,6744
+NGG,United Kingdom,6750
+NGHT.L,United Kingdom,6751
+NGKSY,Japan,6752
+NGLOY,United Kingdom,6753
+NGM,United States,6754
+NGMS,Israel,6755
+NGS,United States,6756
+NGVC,United States,6757
+NGVT,United States,6758
+NH,United States,6759
+NHC,United States,6760
+NHI,United States,6761
+NHIC,United States,6762
+NHNKY,Japan,6763
+NHTC,Hong Kong,6764
+NHYDY,Norway,6765
+NI,United States,6766
+NICE,Israel,6767
+NICK,United States,6769
+NICL.L,United Kingdom,6770
+NIDB,United States,6771
+NIFCY,Japan,6772
+NILSY,Russia,6774
+NINE,United States,6775
+NINOY,Japan,6776
+NIO,China,6777
+NIPMY,Japan,6778
+NISN,China,6779
+NIU,China,6780
+NJDCY,Japan,6781
+NJMC,United States,6782
+NJR,United States,6783
+NK.PA,France,6784
+NKE,United States,6785
+NKLA,United States,6786
+NKRKY,Finland,6787
+NKSH,United States,6788
+NKTR,United States,6789
+NKTX,United States,6790
+NL,United States,6791
+NLOK,United States,6792
+NLS,United States,6793
+NLSN,United States,6794
+NLSP,Switzerland,6795
+NLST,United States,6796
+NLTX,United States,6797
+NLY,United States,6798
+NM,Cayman Islands,6799
+NMCN.L,United Kingdom,6801
+NMFC,United States,6802
+NMGRF,Canada,6803
+NMIH,United States,6804
+NMMC,United States,6805
+NMR,Japan,6806
+NMRD,United States,6807
+NMRK,United States,6808
+NMTR,United States,6809
+NN.AS,Netherlands,6810
+NNA,Monaco,6811
+NNBR,United States,6812
+NNCHY,Japan,6813
+NNDM,Israel,6814
+NNGRY,Netherlands,6815
+NNI,United States,6816
+NNN,United States,6817
+NNOX,Israel,6818
+NNUP,United States,6819
+NNVC,United States,6820
+NNXPF,Canada,6821
+NOAC,United States,6822
+NOAH,China,6823
+NOBH,United States,6824
+NOC,United States,6825
+NODB,United States,6826
+NODK,United States,6827
+NOEJ.DE,Germany,6828
+NOG,United States,6829
+NOG.L,United Kingdom,6830
+NOK,Finland,6831
+NOMD,United Kingdom,6832
+NOTV,United States,6833
+NOV,United States,6834
+NOVA,United States,6835
+NOVN.SW,Switzerland,6836
+NOVN,United States,6837
+NOVT,United States,6838
+NOW,United States,6839
+NP,United States,6840
+NPACY,France,6841
+NPCE,United States,6842
+NPK,United States,6843
+NPKYY,Japan,6844
+NPNYY,Japan,6845
+NPO,United States,6846
+NPPNY,Japan,6847
+NPSCY,Japan,6848
+NPSKY,Japan,6849
+NPSNY,South Africa,6850
+NPTN,United States,6851
+NR,United States,6853
+NRAC,United States,6854
+NRBO,United States,6856
+NRC,United States,6857
+NRDBY,Finland,6858
+NREF,United States,6859
+NRG,United States,6860
+NRILY,Japan,6861
+NRIM,United States,6862
+NRIX,United States,6863
+NRO.PA,France,6865
+NROM,United States,6866
+NRR.L,United Kingdom,6867
+NRZ,United States,6868
+NS,United States,6869
+NS,United States,6870
+NSC,United States,6871
+NSCI.L,United Kingdom,6872
+NSEC,United States,6873
+NSF.L,United Kingdom,6874
+NSH,United States,6875
+NSI.AS,Netherlands,6876
+NSIT,United States,6878
+NSP,United States,6879
+NSPR,Israel,6880
+NSRGY,Switzerland,6881
+NSSC,United States,6882
+NSTB,United States,6883
+NSTG,United States,6884
+NSYC,United States,6885
+NSYS,United States,6886
+NTAP,United States,6887
+NTCO,Brazil,6888
+NTCT,United States,6889
+NTDOY,Japan,6890
+NTDTY,Japan,6891
+NTEC,Israel,6893
+NTES,China,6894
+NTGR,United States,6896
+NTIC,United States,6899
+NTIP,United States,6900
+NTLA,United States,6901
+NTNTY,Sweden,6902
+NTNX,United States,6903
+NTOIY,Finland,6905
+NTP,China,6906
+NTQ.L,United Kingdom,6907
+NTR,Canada,6908
+NTRA,United States,6909
+NTRB,United States,6910
+NTRS,United States,6912
+NTST,United States,6913
+NTTYY,Japan,6914
+NTUS,United States,6915
+NTWK,United States,6917
+NTZ,Italy,6918
+NUAN,United States,6919
+NUBC,United States,6920
+NUC.L,United Kingdom,6921
+NUE,United States,6922
+NUKK,United States,6923
+NUM.L,United Kingdom,6924
+NURO,United States,6925
+NUS,United States,6926
+NUVA,United States,6927
+NUVB,United States,6928
+NUVR,United States,6929
+NUWE,United States,6930
+NUZE,United States,6931
+NVAX,United States,6932
+NVCN,Canada,6933
+NVCR,Jersey,6934
+NVDA,United States,6937
+NVEC,United States,6940
+NVEE,United States,6941
+NVFY,United States,6942
+NVGI,Singapore,6943
+NVGS,United Kingdom,6944
+NVIV,United States,6945
+NVMI,Israel,6946
+NVO,Denmark,6947
+NVR,United States,6949
+NVRO,United States,6950
+NVS,Switzerland,6951
+NVSA,United States,6952
+NVST,United States,6953
+NVT,United Kingdom,6954
+NVTA,United States,6955
+NVVE,United States,6956
+NVZMY,Denmark,6957
+NWBI,United States,6959
+NWE,United States,6960
+NWF.L,United Kingdom,6961
+NWFL,United States,6962
+NWG,United Kingdom,6963
+NWG.L,United Kingdom,6964
+NWHM,United States,6965
+NWIN,United States,6966
+NWL,United States,6967
+NWLI,United States,6968
+NWN,United States,6969
+NWOR.L,United Kingdom,6971
+NWPP,United States,6972
+NWPX,United States,6973
+NWS,United States,6974
+NWSA,United States,6975
+NWYF,United States,6976
+NX,United States,6977
+NXE,Canada,6978
+NXGN,United States,6979
+NXGPY,United Kingdom,6980
+NXPI,Netherlands,6981
+NXR.L,United Kingdom,6982
+NXST,United States,6983
+NXT.L,United Kingdom,6984
+NXTC,United States,6985
+NXTD,United States,6986
+NXU,United States,6987
+NXU.DE,Germany,6988
+NYC,United States,6989
+NYCB,United States,6990
+NYMT,United States,6991
+NYMX,Bahamas,6992
+NYT,United States,6993
+O,United States,6995
+O2D.DE,Germany,6996
+OACB,United States,6997
+OAS,United States,6999
+OBAS,Israel,7000
+OBCI,United States,7001
+OBD.L,United Kingdom,7002
+OBLG,United States,7003
+OBLN,United States,7004
+OBNK,United States,7005
+OBSV,Switzerland,7006
+OC,United States,7007
+OCA,United States,7008
+OCAX,United States,7009
+OCBI,United States,7010
+OCC,United States,7011
+OCDDY,United Kingdom,7012
+OCDO.L,United Kingdom,7013
+OCDX,United States,7014
+OCFC,United States,7015
+OCFT,China,7016
+OCG,China,7017
+OCGN,United States,7018
+OCI.AS,Netherlands,7019
+OCLDY,Australia,7020
+OCN,United States,7021
+OCPNY,Japan,7022
+OCSL,United States,7023
+OCUL,United States,7024
+OCUP,United States,7025
+OCX,United States,7026
+ODC,United States,7028
+ODET.PA,France,7029
+ODFL,United States,7030
+ODP,United States,7031
+ODT,United States,7032
+OEC,Luxembourg,7033
+OEG,United States,7034
+OEPW,United States,7035
+OERL.SW,Switzerland,7036
+OESX,United States,7037
+OEZVY,Austria,7038
+OFED,United States,7039
+OFG,United States,7040
+OFIX,United States,7041
+OFLX,United States,7042
+OFS,United States,7043
+OGE,United States,7045
+OGEN,United States,7046
+OGI,Canada,7047
+OGS,United States,7048
+OHB.DE,Germany,7050
+OHG.L,United Kingdom,7051
+OHI,United States,7052
+OHPA,United States,7053
+OHPB,United States,7054
+OI,United States,7055
+OIBRQ,Brazil,7057
+OII,United States,7059
+OIIM,Cayman Islands,7060
+OIS,United States,7064
+OKE,United States,7066
+OKTA,United States,7068
+OKYO.L,United Kingdom,7069
+OLB,United States,7070
+OLCLY,Japan,7071
+OLED,United States,7073
+OLK,Sweden,7074
+OLLI,United States,7075
+OLMA,United States,7076
+OLN,United States,7077
+OLO,United States,7078
+OM,United States,7079
+OMAB,Mexico,7081
+OMC,United States,7082
+OMCL,United States,7083
+OMEG,United States,7084
+OMER,United States,7085
+OMEX,United States,7086
+OMF,United States,7087
+OMI.L,Canada,7088
+OMI,United States,7089
+OMIP.L,United Kingdom,7090
+OMP,United States,7091
+OMQS,United States,7092
+OMRNY,Japan,7093
+OMU.L,South Africa,7094
+OMVKY,Austria,7096
+ON,United States,7099
+ONB,United States,7100
+ONC.L,United Kingdom,7101
+ONCR,United States,7102
+ONCS,United States,7103
+ONCT,United States,7104
+ONDS,United States,7105
+ONE,China,7106
+ONEM,United States,7107
+ONEW,United States,7108
+ONTF,United States,7110
+ONTO,United States,7111
+ONTX,United States,7112
+ONVC,United States,7113
+ONVO,United States,7114
+OOMA,United States,7115
+OOUT.L,British Virgin Islands,7116
+OPBK,United States,7118
+OPCH,United States,7119
+OPEN,United States,7121
+OPG.L,India,7122
+OPGN,United States,7123
+OPHC,United States,7124
+OPHLY,Japan,7125
+OPK,United States,7126
+OPNT,United States,7127
+OPOF,United States,7128
+OPRA,Norway,7129
+OPRT,United States,7130
+OPRX,United States,7131
+OPST,United States,7132
+OPT,Australia,7133
+OPTI.L,United Kingdom,7134
+OPTN,United States,7135
+OPTT,United States,7136
+OPXS,United States,7137
+OPY,United States,7138
+OPYGY,Russia,7139
+OR.PA,France,7140
+ORA,United States,7141
+ORA.PA,France,7142
+ORAN,France,7143
+ORBC,United States,7144
+ORBN,United States,7145
+ORBT,United States,7146
+ORC,United States,7147
+ORCC,United States,7148
+ORCH.L,United Kingdom,7149
+ORCL,United States,7150
+ORCP.L,United Kingdom,7151
+ORDI.AS,Netherlands,7152
+ORGO,United States,7153
+ORGS,United States,7154
+ORI,United States,7155
+ORIC,United States,7156
+ORINY,Finland,7157
+ORKLY,Norway,7159
+ORLY,United States,7160
+ORM.L,Ireland,7161
+ORMP,United States,7162
+ORN,United States,7163
+ORNT.L,Malaysia,7164
+ORP.PA,France,7165
+ORPH.L,United Kingdom,7166
+ORPH,Denmark,7167
+ORRF,United States,7168
+ORTX,United Kingdom,7169
+ORXOY,Sweden,7170
+OSAGY,Germany,7172
+OSB.L,United Kingdom,7173
+OSBC,United States,7174
+OSBK,United States,7175
+OSCR,United States,7176
+OSG,United States,7177
+OSH,United States,7178
+OSI.L,United Kingdom,7179
+OSIS,United States,7180
+OSK,United States,7181
+OSMT,United States,7182
+OSN,China,7183
+OSPN,United States,7184
+OSR.DE,Germany,7185
+OSS,United States,7186
+OSTK,United States,7187
+OSTR,United States,7188
+OSUR,United States,7189
+OSW,Bahamas,7190
+OTAQ.L,United Kingdom,7192
+OTB.L,United Kingdom,7193
+OTCM,United States,7194
+OTGLY,Poland,7195
+OTIC,United States,7196
+OTIS,United States,7197
+OTIVF,Israel,7198
+OTLK,United States,7199
+OTMP.L,United Kingdom,7200
+OTRA,United States,7201
+OTRK,United States,7202
+OTSKY,Japan,7203
+OTTR,United States,7204
+OTTW,United States,7205
+OUKPY,Finland,7207
+OUST,United States,7208
+OVB.L,Ireland,7209
+OVBC,United States,7210
+OVCHY,Singapore,7211
+OVID,United States,7212
+OVLY,United States,7213
+OVV,United States,7214
+OXB.L,United Kingdom,7215
+OXBC,United States,7216
+OXBR,Cayman Islands,7217
+OXIG.L,United Kingdom,7218
+OXLC,United States,7219
+OXM,United States,7220
+OXSQ,United States,7221
+OXY,United States,7222
+OYST,United States,7223
+OZK,United States,7224
+OZON,Cyprus,7225
+PAA,United States,7226
+PAAS,Canada,7227
+PAC,Mexico,7230
+PACB,United States,7232
+PACE,United States,7234
+PACK,United States,7235
+PACW,United States,7236
+PACX,United States,7237
+PAE,United States,7239
+PAF.L,South Africa,7240
+PAG,United States,7241
+PAG.L,United Kingdom,7242
+PAGE.L,United Kingdom,7243
+PAGP,United States,7244
+PAGS,Brazil,7245
+PAH3.DE,Germany,7246
+PAHC,United States,7247
+PAIC,United States,7248
+PALI,United States,7250
+PALM.L,Isle of Man,7251
+PALT,United States,7252
+PAM,Argentina,7253
+PANDY,Denmark,7254
+PANL,United States,7255
+PANR.L,United Kingdom,7256
+PANW,United States,7257
+PAQC,Hong Kong,7258
+PAR,United States,7259
+PARR,United States,7260
+PASG,United States,7261
+PAT.L,United Kingdom,7262
+PATH,United States,7263
+PATI,United States,7264
+PATK,United States,7265
+PAVM,United States,7266
+PAX,Cayman Islands,7267
+PAY.L,United Kingdom,7268
+PAYA,United States,7269
+PAYC,United States,7270
+PAYD,United States,7271
+PAYS,United States,7272
+PAYX,United States,7273
+PB,United States,7274
+PBA,Canada,7275
+PBAM,United States,7276
+PBB.DE,Germany,7277
+PBCO,United States,7278
+PBCT,United States,7279
+PBEE.L,United Kingdom,7280
+PBF,United States,7281
+PBFS,United States,7282
+PBH,United States,7283
+PBHC,United States,7284
+PBI,United States,7285
+PBIP,United States,7286
+PBLA,United States,7287
+PBNK,United States,7289
+PBPB,United States,7290
+PBR,Brazil,7291
+PBSFY,Germany,7294
+PBSV,United States,7295
+PBTS,China,7296
+PBYI,United States,7298
+PCA.L,United Kingdom,7299
+PCAR,United States,7300
+PCB,United States,7301
+PCG,United States,7303
+PCLB,United States,7305
+PCPC,United States,7306
+PCRFY,Japan,7308
+PCRX,United States,7309
+PCSB,United States,7310
+PCT,United States,7311
+PCTI,United States,7313
+PCTN.L,Guernsey,7314
+PCTY,United States,7315
+PCVX,United States,7316
+PCYG,United States,7317
+PCYO,United States,7318
+PD,United States,7319
+PDAC,United States,7320
+PDCE,United States,7321
+PDCO,United States,7322
+PDD,China,7323
+PDER,United States,7324
+PDEX,United States,7325
+PDFS,United States,7326
+PDG.L,United Kingdom,7327
+PDL.L,United Kingdom,7328
+PDLB,United States,7329
+PDOT,United States,7331
+PDRDY,France,7332
+PDSB,United States,7333
+PDYPY,Ireland,7334
+PEAK,United States,7335
+PEB.L,United Kingdom,7336
+PEBB.L,United Kingdom,7337
+PEBC,United States,7338
+PEBK,United States,7339
+PEBO,United States,7340
+PED,United States,7341
+PEG,United States,7342
+PEGA,United States,7343
+PEGRY,United Kingdom,7344
+PEGX,United States,7345
+PEN,United States,7347
+PENN,United States,7348
+PEP,United States,7349
+PERE.L,United Kingdom,7350
+PERI,Israel,7351
+PESI,United States,7352
+PETQ,United States,7353
+PETS,United States,7354
+PETS.L,United Kingdom,7355
+PETZ,China,7356
+PEYE,United States,7358
+PFBC,United States,7359
+PFBI,United States,7360
+PFBX,United States,7361
+PFC.L,Jersey,7362
+PFC,United States,7363
+PFD.L,United Kingdom,7364
+PFDR,United States,7365
+PFE,United States,7366
+PFG.L,United Kingdom,7367
+PFG,United States,7368
+PFGC,United States,7369
+PFHD,United States,7370
+PFHO,United States,7371
+PFIE,United States,7372
+PFIN,United States,7373
+PFIS,United States,7374
+PFLC,United States,7375
+PFLT,United States,7376
+PFMT,United States,7377
+PFOH,United States,7379
+PFPT,United States,7380
+PFS,United States,7381
+PFSI,United States,7382
+PFSW,United States,7383
+PFV.DE,Germany,7384
+PFX,United States,7385
+PG,United States,7386
+PGC,United States,7387
+PGCG,Malaysia,7388
+PGEN,United States,7389
+PGENY,Japan,7390
+PGH.L,United Kingdom,7391
+PGHN.SW,Switzerland,7392
+PGN.DE,Germany,7394
+PGNN,United States,7395
+PGNT,United States,7396
+PGNY,United States,7397
+PGR,United States,7399
+PGR.L,United Kingdom,7400
+PGRW,United States,7401
+PGTI,United States,7402
+PGTK,United States,7403
+PH,United States,7404
+PHAR.L,United Kingdom,7406
+PHARM.AS,Netherlands,7407
+PHAS,United States,7408
+PHAT,United States,7409
+PHC.L,United States,7411
+PHCF,China,7412
+PHCG,United States,7413
+PHD.L,United Kingdom,7414
+PHE.L,United Kingdom,7415
+PHGE,Israel,7417
+PHI,Philippines,7419
+PHIA.AS,Netherlands,7421
+PHIC,United States,7422
+PHIO,United States,7423
+PHM,United States,7424
+PHM,United States,7425
+PHNX.L,United Kingdom,7427
+PHP.L,United Kingdom,7428
+PHPPY,Netherlands,7431
+PHR,United States,7433
+PHTM.L,United Kingdom,7435
+PHUN,United States,7436
+PHVS,Netherlands,7437
+PHX,United States,7438
+PI,United States,7439
+PIAC,United States,7440
+PIAI,United States,7441
+PICC,United States,7442
+PIER.L,United Kingdom,7443
+PII,United States,7444
+PINC,United States,7447
+PING,United States,7448
+PINS,United States,7449
+PIPP,United States,7450
+PIPR,United States,7451
+PIRS,United States,7452
+PIXY,United States,7453
+PJT,United States,7455
+PK,United States,7456
+PKBK,United States,7457
+PKCOY,Japan,7458
+PKDC,United States,7459
+PKE,United States,7460
+PKG,United States,7461
+PKI,United States,7462
+PKIN,United States,7463
+PKKFF,Canada,7464
+PKKW,United States,7465
+PKOH,United States,7466
+PKX,South Korea,7467
+PLAB,United States,7468
+PLAG,United States,7469
+PLAN,United States,7470
+PLAY,United States,7471
+PLAZ.L,Netherlands,7472
+PLBC,United States,7473
+PLBY,United States,7474
+PLCE,United States,7475
+PLD,United States,7476
+PLFRY,Austria,7477
+PLIN,China,7478
+PLL,Australia,7479
+PLM,United States,7480
+PLMR,United States,7482
+PLNHF,United States,7483
+PLNT,United States,7484
+PLOW,United States,7485
+PLPC,United States,7486
+PLPRF,Canada,7487
+PLRX,United States,7488
+PLSE,United States,7489
+PLT,United States,7490
+PLTK,Israel,7491
+PLTR,United States,7492
+PLTYF,Hong Kong,7494
+PLUG,United States,7495
+PLUS,United States,7496
+PLUS.L,Israel,7497
+PLX,Israel,7498
+PLXP,United States,7499
+PLXS,United States,7500
+PLYA,United States,7501
+PLYM,United States,7502
+PM,United States,7503
+PMBC,United States,7504
+PMD,United States,7505
+PME,China,7506
+PMG.L,United Kingdom,7507
+PMGM,United States,7508
+PMHG,United States,7510
+PMI.L,United Kingdom,7511
+PMT,United States,7512
+PMTS,United States,7513
+PMVC,United States,7514
+PMVP,United States,7515
+PNBI,United States,7516
+PNBK,United States,7517
+PNC,United States,7518
+PNE3.DE,Germany,7519
+PNFP,United States,7520
+PNGAY,China,7521
+PNL.AS,Netherlands,7523
+PNM,United States,7524
+PNN.L,United Kingdom,7525
+PNNT,United States,7526
+PNPL.L,United Kingdom,7527
+PNR,United Kingdom,7528
+PNRG,United States,7529
+PNS.L,United Kingdom,7530
+PNTG,United States,7531
+PNTM,United States,7532
+PNW,United States,7533
+POAHY,Germany,7534
+POAI,United States,7535
+PODD,United States,7536
+POG.L,United Kingdom,7537
+POLA,United States,7538
+POLN.SW,Switzerland,7539
+POLR.L,United Kingdom,7540
+POLX.L,United States,7541
+POLY.L,Cyprus,7542
+POM.PA,France,7543
+POOL,United States,7544
+POR,United States,7545
+POS.L,United Kingdom,7547
+POSH,United States,7548
+POST,United States,7549
+POST,United States,7550
+POW.L,United Kingdom,7551
+POW,United States,7552
+POWI,United States,7553
+POWL,United States,7554
+POWW,United States,7555
+PPBI,United States,7556
+PPBN,United States,7557
+PPBT,Israel,7558
+PPC.L,United Kingdom,7559
+PPC,United States,7560
+PPD,United States,7561
+PPG,United States,7562
+PPGH,United States,7563
+PPH.L,Netherlands,7564
+PPHI,United States,7565
+PPIH,United States,7566
+PPL,United States,7567
+PPP.L,United Kingdom,7568
+PPRUY,France,7569
+PPSF,United States,7570
+PPSI,United States,7571
+PPTA,United States,7572
+PQG,United States,7573
+PRA,United States,7575
+PRAA,United States,7576
+PRAH,United States,7577
+PRAX,United States,7578
+PRCH,United States,7579
+PRCX,Malaysia,7581
+PRD.L,Jersey,7582
+PRDO,United States,7583
+PRE.L,United Kingdom,7584
+PRED,United States,7585
+PREM.L,British Virgin Islands,7586
+PRES.L,United Kingdom,7587
+PRFT,United States,7589
+PRFX,Israel,7590
+PRG,United States,7591
+PRGO,Ireland,7592
+PRGS,United States,7593
+PRI,United States,7594
+PRIM,United States,7595
+PRIM.L,United Kingdom,7596
+PRK,United States,7599
+PRKA,United States,7600
+PRLB,United States,7601
+PRLD,United States,7602
+PRM.L,United Kingdom,7603
+PRO,United States,7606
+PROG,United States,7607
+PROS,United States,7608
+PROSY,Netherlands,7609
+PROV,United States,7610
+PRPB,United States,7612
+PRPC,United States,7613
+PRPH,United States,7614
+PRPL,United States,7615
+PRPO,United States,7616
+PRQR,Netherlands,7617
+PRSI,United States,7618
+PRSM.L,United Kingdom,7619
+PRSR,United States,7620
+PRTA,Ireland,7622
+PRTC.L,United States,7623
+PRTG,British Virgin Islands,7624
+PRTH,United States,7625
+PRTK,United States,7626
+PRTS,United States,7627
+PRTY,United States,7628
+PRU.L,United Kingdom,7629
+PRU,United States,7630
+PRV.L,United Kingdom,7632
+PRVA,United States,7633
+PRVB,United States,7634
+PRX.AS,Netherlands,7636
+PRYMY,Italy,7637
+PSA,United States,7638
+PSAC,United States,7639
+PSAG,United States,7640
+PSAN.DE,Germany,7641
+PSB,United States,7642
+PSBQ,United States,7643
+PSEC,United States,7645
+PSFE,United Kingdom,7646
+PSG.DE,Germany,7647
+PSHG,Greece,7650
+PSIX,United States,7651
+PSM.DE,Germany,7652
+PSMMY,United Kingdom,7653
+PSMT,United States,7654
+PSN,United States,7655
+PSN.L,United Kingdom,7656
+PSNL,United States,7657
+PSO,United Kingdom,7658
+PSON.L,United Kingdom,7659
+PSPN.SW,Switzerland,7660
+PSTG,United States,7666
+PSTH,United States,7667
+PSTI,Israel,7668
+PSTV,United States,7669
+PSTX,United States,7670
+PSX,United States,7671
+PSXP,United States,7672
+PT,China,7673
+PTBS,United States,7674
+PTC,United States,7675
+PTCT,United States,7676
+PTE,United States,7677
+PTEC.L,Isle of Man,7678
+PTEN,United States,7679
+PTGX,United States,7680
+PTIC,United States,7681
+PTK,United States,7682
+PTN,United States,7684
+PTNR,Israel,7685
+PTOC,United States,7686
+PTON,United States,7687
+PTR,China,7688
+PTRO.L,United Kingdom,7689
+PTRS,United States,7690
+PTSI,United States,7691
+PTVCA,United States,7692
+PTVCB,United States,7693
+PTVE,United States,7694
+PTY.L,United Kingdom,7695
+PUB.PA,France,7698
+PUBGY,France,7699
+PUBM,United States,7700
+PUCK,United States,7701
+PUK,United Kingdom,7703
+PULM,United States,7704
+PUM.DE,Germany,7705
+PUMP,United States,7706
+PUMSY,Germany,7707
+PUODY,Mexico,7708
+PUR.L,Canada,7709
+PURE,United States,7710
+PURP.L,United Kingdom,7711
+PUYI,China,7714
+PV,Hong Kong,7715
+PVAC,United States,7716
+PVBC,United States,7717
+PVBK,United States,7718
+PVH,United States,7719
+PW,United States,7720
+PWBO,United States,7721
+PWFL,United States,7722
+PWOD,United States,7723
+PWR,United States,7724
+PXC.L,British Virgin Islands,7725
+PXD,United States,7726
+PXEN.L,United Kingdom,7727
+PXLW,United States,7728
+PXS.L,United Kingdom,7729
+PXS,Greece,7730
+PYPD,Israel,7732
+PYPL,United States,7733
+PYR,Canada,7735
+PYYX,United States,7737
+PZC.L,United Kingdom,7738
+PZG,United States,7739
+PZN,United States,7740
+PZZA,United States,7741
+QADA,United States,7742
+QADB,United States,7743
+QBIEY,Australia,7744
+QBY.DE,Germany,7745
+QCOM,United States,7748
+QCRH,United States,7749
+QD,China,7750
+QDEL,United States,7751
+QELL,United States,7763
+QEPC,United States,7764
+QFI.L,United Kingdom,7765
+QFIN,China,7766
+QFTA,United States,7767
+QGEN,Netherlands,7768
+QH,China,7769
+QIA.DE,Netherlands,7770
+QIWI,Cyprus,7771
+QK,China,7772
+QLGN,United States,7773
+QLI,China,7774
+QLT.L,United Kingdom,7775
+QLYS,United States,7776
+QMCI,United States,7777
+QMCO,United States,7778
+QMCO,United States,7779
+QNBC,United States,7780
+QNST,United States,7781
+QNTO,United States,7782
+QQ.L,United Kingdom,7783
+QRHC,United States,7787
+QRTEA,United States,7788
+QRTEA,United States,7789
+QRVO,United States,7790
+QS,United States,7791
+QSR,Canada,7792
+QTNT,Switzerland,7793
+QTRX,United States,7794
+QTT,China,7795
+QTWO,United States,7796
+QTX.L,United Kingdom,7797
+QUAD,United States,7798
+QUBT,United States,7799
+QUIK,United States,7801
+QUIZ.L,United Kingdom,7802
+QUMU,United States,7803
+QUOT,United States,7804
+QURE,Netherlands,7805
+QXT.L,United Kingdom,7807
+R,United States,7808
+R6C.DE,Netherlands,7810
+RAA.DE,Germany,7811
+RAAC,United States,7812
+RAAS,China,7813
+RACA,United States,7814
+RACB,United States,7815
+RACE,Italy,7816
+RAD,United States,7817
+RADA,Israel,7818
+RAFI,United States,7819
+RAI.L,United Arab Emirates,7820
+RAIFY,Austria,7821
+RAIL,United States,7822
+RAIN,United States,7823
+RAMP,United States,7824
+RAND.AS,Netherlands,7825
+RAND,United States,7826
+RANJY,Netherlands,7827
+RAPT,United States,7828
+RARE,United States,7829
+RAT.L,United Kingdom,7830
+RAV.L,United Kingdom,7831
+RAVE,United States,7832
+RAVN,United States,7833
+RBAC,United States,7834
+RBB,United States,7835
+RBBN,United States,7836
+RBC,United States,7837
+RBCAA,United States,7838
+RBCN,United States,7839
+RBG.L,United Kingdom,7840
+RBGLY,United Kingdom,7841
+RBGP.L,United Kingdom,7842
+RBKB,United States,7844
+RBLX,United States,7845
+RBNC,United States,7846
+RBSFY,France,7849
+RBW.L,Guernsey,7851
+RC,United States,7852
+RCAR,United States,7853
+RCAT,United States,7854
+RCBC,United States,7855
+RCDO.L,United Kingdom,7856
+RCEL,United States,7857
+RCH.L,United Kingdom,7858
+RCHG,United States,7859
+RCI,Canada,7860
+RCII,United States,7861
+RCKT,United States,7862
+RCKY,United States,7863
+RCL,United States,7864
+RCLF,United States,7865
+RCM,United States,7866
+RCMT,United States,7867
+RCN.L,United Kingdom,7868
+RCO.PA,France,7869
+RCON,China,7870
+RCRUY,Japan,7872
+RCUS,United States,7873
+RDCM,Israel,7874
+RDEIY,Spain,7875
+RDFN,United States,7876
+RDHL,Israel,7877
+RDI,United States,7878
+RDI.L,United Kingdom,7879
+RDIB,United States,7880
+RDN,United States,7882
+RDNT,United States,7883
+RDSA.L,Netherlands,7886
+RDSA.AS,Netherlands,7887
+RDSB.AS,Netherlands,7888
+RDSB.L,Netherlands,7889
+RDSMY,Netherlands,7890
+RDT.L,United Kingdom,7892
+RDUS,United States,7893
+RDVT,United States,7894
+RDW.L,United Kingdom,7895
+RDWR,Israel,7896
+RDY,India,7898
+RE.L,United Kingdom,7899
+RE,Bermuda,7900
+RE.PA,France,7901
+REAL,United States,7903
+REAT.L,United Kingdom,7904
+REC.L,United Kingdom,7905
+REDD.L,United Kingdom,7908
+REDU,China,7909
+REDW,United States,7910
+REDX.L,United Kingdom,7911
+REED,United States,7913
+REEMF,United States,7914
+REFR,United States,7915
+REG,United States,7916
+REGI,United States,7917
+REGN,United States,7918
+REI,United States,7919
+REKR,United States,7920
+REL.L,United Kingdom,7921
+RELI,United States,7922
+RELL,United States,7923
+RELX,United Kingdom,7924
+REMYY,France,7925
+REN.AS,United Kingdom,7926
+RENE.L,United Kingdom,7927
+RENN,China,7929
+REPH,United States,7932
+REPL,United States,7933
+REPX,United States,7934
+REPYY,Spain,7935
+RES,United States,7936
+RESN,United States,7938
+RETA,United States,7939
+RETO,China,7940
+REV,United States,7941
+REVG,United States,7942
+REX,United States,7944
+REXR,United States,7945
+REYN,United States,7946
+REZI,United States,7947
+REZZF,Canada,7948
+RF.PA,France,7949
+RF,United States,7950
+RFIL,United States,7951
+RFL,United States,7952
+RFP,Canada,7953
+RGA,United States,7955
+RGBD,United States,7956
+RGCO,United States,7957
+RGEN,United States,7958
+RGLD,United States,7960
+RGLS,United States,7961
+RGLXY,Luxembourg,7962
+RGNX,United States,7963
+RGP.L,United Kingdom,7964
+RGP,United States,7965
+RGR,United States,7966
+RGS,United States,7967
+RH,United States,7968
+RHDGF,Netherlands Antilles,7969
+RHHBY,Switzerland,7970
+RHI,United States,7971
+RHIM.L,Austria,7972
+RHK.DE,Germany,7973
+RHM.DE,Germany,7974
+RHM.L,Guernsey,7975
+RI.PA,France,7976
+RIB.DE,Germany,7977
+RIBT,United States,7978
+RICE,United States,7980
+RICK,United States,7981
+RICOY,Japan,7982
+RIDE,United States,7983
+RIG,Switzerland,7985
+RIGL,United States,7987
+RILY,United States,7989
+RIO,United Kingdom,7990
+RIO.L,United Kingdom,7991
+RIOT,United States,7992
+RIV.L,United Kingdom,7995
+RIVE,United States,7996
+RJF,United States,7997
+RKAGY,Germany,7998
+RKDA,United States,7999
+RKH.L,United Kingdom,8001
+RKT.L,United Kingdom,8002
+RKT,United States,8003
+RKUNY,Japan,8005
+RL,United States,8006
+RLAY,United States,8007
+RLF.SW,Switzerland,8008
+RLGT,United States,8009
+RLGY,United States,8010
+RLI,United States,8011
+RLJ,United States,8012
+RLMD,United States,8013
+RLX,China,8014
+RM.L,United Kingdom,8015
+RM,United States,8016
+RMAX,United States,8018
+RMBI,United States,8019
+RMBL,United States,8020
+RMBS,United States,8021
+RMCF,United States,8022
+RMD,United States,8023
+RMED,United States,8026
+RMG.L,United Kingdom,8027
+RMGB,United States,8028
+RMGC,United States,8029
+RMM.L,United Kingdom,8030
+RMNI,United States,8032
+RMO,United States,8033
+RMR,United States,8034
+RMS.L,United Kingdom,8035
+RMS.PA,France,8036
+RMTI,United States,8037
+RMV.L,United Kingdom,8038
+RMYHY,Australia,8039
+RNA,United States,8040
+RNDB,United States,8042
+RNECY,Japan,8043
+RNEP.L,United States,8044
+RNEW.L,United States,8045
+RNG,United States,8046
+RNGR,United States,8047
+RNK.L,United Kingdom,8048
+RNLSY,France,8049
+RNLX,United Kingdom,8050
+RNMBY,Germany,8051
+RNO.PA,France,8052
+RNO.L,United Kingdom,8053
+RNR,Bermuda,8054
+RNST,United States,8055
+RNVA,United States,8056
+RNWH.L,United Kingdom,8057
+RNWK,United States,8058
+ROAD,United States,8059
+ROCC,United States,8063
+ROCK,United States,8064
+ROCK.L,United Kingdom,8065
+ROCR,United States,8066
+ROFO,United States,8067
+ROG,United States,8068
+ROG.SW,Switzerland,8069
+ROHCY,Japan,8070
+ROK,United States,8071
+ROKU,United States,8072
+ROL,United States,8073
+ROLL,United States,8075
+ROO.L,United Kingdom,8076
+ROOT,United States,8077
+ROP,United States,8078
+ROQ.L,United Kingdom,8079
+ROR.L,United Kingdom,8080
+ROSE.SW,Switzerland,8081
+ROST,United States,8083
+ROSYY,Russia,8084
+ROT,United States,8085
+ROTH.PA,France,8086
+RPAY,United States,8087
+RPD,United States,8088
+RPHM,United States,8089
+RPM,United States,8090
+RPRX,United States,8091
+RPS.L,United Kingdom,8092
+RPTX,Canada,8093
+RR.L,United Kingdom,8094
+RRBI,United States,8095
+RRC,United States,8096
+RRD,United States,8097
+RRGB,United States,8098
+RRR,United States,8099
+RRR.L,United Kingdom,8100
+RRTL.DE,Luxembourg,8101
+RRTS,United States,8102
+RS,United States,8103
+RSA.L,United Kingdom,8104
+RSG,United States,8107
+RSG.L,Australia,8108
+RSI,United States,8110
+RSKIA,United States,8111
+RSNAY,United Kingdom,8112
+RSRV,United States,8113
+RSSS,United States,8114
+RST.L,United Kingdom,8115
+RSTAY,Germany,8116
+RSVA,United States,8117
+RSW.L,United Kingdom,8118
+RTMVY,United Kingdom,8119
+RTN.L,United Kingdom,8120
+RTO.L,United Kingdom,8121
+RTOKY,United Kingdom,8122
+RTP,United States,8123
+RTPZ,United States,8125
+RTTO,Hong Kong,8126
+RTX,United States,8130
+RUBY,United States,8131
+RUI.PA,France,8133
+RUN,United States,8134
+RUSHA,United States,8138
+RUSHB,United States,8139
+RUTH,United States,8140
+RVCB,United States,8141
+RVI,United States,8142
+RVLV,United States,8143
+RVMD,United States,8144
+RVNC,United States,8145
+RVP,United States,8146
+RVPH,United States,8147
+RVRF,United States,8149
+RVSB,United States,8150
+RWA.L,United Kingdom,8151
+RWCB,United States,8152
+RWE.DE,Germany,8153
+RWEOY,Germany,8154
+RWI.L,United Kingdom,8155
+RWLK,Israel,8156
+RWS.L,United Kingdom,8157
+RWT,United States,8158
+RWWI,United States,8159
+RXDX,United States,8160
+RXEEY,France,8161
+RXL.PA,France,8162
+RXN,United States,8163
+RXRA,United States,8164
+RXRX,United States,8165
+RXT,United States,8166
+RY,Canada,8167
+RYA.L,Ireland,8168
+RYAAY,Ireland,8169
+RYAM,United States,8170
+RYB,China,8171
+RYES,Canada,8172
+RYFL,United States,8173
+RYHTY,New Zealand,8174
+RYI,United States,8175
+RYKKY,Japan,8176
+RYN,United States,8177
+RYTM,United States,8178
+S32.L,Australia,8182
+S92.DE,Germany,8187
+S9I.DE,Germany,8188
+SA,Canada,8189
+SAA.L,United Kingdom,8190
+SABK,United States,8193
+SABR,United States,8194
+SACH,United States,8195
+SADL,United States,8196
+SAE.DE,Netherlands,8197
+SAE.L,United Kingdom,8198
+SAF.PA,France,8201
+SAFE,United States,8202
+SAFE.L,United Kingdom,8203
+SAFM,United States,8204
+SAFRY,France,8205
+SAFT,United States,8206
+SAGA.L,United Kingdom,8207
+SAGE,United States,8208
+SAH,United States,8209
+SAHN.SW,Switzerland,8210
+SAIA,United States,8211
+SAIC,United States,8212
+SAII,United States,8213
+SAIL,United States,8214
+SAL,United States,8217
+SAL.L,United Kingdom,8218
+SALM,United States,8220
+SALRY,Norway,8221
+SAM,United States,8222
+SAMG,United States,8225
+SAN,Spain,8227
+SAN.PA,France,8228
+SANA,United States,8229
+SAND,Canada,8230
+SANM,United States,8231
+SANT.DE,Austria,8232
+SANW,United States,8233
+SAP.DE,Germany,8234
+SAP,Germany,8235
+SAR,United States,8238
+SASR,United States,8239
+SATS,United States,8241
+SAUHY,Switzerland,8242
+SAV.L,United Kingdom,8245
+SAVA,United States,8246
+SAVE.L,United Kingdom,8247
+SAVE,United States,8248
+SAX.DE,Germany,8250
+SAXPY,Finland,8251
+SB,Monaco,8253
+SBAC,United States,8256
+SBBG,United States,8258
+SBBI,United States,8259
+SBBP,United States,8260
+SBCF,United States,8262
+SBEA,United States,8264
+SBFFY,Netherlands,8265
+SBFG,United States,8266
+SBG,United States,8267
+SBGI,United States,8268
+SBGSY,France,8269
+SBH,United States,8270
+SBI.L,United Kingdom,8271
+SBII,United States,8272
+SBKK,United States,8274
+SBKO,United States,8275
+SBLK,Greece,8276
+SBLUY,Luxembourg,8277
+SBMO.AS,Netherlands,8278
+SBNC,United States,8279
+SBNY,United States,8280
+SBOEY,Austria,8283
+SBOW,United States,8284
+SBRA,United States,8287
+SBRE.L,United Kingdom,8288
+SBRY.L,United Kingdom,8290
+SBS,Brazil,8291
+SBS.DE,Germany,8292
+SBSI,United States,8294
+SBSNY,Norway,8295
+SBSW,South Africa,8296
+SBT,United States,8297
+SBTX,United States,8298
+SBTX.L,United Kingdom,8299
+SBUX,United States,8302
+SC,United States,8303
+SCAQ,United States,8305
+SCBFY,United Kingdom,8306
+SCCO,United States,8307
+SCGL.L,Cayman Islands,8309
+SCGLY,France,8310
+SCHL,United States,8311
+SCHN,United States,8312
+SCHN.SW,Switzerland,8313
+SCHO.L,United Kingdom,8314
+SCHW,United States,8315
+SCI,United States,8316
+SCIA,United States,8317
+SCIR.L,United Kingdom,8319
+SCKT,United States,8321
+SCL,United States,8322
+SCLE,United States,8323
+SCLP.L,United Kingdom,8324
+SCM,United States,8325
+SCMN.SW,Switzerland,8326
+SCMWY,Switzerland,8327
+SCND,United States,8328
+SCOA,United Kingdom,8330
+SCOB,United Kingdom,8331
+SCON,United States,8332
+SCOR,United States,8334
+SCPE,Singapore,8336
+SCPH,United States,8337
+SCPJ,United States,8338
+SCPL,United States,8339
+SCPS,United States,8340
+SCR.PA,France,8341
+SCR,Canada,8342
+SCRYY,France,8346
+SCS.L,United Kingdom,8347
+SCS,United States,8348
+SCSC,United States,8349
+SCSG,United States,8350
+SCT.L,United Kingdom,8351
+SCTC,Israel,8352
+SCTY,United States,8354
+SCU,United States,8355
+SCVL,United States,8356
+SCVPY,Thailand,8357
+SCVX,United States,8358
+SCWX,United States,8359
+SCX,United States,8360
+SCXLB,United States,8361
+SCYT,United States,8363
+SCYX,United States,8364
+SCZC,United States,8365
+SD,United States,8366
+SDAC,United States,8367
+SDC,United States,8368
+SDF.DE,Germany,8369
+SDG.L,United Kingdom,8370
+SDGR,United States,8371
+SDH,China,8372
+SDI.L,United Kingdom,8374
+SDPI,United States,8379
+SDR.L,United Kingdom,8380
+SDRC.L,United Kingdom,8381
+SDRLF,Bermuda,8382
+SDRY.L,United Kingdom,8383
+SDVKY,Sweden,8387
+SDX.L,United Kingdom,8390
+SDXAY,France,8391
+SDY.L,United Kingdom,8392
+SE,Singapore,8393
+SEAC,United States,8395
+SEAH,United States,8396
+SEAS,United States,8397
+SEB,United States,8398
+SEBC,United States,8399
+SECI,United States,8402
+SECO,China,8403
+SEDG,Israel,8404
+SEE,United States,8407
+SEED,China,8408
+SEEL,United States,8409
+SEEN.L,United Kingdom,8410
+SEER,United States,8411
+SEFA.L,Israel,8412
+SEIC,United States,8416
+SEKEY,Japan,8418
+SELB,United States,8419
+SEM,United States,8421
+SEM,United States,8422
+SEMR,United States,8426
+SEMUF,Cayman Islands,8427
+SENEA,United States,8429
+SENEB,United States,8430
+SENR,United States,8431
+SENS,United States,8432
+SENS.L,United Kingdom,8433
+SENX.L,Jersey,8434
+SEOAY,Finland,8435
+SEOVF,Canada,8436
+SEPL.L,Nigeria,8437
+SESG.PA,Luxembourg,8442
+SESN,United States,8443
+SEV.PA,France,8446
+SF,United States,8447
+SF3.DE,Germany,8448
+SFBC,United States,8450
+SFBS,United States,8453
+SFDL,United States,8454
+SFE,United States,8455
+SFE.L,United Kingdom,8456
+SFET,Israel,8457
+SFIX,United States,8458
+SFL,Bermuda,8459
+SFM,United States,8460
+SFNC,United States,8461
+SFOR.L,United Kingdom,8465
+SFQ.DE,Germany,8466
+SFR.L,United Kingdom,8467
+SFRGY,Italy,8468
+SFSN.SW,Switzerland,8469
+SFST,United States,8470
+SFT,United States,8471
+SFTBY,Japan,8472
+SFTW,United States,8476
+SFUN,China,8477
+SFZN.SW,Switzerland,8478
+SGA,United States,8480
+SGAM,United States,8481
+SGAMY,Japan,8482
+SGBLY,South Africa,8485
+SGBX,United States,8488
+SGC.L,United Kingdom,8489
+SGC,United States,8490
+SGE.L,United Kingdom,8491
+SGEN,United States,8493
+SGFY,United States,8495
+SGH,United States,8496
+SGIOY,Japan,8498
+SGKN.SW,Switzerland,8499
+SGL.DE,Germany,8500
+SGLB,United States,8501
+SGMA,United States,8508
+SGMO,United States,8510
+SGMS,United States,8512
+SGO.PA,France,8513
+SGOC,Hong Kong,8514
+SGPYY,United Kingdom,8517
+SGRO.L,United Kingdom,8519
+SGRP,United States,8520
+SGRY,United States,8521
+SGSI,United States,8524
+SGSN.SW,Switzerland,8525
+SGSOY,Switzerland,8526
+SGTX,United States,8527
+SGU,United States,8528
+SGZ.L,Australia,8530
+SHA.DE,Germany,8531
+SHAC,United States,8532
+SHAK,United States,8533
+SHB.L,United Kingdom,8534
+SHBI,United States,8535
+SHC,United States,8536
+SHCAY,Japan,8537
+SHECY,Japan,8538
+SHEN,United States,8540
+SHG.L,Guernsey,8541
+SHG,South Korea,8542
+SHI,China,8543
+SHI.L,United Kingdom,8544
+SHIP,Greece,8545
+SHLS,United States,8547
+SHLX,United States,8548
+SHMUY,Japan,8549
+SHO,United States,8550
+SHOE.L,United Kingdom,8552
+SHOO,United States,8553
+SHOP,Canada,8554
+SHRG,United States,8556
+SHRMF,Canada,8557
+SHSP,United States,8561
+SHW,United States,8563
+SHWDY,Japan,8564
+SHWE.L,Singapore,8565
+SHWZ,United States,8566
+SHYF,United States,8567
+SHZHY,Hong Kong,8569
+SHZUY,Japan,8570
+SI,United States,8571
+SIBN,United States,8572
+SIC,United States,8573
+SID,Brazil,8574
+SIE.DE,Germany,8575
+SIEB,United States,8576
+SIEGY,Germany,8577
+SIEN,United States,8578
+SIETY,Belgium,8579
+SIF,United States,8580
+SIFY,India,8581
+SIG.L,United Kingdom,8582
+SIG,Bermuda,8583
+SIGA,United States,8584
+SIGB.L,Guernsey,8585
+SIGI,United States,8586
+SIGL,United States,8587
+SIGN.SW,Switzerland,8588
+SIHL.L,British Virgin Islands,8589
+SIKA.SW,Switzerland,8590
+SILC,Israel,8591
+SILK,United States,8592
+SILXY,Australia,8593
+SIM,Mexico,8594
+SIMA,United States,8595
+SIMO,Hong Kong,8596
+SINO,United States,8598
+SINT,United States,8599
+SIOX,United States,8600
+SIRI,United States,8602
+SIS.L,United Kingdom,8603
+SITE,United States,8604
+SITM,United States,8605
+SIVB,United States,8607
+SIX,United States,8608
+SIX2.DE,Germany,8609
+SIX3.DE,Germany,8610
+SIXH.L,United Kingdom,8611
+SJ,China,8612
+SJI,United States,8614
+SJJ.DE,Germany,8615
+SJM,United States,8616
+SJR,Canada,8623
+SJW,United States,8624
+SK.PA,France,8625
+SKB.DE,Germany,8626
+SKBSY,Sweden,8627
+SKFRY,Sweden,8628
+SKG.L,Ireland,8629
+SKHHY,Australia,8630
+SKHSY,Japan,8631
+SKLKY,Japan,8633
+SKLTY,Australia,8634
+SKLZ,United States,8635
+SKM,South Korea,8636
+SKSUY,Japan,8637
+SKT,United States,8638
+SKTP,United States,8639
+SKX,United States,8640
+SKY,United States,8641
+SKYT,United States,8643
+SKYW,United States,8645
+SLA.L,United Kingdom,8647
+SLAB,United States,8648
+SLAC,United States,8649
+SLAM,United States,8650
+SLB,United States,8651
+SLCA,United States,8652
+SLCR,Hong Kong,8653
+SLCT,United States,8654
+SLDB,United States,8655
+SLE.L,Ireland,8656
+SLF,Canada,8657
+SLG,United States,8658
+SLGD,United States,8659
+SLGG,United States,8660
+SLGL,Israel,8661
+SLGN,United States,8662
+SLHN.SW,Switzerland,8663
+SLIGR.AS,Netherlands,8665
+SLM,United States,8666
+SLN.L,United Kingdom,8669
+SLN,United Kingdom,8670
+SLNG,United States,8671
+SLNO,United States,8672
+SLOIY,France,8673
+SLP,United States,8674
+SLP.L,Bermuda,8675
+SLQT,United States,8677
+SLRC,United States,8679
+SLRK,United States,8680
+SLRX,United States,8681
+SLS,United States,8683
+SLT.DE,Germany,8684
+SM,United States,8687
+SMAL,United States,8688
+SMAR,United States,8689
+SMBC,United States,8690
+SMBK,United States,8691
+SMCAY,Japan,8692
+SMCI,United States,8693
+SMDM,United States,8694
+SMDS.L,United Kingdom,8695
+SMED,United States,8697
+SMFG,Japan,8698
+SMFKY,Ireland,8699
+SMG,United States,8700
+SMGZY,United Kingdom,8702
+SMHI,United States,8705
+SMHN.DE,Germany,8706
+SMID,United States,8708
+SMIN.L,United Kingdom,8710
+SMIT,United States,8711
+SMJ.L,United Kingdom,8712
+SML.L,United Kingdom,8713
+SMLR,United States,8714
+SMMF,United States,8715
+SMMNY,Germany,8716
+SMMT,United States,8717
+SMMYY,Japan,8718
+SMNNY,Japan,8719
+SMP,United States,8720
+SMP.L,United Kingdom,8721
+SMPL,United States,8722
+SMPNY,Japan,8723
+SMRT.L,United Kingdom,8724
+SMS.L,United Kingdom,8725
+SMSI,United States,8729
+SMSMY,Australia,8730
+SMTC,United States,8733
+SMTI,United States,8734
+SMTOY,Japan,8735
+SMTS,Canada,8736
+SMWH.L,United Kingdom,8740
+SN.L,United Kingdom,8741
+SNA,United States,8742
+SNAP,United States,8743
+SNAP,United States,8744
+SNBN.SW,Switzerland,8746
+SNBR,United States,8747
+SNCR,United States,8748
+SNCY,United States,8749
+SND,United States,8750
+SNDL,Canada,8751
+SNDR,United States,8752
+SNDX,United States,8753
+SNES,United States,8754
+SNEX,United States,8755
+SNFCA,United States,8756
+SNGX,United States,8760
+SNII,United States,8761
+SNMCY,Australia,8763
+SNN.L,United Kingdom,8764
+SNN,United Kingdom,8765
+SNNF,United States,8766
+SNNY,United States,8767
+SNOA,United States,8768
+SNOW,United States,8769
+SNP,China,8770
+SNPHY,Japan,8771
+SNPR,United States,8772
+SNPS,United States,8773
+SNR.L,United Kingdom,8774
+SNRH,United States,8775
+SNSE,United States,8776
+SNV,United States,8777
+SNWS.L,United Kingdom,8780
+SNX,United States,8781
+SNY,France,8782
+SO.PA,France,8783
+SO,United States,8784
+SO4.L,Australia,8785
+SOAC,United States,8786
+SOBKY,Japan,8787
+SOBS,United States,8788
+SOFO,United States,8790
+SOGO,China,8791
+SOHU,China,8793
+SOHVY,Japan,8794
+SOI.PA,France,8795
+SOI,United States,8797
+SOL,United States,8799
+SOL,United States,8800
+SOLG.L,Australia,8802
+SOLO,Canada,8803
+SOLVY,Belgium,8804
+SOLY,United States,8805
+SOM.L,United States,8806
+SOMC,United States,8807
+SOMLY,Japan,8808
+SON,United States,8809
+SONM,United States,8811
+SONN,United States,8812
+SONO,United States,8813
+SONVY,Switzerland,8814
+SONY,Japan,8815
+SOON.SW,Switzerland,8816
+SOP.PA,France,8817
+SORT,United States,8818
+SOS.L,United Kingdom,8819
+SOS,China,8820
+SOTGY,China,8821
+SOTK,United States,8822
+SOU.L,United Kingdom,8823
+SOW.DE,Germany,8824
+SOWG,United States,8825
+SP,United States,8829
+SPAQ,United States,8832
+SPB,United States,8833
+SPC.L,United Kingdom,8834
+SPCB,Israel,8835
+SPCE,United States,8836
+SPCO,United States,8837
+SPDI.L,Ukraine,8838
+SPE.L,United Kingdom,8840
+SPEC.L,United Kingdom,8841
+SPFI,United States,8848
+SPFR,United States,8849
+SPG,United States,8850
+SPGI,United States,8851
+SPGS,United States,8852
+SPGZ,United States,8853
+SPH,United States,8854
+SPHRY,Australia,8855
+SPI.L,United Kingdom,8856
+SPI,Hong Kong,8857
+SPI,Hong Kong,8858
+SPIE.PA,France,8859
+SPKB,United States,8860
+SPKE,United States,8861
+SPLK,United States,8862
+SPND,United States,8864
+SPNE,United States,8865
+SPNS,Israel,8866
+SPNT,Bermuda,8867
+SPNV,United States,8868
+SPO.L,United Kingdom,8869
+SPOK,United States,8870
+SPOT,Luxembourg,8871
+SPPI,United States,8872
+SPR.L,United Kingdom,8876
+SPR,United States,8878
+SPRB,United States,8879
+SPRO,United States,8880
+SPRQ,United States,8881
+SPRS,United States,8882
+SPRT,United States,8883
+SPRWF,Canada,8884
+SPSC,United States,8885
+SPSN.SW,Switzerland,8886
+SPT,United States,8887
+SPT.L,United Kingdom,8888
+SPTK,United States,8889
+SPTN,United States,8890
+SPWH,United States,8891
+SPWR,United States,8892
+SPX.L,United Kingdom,8893
+SPXC,United States,8894
+SPXCY,Singapore,8895
+SQ,United States,8909
+SQBG,United States,8911
+SQCF,United States,8912
+SQFT,United States,8913
+SQM,Chile,8914
+SQNNY,Japan,8915
+SQNS,France,8916
+SQZ.L,United Kingdom,8919
+SQZ,United States,8920
+SR,United States,8921
+SRAC,United States,8922
+SRAIL.SW,Switzerland,8923
+SRAX,United States,8924
+SRC,United States,8925
+SRCE,United States,8926
+SRCL,United States,8927
+SRDX,United States,8930
+SRE.L,Guernsey,8931
+SRE,United States,8932
+SREDY,Norway,8933
+SREN.SW,Switzerland,8935
+SREV,United States,8936
+SRG,United States,8937
+SRGA,United States,8938
+SRGHY,South Africa,8939
+SRI,United States,8940
+SRL,Hong Kong,8941
+SRNA,United States,8942
+SRNE,United States,8943
+SRNG,United States,8944
+SRNN,United States,8945
+SRP.L,United Kingdom,8946
+SRPT,United States,8947
+SRRA,United States,8948
+SRRE,China,8949
+SRRK,United States,8950
+SRSA,United States,8951
+SRT.L,United Kingdom,8953
+SRT,United States,8954
+SRT3.DE,Germany,8955
+SRTS,United States,8956
+SRTTY,Japan,8957
+SRYB,United States,8958
+SSAA,United States,8959
+SSB,United States,8961
+SSBI,United States,8962
+SSBP,United States,8963
+SSD,United States,8964
+SSDOY,Japan,8965
+SSE.L,United Kingdom,8966
+SSEZY,United Kingdom,8967
+SSKN,United States,8973
+SSL,South Africa,8974
+SSMXY,Japan,8976
+SSNC,United States,8977
+SSNT,United States,8978
+SSP,United States,8980
+SSPG.L,United Kingdom,8981
+SSPK,United States,8982
+SSREY,Switzerland,8985
+SSSS,United States,8986
+SSTI,United States,8988
+SSTK,United States,8989
+SSTY.L,United Kingdom,8990
+SSUMY,Japan,8991
+SSY,United States,8992
+SSYS,United States,8993
+ST,United States,8994
+STA.L,Australia,8995
+STAA,United States,8996
+STAF,United States,8997
+STAF.L,United Kingdom,8998
+STAG,United States,8999
+STAN.L,United Kingdom,9000
+STAR.L,Jersey,9001
+STB.L,United Kingdom,9003
+STBA,United States,9004
+STBFY,Japan,9005
+STBI,United States,9006
+STC,United States,9007
+STCK.L,United Kingdom,9008
+STCN,United States,9009
+STE,Ireland,9010
+STEM.L,United Kingdom,9011
+STEM,United States,9012
+STEP,United States,9013
+STFC,United States,9014
+STG,China,9015
+STGN.SW,Switzerland,9016
+STIC,United States,9019
+STIM,United States,9020
+STJ.L,United Kingdom,9021
+STKS,United States,9022
+STL,United States,9023
+STLA,Netherlands,9024
+STLD,United States,9025
+STLY,United States,9026
+STM.DE,Luxembourg,9027
+STM,Switzerland,9028
+STMH,United States,9029
+STMN.SW,Switzerland,9030
+STMP,United States,9031
+STND,United States,9032
+STNE,Cayman Islands,9033
+STNG,Monaco,9034
+STO3.DE,Germany,9035
+STOK,United States,9036
+STON,United States,9037
+STOR,United States,9038
+STPC,United States,9039
+STRA,United States,9042
+STRL,United States,9044
+STRM,United States,9045
+STRNY,United Kingdom,9046
+STRO,United States,9047
+STRR,United States,9048
+STRS,United States,9049
+STRT,United States,9050
+STSA,United States,9052
+STT,United States,9055
+STTK,United States,9056
+STU.L,United Kingdom,9057
+STVG.L,United Kingdom,9058
+STWD,United States,9059
+STWO,United States,9061
+STWRY,Germany,9062
+STX,Ireland,9064
+STX.L,United Kingdom,9065
+STXB,United States,9066
+STXS,United States,9067
+STZ,United States,9068
+SU.PA,France,9070
+SU,Canada,9071
+SUBCY,Luxembourg,9073
+SUGR,United States,9079
+SUHJY,Hong Kong,9080
+SUI,United States,9081
+SUM,United States,9087
+SUME,United States,9088
+SUMO.L,United Kingdom,9089
+SUMO,United States,9090
+SUMR,United States,9091
+SUN.SW,Switzerland,9092
+SUNS,United States,9093
+SUNW,United States,9094
+SUOPY,Japan,9096
+SUP,United States,9097
+SUP.L,United Kingdom,9098
+SUPN,United States,9101
+SUPV,Argentina,9104
+SUR.DE,Germany,9105
+SUR.L,United Kingdom,9106
+SURF,United States,9108
+SURG,United States,9109
+SUS.L,United Kingdom,9110
+SUTNY,Japan,9115
+SUWN,China,9118
+SUZ,Brazil,9120
+SV,United States,9121
+SVA,China,9122
+SVAC,United States,9123
+SVBI,United States,9124
+SVBL,Canada,9125
+SVFA,United States,9128
+SVFB,United States,9129
+SVFC,United States,9130
+SVIN,United States,9132
+SVMK,United States,9133
+SVNDY,Japan,9134
+SVNLY,Sweden,9135
+SVOK,United States,9137
+SVRA,United States,9138
+SVS.L,United Kingdom,9139
+SVT,United States,9140
+SVT.L,United Kingdom,9141
+SVVC,United States,9142
+SW.PA,France,9144
+SW1.DE,Germany,9145
+SWAV,United States,9146
+SWBI,United States,9147
+SWBK,United States,9148
+SWC.L,United Kingdom,9149
+SWCH,United States,9150
+SWDBY,Sweden,9152
+SWET,United States,9154
+SWG.L,United Kingdom,9155
+SWGAY,Switzerland,9156
+SWI,United States,9157
+SWIM,United States,9158
+SWIR,Canada,9159
+SWK,United States,9160
+SWKH,United States,9161
+SWKS,United States,9162
+SWM,United States,9164
+SWMAY,Sweden,9165
+SWN,United States,9166
+SWON.SW,Switzerland,9167
+SWTX,United States,9169
+SWX,United States,9170
+SXC,United States,9171
+SXI,United States,9172
+SXS.L,United Kingdom,9190
+SXT,United States,9191
+SXTC,China,9192
+SXYAY,Switzerland,9193
+SY,China,9194
+SY1.DE,Germany,9195
+SYANY,Denmark,9197
+SYBT,United States,9199
+SYBX,United States,9201
+SYCRF,Bermuda,9203
+SYF,United States,9204
+SYIEY,Germany,9205
+SYK,United States,9206
+SYKE,United States,9207
+SYME.L,United Kingdom,9208
+SYN,United States,9209
+SYNA,United States,9210
+SYNH,United States,9212
+SYNL,United States,9213
+SYNT.L,United Kingdom,9214
+SYPR,United States,9215
+SYRS,United States,9216
+SYSX,United States,9217
+SYT.DE,Germany,9218
+SYTA,Canada,9219
+SYTE,United States,9220
+SYX,United States,9221
+SYY,United States,9222
+SZG.DE,Germany,9223
+SZGPY,Germany,9224
+SZKMY,Japan,9225
+SZLMY,Switzerland,9226
+SZSAY,France,9229
+SZU.DE,Germany,9230
+T,United States,9231
+TA,United States,9232
+TACA,United States,9234
+TACO,United States,9235
+TACT,United States,9236
+TAIPY,Japan,9238
+TAIT,United States,9239
+TAK,Japan,9240
+TAKOF,Canada,9241
+TAL,China,9242
+TALO,United States,9243
+TAM.L,United Kingdom,9245
+TAN.L,United Kingdom,9246
+TANH,China,9247
+TAOP,China,9248
+TAP,United States,9249
+TARA,United States,9251
+TARO,Israel,9252
+TARS,United States,9253
+TAST,United States,9254
+TATE.L,United Kingdom,9256
+TATT,Israel,9257
+TATYY,United Kingdom,9258
+TAUG,United States,9259
+TAVI.L,United Kingdom,9261
+TAYD,United States,9262
+TBA,United States,9263
+TBBA,United States,9264
+TBBK,United States,9265
+TBCG.L,Georgia,9266
+TBCP,United States,9267
+TBI,United States,9268
+TBIO,United States,9269
+TBK,United States,9270
+TBLMY,South Africa,9271
+TBLT,United States,9272
+TBNK,United States,9273
+TBPH,Cayman Islands,9274
+TBTC,United States,9276
+TC,China,9277
+TC1.DE,Germany,9278
+TCAC,United States,9279
+TCAP.L,Jersey,9280
+TCBI,United States,9281
+TCBK,United States,9282
+TCCO,United States,9283
+TCCPY,Japan,9284
+TCDA,United States,9285
+TCEHY,China,9286
+TCF,United States,9288
+TCFC,United States,9289
+TCI,United States,9290
+TCLRY,France,9291
+TCM.L,United Kingdom,9292
+TCMD,United States,9293
+TCNB,United States,9294
+TCNNF,United States,9295
+TCOM,China,9296
+TCON,United States,9297
+TCPC,United States,9298
+TCRR,United States,9299
+TCS,United States,9300
+TCS,United States,9301
+TCVA,United States,9302
+TCX,Canada,9303
+TD,Canada,9304
+TDAC,United States,9305
+TDC,United States,9306
+TDCB,United States,9307
+TDG,United States,9308
+TDHOY,Japan,9309
+TDOC,United States,9310
+TDS,United States,9311
+TDUP,United States,9312
+TDW,United States,9313
+TDY,United States,9314
+TE.PA,France,9315
+TEAM.L,Jersey,9316
+TEAM,Australia,9317
+TECH,United States,9319
+TECK,Canada,9320
+TECN.SW,Switzerland,9321
+TED.L,United Kingdom,9323
+TEDU,China,9324
+TEF,Spain,9326
+TEF,Spain,9327
+TEG.L,United Kingdom,9328
+TEG.DE,Germany,9329
+TEK.L,United Kingdom,9330
+TEKK,United States,9331
+TEL,Switzerland,9332
+TELA,United States,9333
+TELL,United States,9334
+TELNY,Norway,9335
+TEMN.SW,Switzerland,9337
+TEN,United States,9338
+TENB,United States,9339
+TENG.L,United Kingdom,9340
+TENX,United States,9341
+TEO,Argentina,9342
+TEP.PA,France,9343
+TEP.L,United Kingdom,9344
+TER,United States,9345
+TERN.L,United Kingdom,9346
+TERN,United States,9347
+TESS,United States,9349
+TET.L,United Kingdom,9350
+TETAA,United States,9351
+TEUM,United States,9354
+TEVA,Israel,9355
+TEX,United States,9356
+TEZNY,Italy,9357
+TFAN,United States,9358
+TFC,United States,9359
+TFFP,United States,9360
+TFI.PA,France,9361
+TFII,Canada,9363
+TFSL,United States,9364
+TFW.L,United Kingdom,9365
+TFX,United States,9366
+TG,United States,9367
+TGEN,United States,9368
+TGH,Bermuda,9369
+TGI,United States,9370
+TGIFF,Canada,9371
+TGLS,Colombia,9373
+TGNA,United States,9374
+TGODF,Canada,9375
+TGOSY,Japan,9377
+TGP,Bermuda,9378
+TGP.L,United Kingdom,9379
+TGR.L,United Kingdom,9380
+TGRF,United States,9381
+TGS,Argentina,9382
+TGSGY,Norway,9383
+TGT,United States,9384
+TGTX,United States,9385
+TH,United States,9386
+THBR,United States,9387
+THC,United States,9388
+THCA,United States,9389
+THCB,United States,9390
+THDDY,Japan,9391
+THFF,United States,9392
+THG.L,United Kingdom,9393
+THG,United States,9394
+THKLY,Japan,9395
+THMA,United States,9397
+THMO,United States,9398
+THO,United States,9399
+THR,United States,9400
+THR.L,United Kingdom,9401
+THRM,United States,9405
+THRU.L,United Kingdom,9406
+THRY,United States,9407
+THS,United States,9408
+THUPY,Sweden,9409
+THVB,United States,9410
+THYCY,Japan,9411
+TI1.L,Guernsey,9412
+TIBN.SW,Switzerland,9413
+TIFS.L,United Kingdom,9414
+TIG,United States,9415
+TIGO,Luxembourg,9416
+TIGR,China,9417
+TIKK,United States,9419
+TIL,United States,9420
+TILE,United States,9421
+TILS.L,United Kingdom,9422
+TIMA.DE,Germany,9423
+TIMB,Brazil,9424
+TINLY,Japan,9425
+TINV,Singapore,9427
+TIPT,United States,9431
+TIRX,China,9433
+TISCY,Japan,9434
+TISI,United States,9435
+TITN,United States,9437
+TIXT,Canada,9439
+TJX,United States,9440
+TK,Bermuda,9441
+TKA.DE,Germany,9443
+TKAGY,Austria,9444
+TKAMY,Germany,9445
+TKAT,Hong Kong,9446
+TKBP.SW,Switzerland,9447
+TKC,Turkey,9448
+TKCBY,Japan,9449
+TKGBY,Turkey,9450
+TKGSY,Japan,9451
+TKO.PA,France,9452
+TKOI,United States,9453
+TKOMY,Japan,9454
+TKR,United States,9455
+TKWY.AS,Netherlands,9456
+TKYMY,Japan,9457
+TL0.DE,United States,9458
+TLC,Taiwan,9460
+TLCC,United States,9461
+TLG.DE,Germany,9462
+TLGA,United States,9463
+TLGHY,Belgium,9464
+TLGT,United States,9465
+TLIS,United States,9466
+TLK,Indonesia,9467
+TLMD,United States,9468
+TLND,France,9469
+TLOU.L,Australia,9470
+TLPFY,France,9471
+TLRS,United States,9472
+TLRY,Canada,9473
+TLS,United States,9474
+TLSA,United Kingdom,9475
+TLSS,United States,9476
+TLTZY,Sweden,9478
+TLW.L,United Kingdom,9479
+TLX.DE,Germany,9480
+TLY.L,United Kingdom,9481
+TLYS,United States,9482
+TM,Japan,9483
+TM17.L,United Kingdom,9484
+TMAC,United States,9485
+TMAK,United States,9486
+TMBR,United States,9487
+TMCI,United States,9488
+TMDI,Canada,9489
+TMDX,United States,9490
+TME,China,9491
+TMHC,United States,9492
+TMICY,Japan,9493
+TMKR,United States,9494
+TMO.L,United Kingdom,9495
+TMO,United States,9496
+TMOAY,Netherlands,9497
+TMP,United States,9498
+TMPM,United States,9500
+TMRAY,Norway,9501
+TMRC,United States,9502
+TMSNY,Switzerland,9503
+TMST,United States,9504
+TMT.L,Jersey,9505
+TMTS,United States,9506
+TMUS,United States,9507
+TMV.DE,Germany,9508
+TMVWY,Germany,9509
+TNC,United States,9511
+TNDM,United States,9512
+TNET,United States,9513
+TNET,United States,9514
+TNK,Canada,9515
+TNL,United States,9516
+TNP,Greece,9517
+TNXP,United States,9518
+TOBAF,Canada,9519
+TOELY,Japan,9520
+TOFB,United States,9521
+TOGL,United States,9522
+TOHN.SW,Switzerland,9523
+TOKUY,Japan,9524
+TOL,United States,9525
+TOM.L,Isle of Man,9526
+TOM2.AS,Netherlands,9527
+TON.L,United Kingdom,9528
+TOOD,United States,9529
+TOOP.L,United Kingdom,9530
+TOPPY,Japan,9531
+TOPS,Greece,9532
+TORW,United States,9533
+TOSYY,Japan,9534
+TOT,France,9535
+TOTDY,Japan,9536
+TOUR,China,9537
+TOWN,United States,9538
+TOWN.L,United Kingdom,9539
+TPB,United States,9541
+TPC,United States,9542
+TPCO,United States,9543
+TPCS,United States,9544
+TPDKY,Denmark,9545
+TPFG.L,United Kingdom,9547
+TPGS,United States,9548
+TPGY,United States,9549
+TPH,United States,9550
+TPHS,United States,9551
+TPIC,United States,9552
+TPK.L,United Kingdom,9553
+TPL,United States,9554
+TPPRF,Canada,9557
+TPR,United States,9558
+TPRKY,United Kingdom,9559
+TPRP,United States,9560
+TPT.L,United Kingdom,9561
+TPTX,United States,9563
+TPVG,United States,9564
+TPX.L,United Kingdom,9565
+TPX,United States,9566
+TR,United States,9568
+TRAF.L,United Kingdom,9569
+TRB.L,United Kingdom,9570
+TRBK,United States,9571
+TRC,United States,9572
+TRCA,United States,9573
+TRCH,United States,9574
+TRCK,United States,9575
+TRCS.L,United Kingdom,9576
+TRCY,United States,9577
+TRD.L,United Kingdom,9578
+TREB,United States,9583
+TREC,United States,9584
+TREE,United States,9585
+TREX,United States,9591
+TRGP,United States,9594
+TRI.L,United Kingdom,9595
+TRI.PA,France,9596
+TRI,Canada,9597
+TRIB,Ireland,9598
+TRIL,Canada,9600
+TRIN,United States,9601
+TRIN.L,United Kingdom,9602
+TRIP,United States,9603
+TRIT,Singapore,9604
+TRKA,United States,9605
+TRMB,United States,9606
+TRMK,United States,9607
+TRMR.L,Israel,9608
+TRN.L,United Kingdom,9609
+TRN,United States,9610
+TRNF,United States,9611
+TRNLY,Israel,9612
+TRNO,United States,9613
+TRNS,United States,9614
+TRNX,United States,9615
+TROW,United States,9616
+TROX,United States,9617
+TRP,Canada,9618
+TRQ,Canada,9619
+TRR.L,United Kingdom,9620
+TRS,United States,9621
+TRST.L,Denmark,9623
+TRST,United States,9624
+TRT,United States,9626
+TRTC,United States,9627
+TRTN,Bermuda,9628
+TRU.L,United Kingdom,9629
+TRU,United States,9630
+TRUE,United States,9631
+TRUMY,Japan,9632
+TRUP,United States,9633
+TRUX,United States,9634
+TRV,United States,9635
+TRVG,Germany,9636
+TRVI,United States,9637
+TRVN,United States,9638
+TRVR,United States,9639
+TRX.L,United Kingdom,9640
+TS,Luxembourg,9642
+TSBK,United States,9644
+TSC,United States,9645
+TSCDY,United Kingdom,9646
+TSCO.L,United Kingdom,9647
+TSCO,United States,9648
+TSE,United States,9649
+TSEM,Israel,9650
+TSG.L,United Kingdom,9651
+TSGTY,China,9652
+TSHA,United States,9653
+TSIA,United States,9654
+TSIB,United States,9655
+TSL.L,Australia,9656
+TSLA,United States,9659
+TSLA,United States,9660
+TSLX,United States,9663
+TSM,Taiwan,9664
+TSN,United States,9665
+TSP,United States,9666
+TSPQ,United States,9667
+TSQ,United States,9668
+TSRI,United States,9669
+TSRYY,Australia,9670
+TSSI,United States,9671
+TSTL.L,United Kingdom,9672
+TSUKY,Japan,9673
+TT,Ireland,9674
+TTC,United States,9675
+TTCF,United States,9676
+TTD,United States,9677
+TTDKY,Japan,9678
+TTEC,United States,9679
+TTEK,United States,9680
+TTG.L,United Kingdom,9681
+TTGT,United States,9682
+TTI,United States,9683
+TTK.DE,Germany,9685
+TTM,India,9686
+TTMI,United States,9687
+TTNDY,Hong Kong,9688
+TTNP,United States,9689
+TTOO,United States,9690
+TTSH,United States,9692
+TTWO,United States,9693
+TU,Canada,9694
+TUF.DE,Singapore,9695
+TUFN,Israel,9696
+TUI.L,Germany,9697
+TUI1.DE,Germany,9698
+TUNE.L,United Kingdom,9699
+TUNG.L,United Kingdom,9700
+TUP,United States,9701
+TUSK,United States,9704
+TUYA,China,9705
+TV,Mexico,9706
+TVAC,United States,9707
+TVTY,United States,9711
+TW,United States,9712
+TWCF,United States,9714
+TWCT,United States,9715
+TWD.L,United Kingdom,9716
+TWEKA.AS,Netherlands,9717
+TWI,United States,9718
+TWIN,United States,9719
+TWLO,United States,9720
+TWLV,United States,9721
+TWND,United States,9722
+TWNI,United States,9723
+TWNK,United States,9724
+TWNT,United States,9725
+TWO,United States,9726
+TWOA,United States,9727
+TWOU,United States,9728
+TWR.DE,United States,9729
+TWST,United States,9730
+TWTR,United States,9732
+TX,Luxembourg,9734
+TXG,United States,9735
+TXMD,United States,9736
+TXN,United States,9737
+TXP.L,Canada,9738
+TXRH,United States,9739
+TXT,United States,9740
+TYBT,United States,9741
+TYFG,United States,9742
+TYHT,China,9743
+TYIDY,Japan,9744
+TYL,United States,9745
+TYME,United States,9746
+TYMN.L,United Kingdom,9747
+TYOBY,Japan,9748
+TYOYY,Japan,9749
+TZOO,United States,9751
+TZPS,United States,9752
+U,United States,9753
+UA,United States,9755
+UAA,United States,9756
+UAI.L,United Kingdom,9757
+UAL,United States,9758
+UAMY,United States,9759
+UAVS,United States,9760
+UBA,United States,9761
+UBAB,United States,9762
+UBCP,United States,9763
+UBEOY,Japan,9764
+UBER,United States,9765
+UBFO,United States,9766
+UBI.PA,France,9767
+UBNC,United States,9768
+UBOH,United States,9769
+UBP,United States,9770
+UBS,Switzerland,9773
+UBSFY,France,9774
+UBSG.SW,Switzerland,9775
+UBSI,United States,9776
+UBX,United States,9777
+UCBI,United States,9781
+UCBJY,Belgium,9782
+UCL,Hong Kong,9783
+UCTT,United States,9784
+UDG.L,Ireland,9785
+UE,United States,9787
+UEC,United States,9788
+UEIC,United States,9790
+UEPS,South Africa,9792
+UEX.L,United Kingdom,9794
+UFAB,United States,9795
+UFCS,United States,9796
+UFI,United States,9797
+UFPI,United States,9799
+UFPT,United States,9800
+UFS,United States,9801
+UG,United States,9802
+UGI,United States,9804
+UGP,Brazil,9805
+UGRO,United States,9806
+UHAL,United States,9807
+UHID,United States,9808
+UHR.SW,Switzerland,9809
+UHS,United States,9810
+UHS.L,United Kingdom,9811
+UI,United States,9812
+UIHC,United States,9813
+UIS,United States,9816
+UJO.L,United Kingdom,9817
+UK,China,9818
+UKOG.L,United Kingdom,9824
+UKR.L,Ukraine,9825
+UL,United Kingdom,9829
+UL,United Kingdom,9830
+ULBI,United States,9831
+ULCC,United States,9832
+ULE.L,United Kingdom,9833
+ULH,United States,9834
+ULS.L,United Kingdom,9835
+ULTA,United States,9836
+ULVR.L,United Kingdom,9837
+UMBF,United States,9838
+UMC,Taiwan,9839
+UMH,United States,9840
+UMICY,Belgium,9842
+UMPQ,United States,9843
+UN01.DE,Germany,9844
+UNA.AS,United Kingdom,9845
+UNAM,United States,9846
+UNB,United States,9847
+UNCRY,Italy,9848
+UNF,United States,9849
+UNFI,United States,9850
+UNH,United States,9852
+UNIB,United States,9853
+UNICY,Japan,9855
+UNIR,United States,9856
+UNIT,United States,9857
+UNM,United States,9858
+UNP,United States,9859
+UNTN,United States,9860
+UNTY,United States,9861
+UNVR,United States,9862
+UOG.L,United Kingdom,9863
+UONE,United States,9864
+UONEK,United States,9865
+UOVEY,Singapore,9866
+UPC,China,9867
+UPGS.L,United Kingdom,9869
+UPL.L,United Kingdom,9870
+UPLD,United States,9871
+UPMMY,Finland,9872
+UPR.L,Ireland,9873
+UPS,United States,9874
+UPST,United States,9875
+UPWK,United States,9876
+URBN,United States,9878
+URG,United States,9879
+URGN,United States,9881
+URI,United States,9882
+UROY,Canada,9883
+URU.L,Canada,9884
+URW.AS,France,9885
+USAC,United States,9890
+USAK,United States,9892
+USAP,United States,9893
+USAU,United States,9894
+USB,United States,9895
+USCR,United States,9896
+USEG,United States,9902
+USFD,United States,9904
+USIO,United States,9911
+USLM,United States,9912
+USM,United States,9913
+USNA,United States,9915
+USPH,United States,9918
+USWS,United States,9922
+USX,United States,9923
+UTDI.DE,Germany,9925
+UTG.L,United Kingdom,9926
+UTGN,United States,9927
+UTHR,United States,9928
+UTI,United States,9929
+UTL,United States,9932
+UTMD,United States,9933
+UTME,China,9934
+UTSI,China,9935
+UTZ,United States,9936
+UUGRY,United Kingdom,9938
+UUU,United States,9939
+UUUU,United States,9940
+UVE,United States,9941
+UVSP,United States,9942
+UVV,United States,9943
+UWHR,United States,9944
+UWMC,United States,9945
+UXIN,China,9946
+V,United States,9947
+V3V.DE,Germany,9954
+VABK,United States,9955
+VAC,United States,9956
+VACC,United Kingdom,9957
+VACN.SW,Switzerland,9958
+VACQ,United States,9959
+VALE,Brazil,9964
+VALN.SW,Switzerland,9965
+VALU,United States,9966
+VANL.L,United Kingdom,9967
+VAPO,United States,9968
+VAQC,United States,9971
+VAR1.DE,Germany,9972
+VARE.L,United Kingdom,9973
+VAST.L,United Kingdom,9974
+VASTN.AS,Netherlands,9975
+VBFC,United States,9976
+VBIV,United States,9977
+VBK.DE,Germany,9978
+VBLT,Israel,9979
+VBTX,United States,9980
+VBX.DE,Germany,9981
+VC,United States,9982
+VCAP.L,United Kingdom,9983
+VCBC.L,Malaysia,9984
+VCEL,United States,9985
+VCISY,France,9986
+VCKA,Singapore,9987
+VCNX,United States,9988
+VCP.L,United Kingdom,9989
+VCRA,United States,9990
+VCT.L,United Kingdom,9991
+VCTR,United States,9992
+VCVC,United States,9993
+VCYT,United States,9994
+VDMCY,South Africa,10001
+VDTK.L,United Kingdom,10005
+VEC.L,United Kingdom,10008
+VEC,United States,10009
+VECO,United States,10010
+VECT,Switzerland,10013
+VEDL,India,10014
+VEEV,United States,10015
+VEI,United States,10016
+VEL.L,United Kingdom,10018
+VEL,United States,10019
+VELO,United States,10020
+VEMLY,Singapore,10021
+VENA,United States,10025
+VEOEY,France,10026
+VEON,Netherlands,10027
+VER,United States,10028
+VER,United States,10029
+VERB,United States,10031
+VERF,United States,10032
+VERI,United States,10033
+VERO,Canada,10034
+VERU,United States,10035
+VERX,United States,10037
+VERY,United States,10039
+VET,Canada,10040
+VFC,United States,10044
+VFF,Canada,10049
+VFRM,United States,10050
+VG,United States,10051
+VGAC,United States,10052
+VGR,United States,10058
+VHAQ,United States,10063
+VHC,United States,10064
+VHI,United States,10065
+VIAAY,Austria,10071
+VIAC,United States,10072
+VIACA,United States,10073
+VIAO,Germany,10074
+VIAV,United States,10075
+VIB3.DE,Germany,10076
+VICI,United States,10077
+VICR,United States,10078
+VIDE,United States,10080
+VIE.PA,France,10081
+VIEW,United States,10083
+VIFN.SW,Switzerland,10084
+VIH,United States,10086
+VII,United States,10087
+VILN.SW,Switzerland,10088
+VINC,United States,10089
+VINO,United States,10090
+VINO.L,United Kingdom,10091
+VINP,Brazil,10092
+VIOT,China,10093
+VIPS,China,10095
+VIR,United States,10096
+VIRC,United States,10097
+VIRI,United States,10098
+VIRT,United States,10099
+VIRX,United States,10100
+VISL,United States,10104
+VIST,Mexico,10106
+VITL,United States,10107
+VIV.PA,France,10108
+VIV,Brazil,10109
+VIVE,United States,10110
+VIVHY,France,10111
+VIVO,United States,10112
+VJET,Germany,10113
+VKIN,United States,10117
+VKSC,United States,10118
+VKTX,United States,10119
+VLA.PA,France,10120
+VLDR,United States,10121
+VLEEY,France,10122
+VLG.L,United Kingdom,10123
+VLGEA,United States,10124
+VLLX,United States,10125
+VLO,United States,10126
+VLON,United States,10127
+VLOWY,France,10128
+VLPNY,Austria,10129
+VLRS,Mexico,10130
+VLRT.SW,Switzerland,10131
+VLS.L,United Kingdom,10132
+VLVLY,Sweden,10133
+VLX.L,United Kingdom,10134
+VLY,United States,10135
+VMAC,United States,10136
+VMAR,Canada,10137
+VMC,United States,10138
+VMD,United States,10139
+VMI,United States,10140
+VMUK.L,United Kingdom,10144
+VMW,United States,10145
+VNA.DE,Germany,10146
+VNCE,United States,10147
+VNDA,United States,10148
+VNE,Sweden,10149
+VNET,China,10150
+VNJA,United States,10152
+VNO,United States,10153
+VNOM,United States,10154
+VNRFY,Austria,10156
+VNRX,United States,10159
+VNTR,United Kingdom,10160
+VOC,United States,10161
+VOC,United States,10162
+VOD,United Kingdom,10163
+VOD.L,United Kingdom,10164
+VOG.L,United Kingdom,10168
+VOLT,United States,10169
+VOLT,United States,10170
+VONN.SW,Switzerland,10172
+VONOY,Germany,10173
+VOPKY,Netherlands,10175
+VOR,United States,10176
+VOS.DE,Germany,10177
+VOSO,United States,10178
+VOW.DE,Germany,10179
+VOW3.DE,Germany,10180
+VOXX,United States,10181
+VOYA,United States,10182
+VP.L,United Kingdom,10183
+VPCB,Cayman Islands,10184
+VPCC,United States,10185
+VPG,United States,10186
+VPK.AS,Netherlands,10187
+VRA,United States,10188
+VRAY,United States,10189
+VRCA,United States,10190
+VRCI.L,United Kingdom,10191
+VRDN,United States,10192
+VRE.L,Ireland,10193
+VREX,United States,10194
+VRLA.PA,France,10195
+VRM,United States,10196
+VRME,United States,10197
+VRNA,United Kingdom,10198
+VRNS,United States,10199
+VRNT,United States,10200
+VRPX,United States,10202
+VRRM,United States,10203
+VRS.L,United Kingdom,10204
+VRS,United States,10205
+VRSK,United States,10206
+VRSN,United States,10207
+VRT,United States,10208
+VRTS,United States,10209
+VRTV,United States,10210
+VRTX,United States,10211
+VSAT,United States,10212
+VSEC,United States,10213
+VSH,United States,10214
+VST,United States,10216
+VSTA,Brazil,10217
+VSTM,United States,10218
+VSTO,United States,10219
+VSVS.L,United Kingdom,10220
+VTAQ,United States,10221
+VTC.L,United Kingdom,10222
+VTDRF,United States,10223
+VTGN,United States,10224
+VTIQ,United States,10226
+VTKLY,Hong Kong,10227
+VTLR,United States,10228
+VTNR,United States,10229
+VTOL,United States,10230
+VTR,United States,10231
+VTRS,United States,10232
+VTRU,Brazil,10233
+VTSI,United States,10234
+VTU.L,United Kingdom,10235
+VTVT,United States,10236
+VTY.L,United Kingdom,10238
+VUZI,United States,10251
+VVCIF,Canada,10252
+VVI,United States,10253
+VVNT,United States,10254
+VVO.L,United Kingdom,10255
+VVOS,United States,10256
+VVPR,United Kingdom,10257
+VVV,United States,10258
+VVY.AS,Germany,10259
+VWAPY,Germany,10261
+VWDRY,Denmark,10263
+VWTR,United States,10270
+VXRT,United States,10271
+VYGG,Cayman Islands,10272
+VYGR,United States,10273
+VYNE,United States,10274
+VYNT,United States,10275
+VZ,United States,10276
+VZIO,United States,10277
+VZN.SW,Switzerland,10281
+W,United States,10282
+W7L.L,United Kingdom,10284
+WAB,United States,10285
+WABC,United States,10286
+WAC.DE,Germany,10287
+WACLY,Japan,10288
+WACMY,Japan,10289
+WAF.DE,Germany,10290
+WAFD,United States,10291
+WAFU,China,10292
+WAKE,United States,10293
+WAL,United States,10294
+WALD,United States,10295
+WAND.L,United Kingdom,10296
+WARR,United States,10297
+WASH,United States,10298
+WAT,United States,10299
+WATT,United States,10300
+WAYN,United States,10301
+WB,China,10302
+WBA,United States,10303
+WBBW,United States,10304
+WBI.L,United Kingdom,10305
+WBK,Australia,10306
+WBRBY,Austria,10307
+WBS,United States,10308
+WBT,United States,10309
+WCAT.L,United Kingdom,10310
+WCC,United States,10312
+WCFB,United States,10313
+WCH.DE,Germany,10314
+WCMK.DE,Germany,10317
+WCN,Canada,10318
+WCRS,United States,10322
+WCW.L,United Kingdom,10323
+WD,United States,10324
+WDAY,United States,10325
+WDC,United States,10326
+WDDMF,Canada,10327
+WDFC,United States,10328
+WDFN,United States,10329
+WDH,China,10330
+WDP.DE,United States,10333
+WEBC,United States,10336
+WEC,United States,10337
+WEGRY,United Kingdom,10338
+WEGZY,Brazil,10339
+WEI,China,10340
+WEIR.L,United Kingdom,10341
+WELL,United States,10342
+WELX,United States,10344
+WEN.L,Jersey,10345
+WEN,United States,10346
+WERN,United States,10347
+WES,United States,10348
+WETF,United States,10349
+WETG,China,10350
+WEW.DE,Germany,10351
+WEX,United States,10352
+WEYS,United States,10354
+WF,South Korea,10355
+WFAFY,Australia,10356
+WFC,United States,10357
+WFCF,United States,10358
+WFTLF,United States,10360
+WGO,United States,10363
+WH,United States,10364
+WHA.AS,Netherlands,10365
+WHD,United States,10366
+WHF,United States,10368
+WHG,United States,10369
+WHLM,United States,10370
+WHR,United States,10371
+WIFI,United States,10374
+WIL.L,United Kingdom,10375
+WILC,Israel,10376
+WILYY,Denmark,10377
+WIMI,China,10378
+WIN.L,United Kingdom,10379
+WINA,United States,10380
+WINE.L,United Kingdom,10381
+WING,United States,10383
+WINK.L,United Kingdom,10384
+WINSF,China,10385
+WINSF,China,10386
+WINT,United States,10387
+WIRE,United States,10389
+WISA,United States,10390
+WISH,United States,10391
+WIT,India,10392
+WIX.L,United Kingdom,10393
+WIX,Israel,10394
+WIZZ.L,Jersey,10395
+WJG.L,United Kingdom,10396
+WJRYY,Japan,10397
+WK,United States,10398
+WKEY,Switzerland,10399
+WKHS,United States,10400
+WKL.AS,Netherlands,10401
+WKP.L,United Kingdom,10403
+WLDN,United States,10404
+WLFC,United States,10406
+WLFDY,Austria,10407
+WLK,United States,10408
+WLL,United States,10409
+WLMS,United States,10410
+WLN.PA,France,10411
+WLTW,United Kingdom,10412
+WM,United States,10413
+WMB,United States,10415
+WMG,United States,10416
+WMK,United States,10417
+WMMVY,Mexico,10418
+WMS,United States,10419
+WMT,United States,10420
+WMT.DE,United States,10421
+WNC,United States,10422
+WNDW,United States,10424
+WNEB,United States,10425
+WNRP,United States,10427
+WNS,India,10428
+WNW,China,10429
+WOOF,United States,10431
+WOPEY,Australia,10432
+WOR,United States,10433
+WORK,United States,10434
+WORX,United States,10435
+WOSG.L,United Kingdom,10437
+WOW,United States,10438
+WPC,United States,10439
+WPCA,United States,10440
+WPCB,United States,10441
+WPF,United States,10442
+WPG,United States,10443
+WPHO.L,United Kingdom,10444
+WPM,Canada,10445
+WPP.L,United Kingdom,10446
+WPP,United Kingdom,10447
+WRAP,United States,10449
+WRB,United States,10450
+WRK,United States,10452
+WRKS.L,United Kingdom,10453
+WRLD,United States,10454
+WRTBY,Finland,10455
+WSBC,United States,10456
+WSBF,United States,10457
+WSBN.L,Gibraltar,10458
+WSC,United States,10459
+WSFS,United States,10460
+WSG.L,United Kingdom,10461
+WSM,United States,10462
+WSO,United States,10464
+WSP.L,United Kingdom,10466
+WSR,United States,10467
+WST,United States,10469
+WSTG,United States,10470
+WSTL,United States,10471
+WSU.DE,Germany,10472
+WTB.L,United Kingdom,10476
+WTBA,United States,10477
+WTBDY,United Kingdom,10478
+WTBFA,United States,10479
+WTBFB,United States,10480
+WTER,United States,10486
+WTFC,United States,10487
+WTG.L,United Kingdom,10488
+WTI,United States,10489
+WTKWY,Netherlands,10490
+WTM,Bermuda,10491
+WTRE,Bermuda,10492
+WTRG,United States,10493
+WTRH,United States,10494
+WTS,United States,10495
+WTT,United States,10496
+WTTR,United States,10497
+WU,United States,10498
+WUW.DE,Germany,10501
+WVE,Singapore,10502
+WVFC,United States,10503
+WVVI,United States,10504
+WW,United States,10505
+WWD,United States,10506
+WWE,United States,10507
+WWR,United States,10509
+WWW,United States,10511
+WXXWY,China,10512
+WY,United States,10513
+WYGPY,Australia,10514
+WYNN,United States,10515
+WYY,United States,10516
+X,United States,10517
+XAIR,United States,10524
+XAR.L,United Kingdom,10526
+XBIO,United States,10530
+XBIT,United States,10531
+XCUR,United States,10537
+XDSL,United States,10545
+XEC,United States,10566
+XEL,United States,10567
+XELA,United States,10568
+XELB,United States,10569
+XENE,Canada,10570
+XENT,United States,10571
+XERS,United States,10572
+XFOR,United States,10575
+XGN,United States,10582
+XIN,China,10585
+XL,United States,10586
+XLM.L,Cyprus,10595
+XLNX,United States,10596
+XLRN,United States,10600
+XM,United States,10606
+XNCR,United States,10615
+XNET,China,10616
+XNGSY,China,10617
+XOM,United States,10619
+XOMA,United States,10620
+XONE,United States,10621
+XP,Brazil,10623
+XPD.L,United Kingdom,10625
+XPDI,United States,10626
+XPEL,United States,10627
+XPER,United States,10628
+XPEV,China,10629
+XPL,United States,10630
+XPO,United States,10632
+XPOA,United States,10633
+XPP.L,Singapore,10634
+XPS.L,United Kingdom,10637
+XRAY,United States,10638
+XRX,United States,10645
+XSG.L,United Kingdom,10647
+XSPA,United States,10653
+XTEG,China,10660
+XTLB,Israel,10661
+XTNT,United States,10662
+XTR.L,United Kingdom,10663
+XXII,United States,10673
+XYF,China,10674
+XYL,United States,10675
+Y,United States,10682
+YAC,United States,10683
+YAHOY,Japan,10684
+YALA,United Arab Emirates,10685
+YAMCY,Japan,10686
+YARIY,Norway,10688
+YASKY,Japan,10689
+YATRY,Japan,10690
+YCA.L,Jersey,10691
+YCBD,United States,10692
+YDVL,United States,10693
+YELL,United States,10694
+YELP,United States,10695
+YETI,United States,10696
+YEWB,United States,10698
+YEXT,United States,10699
+YGMZ,China,10700
+YGYI,United States,10701
+YI,China,10702
+YITYY,Finland,10703
+YJ,China,10704
+YKLTY,Japan,10705
+YMAB,United States,10706
+YMTX,United States,10707
+YNDX,Netherlands,10708
+YNGA.L,United Kingdom,10709
+YNGN.L,United Kingdom,10710
+YOKEY,Japan,10711
+YORUY,Japan,10712
+YORW,United States,10713
+YOU.L,United Kingdom,10714
+YPF,Argentina,10715
+YQ,China,10716
+YRD,China,10717
+YSAC,United States,10718
+YSG,China,10719
+YTEN,United States,10720
+YTRA,India,10721
+YU.L,United Kingdom,10722
+YUM,United States,10723
+YUMC,China,10724
+YVR,Canada,10726
+YY,China,10727
+YZCAY,China,10728
+Z,United States,10729
+ZAIM.L,Russia,10731
+ZAL.DE,Germany,10732
+ZAM.L,Zambia,10733
+ZBH,United States,10734
+ZBRA,United States,10735
+ZCMD,China,10736
+ZDGE,United States,10737
+ZEAL,Denmark,10738
+ZEG.L,United Kingdom,10739
+ZEN.L,Canada,10740
+ZEN,United States,10741
+ZEPP,China,10743
+ZEUS,United States,10744
+ZEV,United States,10745
+ZG,United States,10746
+ZGNX,United States,10747
+ZGYH,China,10748
+ZH,China,10749
+ZI,United States,10750
+ZIL2.DE,Germany,10751
+ZIM,Israel,10752
+ZIN.L,United Kingdom,10753
+ZIOC.L,British Virgin Islands,10755
+ZION,United States,10756
+ZIOP,United States,10757
+ZIXI,United States,10758
+ZKIN,China,10759
+ZLAB,China,10760
+ZLNDY,Germany,10761
+ZM,United States,10762
+ZNGA,United States,10766
+ZNH,China,10767
+ZNKKY,Japan,10768
+ZNOG,United States,10769
+ZNTE,United States,10770
+ZNTL,United States,10771
+ZNWD.L,United Kingdom,10772
+ZO1.DE,Germany,10773
+ZOE.L,United Kingdom,10774
+ZOL.L,Cayman Islands,10775
+ZOM,United States,10776
+ZOO.L,United Kingdom,10777
+ZS,United States,10785
+ZSAN,United States,10786
+ZTF.L,United Kingdom,10787
+ZTO,China,10788
+ZTS,United States,10789
+ZUBN.SW,Switzerland,10790
+ZUMZ,United States,10791
+ZUO,United States,10792
+ZURN.SW,Switzerland,10793
+ZURVY,Switzerland,10794
+ZUUS,United States,10795
+ZVO,United States,10796
+ZWRK,United States,10797
+ZXAIY,China,10798
+ZY,United States,10799
+ZYME,Canada,10800
+ZYNE,United States,10801
+ZYT.L,United Kingdom,10802
+ZYXI,United States,10803

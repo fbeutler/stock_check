@@ -4,6 +4,8 @@ from urllib.request import urlopen
 from urllib.error import HTTPError, URLError
 
 from bs4 import BeautifulSoup
+from countries import countries
+import re
 
 
 def read_t212(filename):
@@ -21,7 +23,7 @@ def get_pb(tag):
 	print("tag = ", tag)
 	link = 'https://ycharts.com/companies/%s/price_to_book_value' % tag.split('.')[0].strip()
 	soup = get_soup(link)
-	
+
 	if soup is None:
 		return None
 	else:
@@ -38,7 +40,7 @@ def get_pe(tag):
 	print("tag = ", tag)
 	link = 'https://ycharts.com/companies/%s/pe_ratio' % tag.split('.')[0].strip()
 	soup = get_soup(link)
-	
+
 	if soup is None:
 		return None
 	else:
@@ -48,6 +50,39 @@ def get_pe(tag):
 			return float(value[0].text.split()[0])
 		else:
 			return None
+
+def get_country(tag, i):
+	'''
+	'''
+	tag = tag.replace(" ", "")
+	#print('<{}>'.format(tag))
+	# Try link with market
+	link = 'https://finance.yahoo.com/quote/%s/profile?p=%s' % (tag, tag)
+	soup = get_soup(link)
+
+	if soup is None:
+		# Try removing the market
+		tagsplit = tag.split('.')[0].strip()
+		link = 'https://finance.yahoo.com/quote/%s/profile?p=%s' % (tagsplit, tagsplit)
+		soup = get_soup(link)
+
+	if soup is not None:
+		value = soup.findAll("p", {"data-reactid": "8"})
+		if value:
+			words = set(re.split('[<>]', str(value[0])))
+			country = words.intersection(countries)
+			#print(tag, country)
+			if len(country) == 1:
+				return list(country)[0]
+			else:
+				print(tag, i)
+				print(words)
+				print('')
+				return None
+		else:
+			return None
+	else:
+		return None
 
 
 def get_soup(link):
@@ -63,3 +98,6 @@ def get_soup(link):
 	    return None
 	else:
 	    return BeautifulSoup(html.read(), "html.parser")
+
+if __name__ == '__main__':
+	get_country('TKC')
