@@ -2,7 +2,7 @@
 import sys, os
 import requests
 from harvest_trading212 import get_tags
-from scrape_pb import get_pb, get_pe
+from scrape_pb import get_pb, get_pe, get_sector
 import datetime
 import time
 
@@ -106,15 +106,15 @@ def main():
 	tags, _ = get_tags()
 	print("num of tags: %d" % len(tags))
 
-	filename = 'existing_tags_pe.txt'
+	filename = 'existing_tags_sector.txt'
 	with open(filename, 'w') as f: 
-		f.write('# tag pevalue tag_id\n')
+		f.write('# tag, sector, industry, tag_id\n')
 		for ii, tag in enumerate(tags):
 			if tag[0] not in ['2', '3', '4', '5', '6', '8']:
-				value = get_pe(tag)
-				if value:
-					print("found %f of %s\n" % (value, tag))
-					f.write("%s %f %d\n" % (tag, value, ii))
+				sector, industry = get_sector(tag)
+				if sector:
+					print("found %s, %s of %s\n" % (sector, industry, tag))
+					f.write("%s, %s, %s, %d\n" % (tag, sector, industry, ii))
 
 	return
 
