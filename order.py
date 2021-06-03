@@ -4,9 +4,9 @@ from matplotlib import pyplot as plt
 
 from harvest_trading212 import get_tags
 
-max_num = 200
+max_num = 20
 market_exclude = ['NON-ISA OTC Markets']
-country_exclude = ['Cayman Islands', 'Monaco', 'Panama', 'Bermuda', 'Argentina', 'Greece']
+country_exclude = ['Cayman Islands', 'Monaco', 'Panama', 'Bermuda', 'Argentina', 'Greece', 'China']
 max_dict = {'Financial Services': 0.20, 
 			'Real Estate': 0.1, 'Energy': 0.1}
 
@@ -42,7 +42,7 @@ def cook_pie(ingredients):
 
 def main():
 
-	tags, markets = get_tags()
+	tags, markets, names = get_tags()
 
 	filename = 'existing_tags2.txt'
 	# Check whether file exists... in which case we might attach
@@ -63,6 +63,11 @@ def main():
 	for k, v in pb_dict.items():
 		pb_dict[k] = float(v)
 
+	# filename = 'existing_tags_names.txt'
+	# name_dict = get_data(filename, sep=', ')
+	# for k, v in name_dict.items():
+	# 	name_dict[k] = float(v)
+
 	filename = 'existing_tags_pe.txt'
 	pe_dict = get_data(filename, sep=' ')
 	for k, v in pe_dict.items():
@@ -81,6 +86,7 @@ def main():
 	sectors = []
 	industries = []
 	countries = []
+	selected_tags = []
 	for pbratio, tag, global_id in sorted_zipped_lists:
 		if global_id in pe_dict and global_id in country_dict:
 
@@ -89,10 +95,11 @@ def main():
 
 				if check(sector_dict, sectors, global_id) and check(country_dict, countries, global_id):
 
-					print("%s, %f, %f, %s, %s, %s, %s" % (tag, pbratio, pe_dict[int(global_id)], markets[int(global_id)], sector_dict[int(global_id)], industry_dict[int(global_id)], country_dict[int(global_id)]))
+					print("%s, %s, %f, %f, %s, %s, %s, %s" % (tag, names[int(global_id)], pbratio, pe_dict[int(global_id)], markets[int(global_id)], sector_dict[int(global_id)], industry_dict[int(global_id)], country_dict[int(global_id)]))
 					sectors.append(sector_dict[int(global_id)])
 					industries.append(industry_dict[int(global_id)])
 					countries.append(country_dict[int(global_id)])
+					selected_tags.append(tag)
 
 					counter += 1
 					if counter == max_num:

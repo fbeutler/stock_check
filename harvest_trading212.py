@@ -4,6 +4,7 @@ from scrape import read_t212
 def get_tags():
 	soup = read_t212('t212_source.txt')
 	all_market_names = [div.text for div in soup.findAll("div", {"data-label" : "Market name"})]
+	all_names = [div.text for div in soup.findAll("div", {"data-label" : "Company"})]
 
 	all_tags = []
 	for ii, div in enumerate(soup.findAll("div", {"data-label" : "Instrument"})):
@@ -21,4 +22,4 @@ def get_tags():
 		else:
 			all_tags.append('%s' % div.text)
 		#print(all_tags[-1])
-	return all_tags, all_market_names
+	return all_tags, all_market_names, all_names

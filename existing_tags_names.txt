@@ -1,0 +1,1010 @@
+# tag, name, tag_id
+VOD.L, Vodafone Group PLC, 1
+TSLA, Tesla Inc, 4
+A, Agilent Technologies Inc, 221
+AA.L, Alcoa Corp, 222
+AA, Alcoa Corp, 223
+AAC, Ares Acquisition Corp, 227
+AACAY, AAC Technologies Holdings Inc, 228
+AACG, ATA Creativity Global, 229
+AACQ, Artius Acquisition Inc, 230
+AAGIY, AIA Group Ltd, 234
+AAIC, Arlington Asset Investment Corp, 235
+AAL.L, American Airlines Group Inc, 237
+AAL, American Airlines Group Inc, 238
+AAMC, Altisource Asset Management Corp, 240
+AAME, Atlantic American Corp, 241
+AAN, The Aarons Co Inc, 242
+AAOI, Applied Optoelectronics Inc, 244
+AAON, AAON Inc, 245
+AAP, Advance Auto Parts Inc, 246
+AAPL, Apple Inc, 250
+AAQC, Accelerate Acquisition Corp, 251
+AAU.L, Almaden Minerals Ltd, 254
+AAVMY, ABN AMRO Bank NV, 255
+AAWW, Atlas Air Worldwide Holdings Inc, 256
+AB, AllianceBernstein Holding LP, 258
+ABB, ABB Ltd, 259
+ABBB, Auburn Bancorp Inc, 260
+ABBV, AbbVie Inc, 262
+ABC, AmerisourceBergen Corp, 263
+ABC.L, AmerisourceBergen Corp, 264
+ABCB, Ameris Bancorp, 265
+ABCL, AbCellera Biologics Inc, 266
+ABCM, Abcam PLC, 267
+ABCP, Ambase Corp, 268
+ABEO, Abeona Therapeutics Inc, 275
+ABEPF, Vision Lithium Inc, 276
+ABEV, Ambev SA, 277
+ABG, Asbury Automotive Group Inc, 279
+ABGI, ABG Acquisition Corp I, 280
+ABIO, ARCA biopharma Inc, 282
+ABLT, American Biltrite Inc, 283
+ABM, ABM Industries Inc, 284
+ABMD, Abiomed Inc, 285
+ABML, American Battery Metals Corporation, 286
+ABNB, Airbnb Inc, 288
+ABR, Arbor Realty Trust Inc, 291
+ABT, Abbott Laboratories, 292
+ABTX, Allegiance Bancshares Inc, 293
+ABUS, Arbutus Biopharma Corp, 294
+AC, Associated Capital Group Inc, 295
+AC.PA, Associated Capital Group Inc, 296
+ACA, Arcosa Inc, 297
+ACA.PA, Arcosa Inc, 298
+ACAC, Acies Acquisition Corp, 299
+ACAD, ACADIA Pharmaceuticals Inc, 300
+ACAH, Atlantic Coastal Acquisition Corp, 301
+ACAN, Americann Inc, 302
+ACB, Aurora Cannabis Inc, 303
+ACBI, Atlantic Capital Bancshares Inc, 304
+ACC, American Campus Communities Inc, 305
+ACCD, Accolade Inc, 307
+ACCO, ACCO Brands Corp, 309
+ACCYY, Accor SA, 310
+ACEL, Accel Entertainment Inc, 311
+ACER, Acer Therapeutics Inc, 312
+ACET, Adicet Bio Inc, 313
+ACEV, ACE Convergence Acquisition Corp, 314
+ACGL, Arch Capital Group Ltd, 315
+ACH, Aluminum Corporation of China Ltd, 316
+ACHC, Acadia Healthcare Co Inc, 317
+ACHL, Achilles Therapeutics PLC, 319
+ACHV, Achieve Life Sciences Inc, 320
+ACI.L, Albertsons Companies Inc, 321
+ACI, Albertsons Companies Inc, 322
+ACIC, Atlas Crest Investment Corp, 323
+ACIU, AC Immune SA, 324
+ACIW, ACI Worldwide Inc, 325
+ACLS, Axcelis Technologies Inc, 327
+ACM, AECOM, 328
+ACMR, ACM Research Inc, 329
+ACMT, ACMAT Corp, 330
+ACMTA, ACMAT Corp, 331
+ACN, Accenture PLC, 332
+ACNB, ACNB Corp, 333
+ACND, Ascendant Digital Acquisition Corp, 334
+ACOPY, The a2 Milk Co Ltd, 336
+ACOR, Acorda Therapeutics Inc, 337
+ACQR, Independence Holdings Corp, 339
+ACRDF, Acreage Holdings Inc, 340
+ACRHF, Acreage Holdings Inc, 341
+ACRL.L, Atacama Resources International Inc, 342
+ACRS, Aclaris Therapeutics Inc, 343
+ACRX, AcelRx Pharmaceuticals Inc, 344
+ACSAY, ACS Actividades de Construccion y Servicios SA, 346
+ACST, Acasti Pharma Inc, 348
+ACTC, ArcLight Clean Transition Corp, 351
+ACTG, Acacia Research Corp, 352
+ACU, Acme United Corp, 353
+ACUIF, AcuityAds Holdings Inc, 354
+ACVA, ACV Auctions Inc, 355
+ACY, AeroCentury Corp, 359
+ADAG, Adagene Inc, 362
+ADAP, Adaptimmune Therapeutics PLC, 363
+ADBE, Adobe Inc, 364
+ADC, Agree Realty Corp, 365
+ADCT, ADC Therapeutics SA, 366
+ADDYY, adidas AG, 367
+ADER, 26 Capital Acquisition Corp, 369
+ADES.L, Advanced Emissions Solutions Inc, 370
+ADES, Advanced Emissions Solutions Inc, 371
+ADEX, Adit Edtech Acquisition Corp, 372
+ADI, Analog Devices Inc, 373
+ADIL, Adial Pharmaceuticals Inc, 375
+ADM.L, Archer-Daniels Midland Co, 379
+ADM, Archer-Daniels Midland Co, 380
+ADMA, ADMA Biologics Inc, 381
+ADMP, Adamis Pharmaceuticals Corp, 382
+ADMS, Adamas Pharmaceuticals Inc, 383
+ADMT, ADM Tronics Unlimited Inc, 384
+ADN, Advent Technologies Holdings Inc, 385
+ADNT, Adient PLC, 387
+ADOC, Edoc Acquisition Corp, 388
+ADOM, Envirotech Vehicles Inc, 389
+ADP, Automatic Data Processing Inc, 390
+ADP.PA, Automatic Data Processing Inc, 391
+ADPT, Adaptive Biotechnologies Corp, 392
+ADPXY, Audio Pixels Holdings Ltd, 393
+ADRA, Adara Acquisition Corp, 394
+ADRNY, Koninklijke Ahold Delhaize NV, 395
+ADRZY, Andritz AG, 396
+ADS, Alliance Data Systems Corp, 397
+ADS.DE, Alliance Data Systems Corp, 398
+ADSK, Autodesk Inc, 399
+ADT, ADT Inc, 400
+ADTN, Adtran Inc, 402
+ADTX, ADiTx Therapeutics Inc, 403
+ADUS, Addus HomeCare Corp, 404
+ADV.L, Advantage Solutions Inc, 405
+ADV, Advantage Solutions Inc, 406
+ADV.DE, Advantage Solutions Inc, 407
+ADVM, Adverum Biotechnologies Inc, 409
+ADXN, Addex Therapeutics Ltd, 411
+ADXS, Advaxis Inc, 412
+ADYEY, Adyen NV, 414
+AE, Adams Resources & Energy Inc, 416
+AEAC, Authentic Equity Acquisition Corp, 417
+AEE, Ameren Corp, 419
+AEG.L, Aegon NV, 420
+AEHL, Antelope Enterprise Holdings Ltd, 422
+AEHR, Aehr Test Systems, 423
+AEI, Alset EHome International Inc, 424
+AEIS, Advanced Energy Industries Inc, 425
+AEL, American Equity Investment Life Holding Co, 426
+AEM, Agnico Eagle Mines Ltd, 427
+AEMC.L, Archer Entertainment Media Communications Inc, 428
+AEMD, Aethlon Medical Inc, 429
+AENZ, Aenza SAA, 432
+AEO, American Eagle Outfitters Inc, 433
+AEP, American Electric Power Co Inc, 434
+AEP.L, American Electric Power Co Inc, 435
+AER, AerCap Holdings NV, 436
+AERI, Aerie Pharmaceuticals Inc, 437
+AES, The AES Corp, 438
+AESE, Allied Esports Entertainment Inc, 439
+AEVA, Aeva Technologies Inc, 441
+AEXAY, Atos SE, 444
+AEY, Addvantage Technologies Group Inc, 446
+AEYE, AudioEye Inc, 447
+AEZS, AEterna Zentaris Inc, 448
+AFAP, AFA Protective Systems Inc, 450
+AFAQ, AF Acquisition Corp, 451
+AFBI, Affinity Bancshares Inc, 452
+AFCG, AFC Gamma Inc, 454
+AFG, American Financial Group Inc, 455
+AFI, Armstrong Flooring Inc, 457
+AFIB, Acutus Medical Inc, 458
+AFIN, American Finance Trust Inc, 459
+AFL, Aflac Inc, 460
+AFMD, Affimed NV, 462
+AFRM, Affirm Holdings Inc, 463
+AFTPY, Afterpay Ltd, 464
+AFYA, Afya Ltd, 467
+AG, First Majestic Silver Corp, 468
+AGAC, African Gold Acquisition Corp, 470
+AGBA, AGBA Acquisition Ltd, 471
+AGC, Altimeter Growth Corp, 473
+AGCB, Altimeter Growth Corp 2, 474
+AGCO, AGCO Corp, 475
+AGE, AgeX Therapeutics Inc, 476
+AGEN, Agenus Inc, 479
+AGESY, Ageas SA/ NV, 481
+AGFS, AgroFresh Solutions Inc, 483
+AGFY, Agrify Corp, 485
+AGGG.L, Antilia Group Corp, 487
+AGGR, Agile Growth Corp, 488
+AGIO, Agios Pharmaceuticals Inc, 490
+AGL, Agilon Health Inc, 492
+AGLE, Aeglea BioTherapeutics Inc, 493
+AGLXY, AGL Energy Ltd, 494
+AGM, Federal Agricultural Mortgage Corp, 495
+AGM.L, Federal Agricultural Mortgage Corp, 496
+AGMH, AGM Group Holdings Inc, 498
+AGNC, AGNC Investment Corp, 500
+AGO, Assured Guaranty Ltd, 501
+AGOL, Andina Gold Corp, 502
+AGR, Avangrid Inc, 503
+AGR, Avangrid Inc, 504
+AGR.L, Avangrid Inc, 505
+AGRO, Adecoagro SA, 506
+AGRO, Adecoagro SA, 507
+AGRPY, Absa Group Ltd, 508
+AGRX, Agile Therapeutics Inc, 510
+AGS, PlayAGS Inc, 511
+AGS, PlayAGS Inc, 512
+AGTC, Applied Genetic Technologies Corp, 515
+AGTI, Agiliti Inc, 516
+AGX, Argan Inc, 517
+AGYS, Agilysys Inc, 519
+AHAC, Alpha Healthcare Acquisition Corp, 520
+AHC, A H Belo Corp, 521
+AHCHY, Anhui Conch Cement Co Ltd, 522
+AHCO, AdaptHealth Corp, 523
+AHEXY, Adecco Group AG, 524
+AHKSY, Asahi Kasei Corp, 525
+AHPI, Allied Healthcare Products Inc, 527
+AHT, Ashford Hospitality Trust Inc, 528
+AHT.L, Ashford Hospitality Trust Inc, 529
+AI.PA, C3.ai Inc, 530
+AI, C3.ai Inc, 531
+AIAGY, Aurubis AG, 532
+AIG, American International Group Inc, 536
+AIH, Aesthetic Medical International Holdings Group Ltd, 546
+AIHS, Senmiao Technology Ltd, 547
+AIKI, AIkido Pharma Inc, 548
+AIM, AIM ImmunoTech Inc, 549
+AIMC, Altra Industrial Motion Corp, 550
+AIN, Albany International Corp, 551
+AINC, Ashford Inc, 552
+AINV, Apollo Investment Corp, 553
+AIQUY, Air Liquide SA, 554
+AIR.PA, AAR Corp, 555
+AIR.DE, AAR Corp, 556
+AIR, AAR Corp, 557
+AIR.L, AAR Corp, 558
+AIRC, Apartment Income REIT Corp, 559
+AIRG, Airgain Inc, 561
+AIRI, Air Industries Group, 562
+AIRT, Air T Inc, 563
+AIT, Applied Industrial Technologies Inc, 564
+AIV, Apartment Investment & Management Co, 565
+AIZ, Assurant Inc, 567
+AJAX, Ajax I, 568
+AJG, Arthur J. Gallagher & Co, 570
+AJG.L, Arthur J. Gallagher & Co, 571
+AJINY, Ajinomoto Co Inc, 572
+AJRD, Aerojet Rocketdyne Holdings Inc, 575
+AJX, Great Ajax Corp, 576
+AKABY, Alk-Abello A/S, 578
+AKAM, Akamai Technologies Inc, 579
+AKBA, Akebia Therapeutics Inc, 580
+AKBTY, Akbank TAS, 581
+AKIC, Sports Ventures Acquisition Corp, 583
+AKOM, Aerkomm Inc, 586
+AKRO, Akero Therapeutics Inc, 587
+AKTS, Akoustis Technologies Inc, 588
+AKTX, Akari Therapeutics PLC, 589
+AKUS, Akouos Inc, 590
+AKYA, Akoya Biosciences Inc, 591
+AKZOY, Akzo Nobel NV, 593
+AL, Air Lease Corp, 594
+ALAC, Alberton Acquisition Corp, 595
+ALB, Albemarle Corp, 597
+ALBO, Albireo Pharma Inc, 599
+ALBY, Community Capital Bancshares Inc, 600
+ALC, Alcon Inc, 601
+ALC, Alcon Inc, 602
+ALC.SW, Alcon Inc, 603
+ALCO, Alico Inc, 605
+ALDX, Aldeyra Therapeutics Inc, 607
+ALE, ALLETE Inc, 608
+ALEC, Alector Inc, 609
+ALEX, Alexander & Baldwin Inc, 611
+ALF, ALFI Inc, 612
+ALF.L, ALFI Inc, 613
+ALFVY, Alfa Laval AB, 616
+ALG, Alamo Group Inc, 617
+ALGM, Allegro Microsystems Inc, 620
+ALGN, Align Technology Inc, 621
+ALGS, Aligos Therapeutics Inc, 622
+ALGT, Allegiant Travel Co, 623
+ALHC, Alignment Healthcare Inc, 625
+ALIM, Alimera Sciences Inc, 628
+ALIZY, Allianz SE, 630
+ALJJ, ALJ Regional Holdings Inc, 631
+ALK, Alaska Air Group Inc, 632
+ALKS, Alkermes PLC, 634
+ALKT, Alkami Technology Inc, 635
+ALL, Allstate Corp, 636
+ALLE, Allegion PLC, 637
+ALLK, Allakos Inc, 640
+ALLN.SW, Allin Corp, 641
+ALLO, Allogene Therapeutics Inc, 642
+ALLT, Allot Ltd, 643
+ALLY, Ally Financial Inc, 644
+ALMC, Alimco Financial Corp, 647
+ALNA, Allena Pharmaceuticals Inc, 649
+ALNPY, ANA Holdings Inc, 650
+ALNY, Alnylam Pharmaceuticals Inc, 651
+ALOT, AstroNova Inc, 653
+ALPMY, Astellas Pharma Inc, 655
+ALPN, Alpine Immune Sciences Inc, 656
+ALPP, Alpine 4 Holdings Inc, 657
+ALRM, Alarm.com Holdings Inc, 660
+ALRN, Aileron Therapeutics Inc, 661
+ALRS, Alerus Financial Corp, 662
+ALSK, Alaska Communications Systems Group Inc, 664
+ALSMY, Alstom SA, 665
+ALSN, Allison Transmission Holdings Inc, 666
+ALSN.SW, Allison Transmission Holdings Inc, 667
+ALT, Altimmune Inc, 668
+ALT.L, Altimmune Inc, 669
+ALTA, Altabancorp, 670
+ALTG, Alta Equipment Group Inc, 671
+ALTM, Altus Midstream Co, 672
+ALTO, Alto Ingredients Inc, 674
+ALTR, Altair Engineering Inc, 675
+ALTU, Altitude Acquisition Corp, 676
+ALUS, Alussa Energy Acquisition Corp, 679
+ALV, Autoliv Inc, 680
+ALV.DE, Autoliv Inc, 681
+ALVR, AlloVir Inc, 682
+ALX, Alexander's Inc, 685
+ALXN, Alexion Pharmaceuticals Inc, 686
+ALXO, ALX Oncology Holdings Inc, 687
+AM, Antero Midstream Corp, 689
+AM.PA, Antero Midstream Corp, 690
+AMADY, Amadeus IT Group SA, 692
+AMAL, Amalgamated Financial Corp, 694
+AMAL.L, Amalgamated Financial Corp, 695
+AMAO, American Acquisition Opportunity Inc, 696
+AMAT, Applied Materials Inc, 698
+AMBA, Ambarella Inc, 699
+AMBBY, Ambu A/S, 700
+AMBC, Ambac Financial Group Inc, 701
+AMBK, American Bank Inc, 702
+AMBO, Ambow Education Holding Ltd, 703
+AMBZ, American Business Bank, 704
+AMC, AMC Entertainment Holdings Inc, 705
+AMC.L, AMC Entertainment Holdings Inc, 706
+AMCR, Amcor PLC, 707
+AMCT, American Education Center Inc, 708
+AMCX, AMC Networks Inc, 709
+AMD.DE, Advanced Micro Devices Inc, 710
+AMD, Advanced Micro Devices Inc, 711
+AME, AMETEK Inc, 714
+AMED, Amedisys Inc, 715
+AMEH, Apollo Medical Holdings Inc, 716
+AMEN, AMEN Properties Inc, 718
+AMFC, AMB Financial Corp, 719
+AMG, Affiliated Managers Group Inc, 720
+AMG.AS, Affiliated Managers Group Inc, 721
+AMGN, Amgen Inc, 722
+AMH, American Homes 4 Rent, 724
+AMHC, Amplitude Healthcare Acquisition Corp, 725
+AMIGY, Admiral Group PLC, 726
+AMK, AssetMark Financial Holdings Inc, 727
+AMKBY, A. P. Moller Maersk A/S, 728
+AMKR, Amkor Technology Inc, 729
+AMLM, American Lithium Minerals Inc, 731
+AMN, AMN Healthcare Services Inc, 733
+AMNB, American National Bankshares Inc, 734
+AMNF, Armanino Foods of Distinction Inc, 735
+AMOT, Allied Motion Technologies Inc, 738
+AMOV, America Movil SAB de CV, 739
+AMP, Ameriprise Financial Inc, 740
+AMPE, Ampio Pharmaceuticals Inc, 741
+AMPG, AmpliTech Group Inc, 742
+AMPH, Amphastar Pharmaceuticals Inc, 743
+AMPI, Advanced Merger Partners Inc, 744
+AMPY, Amplify Energy Corp, 745
+AMR, Alpha Metallurgical Resources Inc, 746
+AMRB, American River Bankshares, 747
+AMRC, Ameresco Inc, 748
+AMRK, A-Mark Precious Metals Inc, 749
+AMRN, Amarin Corp PLC, 750
+AMRS, Amyris Inc, 751
+AMRX, Amneal Pharmaceuticals Inc, 752
+AMS.L, American Shared Hospital Services, 753
+AMS, American Shared Hospital Services, 754
+AMS, American Shared Hospital Services, 755
+AMS.SW, American Shared Hospital Services, 756
+AMSC, American Superconductor Corp, 757
+AMSF, AMERISAFE Inc, 758
+AMSIY, ArcelorMittal South Africa Ltd, 759
+AMSSY, ams AG, 760
+AMST, Amesite Inc, 761
+AMSWA, American Software Inc, 762
+AMT, American Tower Corp, 763
+AMTB, Amerant Bancorp Inc, 764
+AMTBB, Amerant Bancorp Inc, 765
+AMTI, Applied Molecular Transport Inc, 767
+AMTX, Aemetis Inc, 768
+AMWD, American Woodmark Corp, 770
+AMWL, American Well Corp, 771
+AMX, America Movil SAB de CV, 772
+AMYT, Amryt Pharma PLC, 773
+AMYT.L, Amryt Pharma PLC, 774
+AMZN, Amazon.com Inc, 779
+AN, AutoNation Inc, 781
+ANAB, AnaptysBio Inc, 783
+ANAC, Arctos NorthStar Acquisition Corp, 784
+ANAT, American National Group Inc, 785
+ANDA, Andina Acquisition Corp III, 787
+ANDE, Andersons Inc, 788
+ANDR, Andrea Electronics Corp, 789
+ANEB, Anebulo Pharmaceuticals Inc, 790
+ANET, Arista Networks Inc, 791
+ANF, Abercrombie & Fitch Co, 792
+ANGI, Angi Inc, 794
+ANGN, Angion Biomedica Corp, 795
+ANGO, AngioDynamics Inc, 796
+ANGPY, Anglo American Platinum Ltd, 797
+ANIK, Anika Therapeutics Inc, 801
+ANIOY, Acerinox SA, 802
+ANIP, ANI Pharmaceuticals Inc, 803
+ANIX, Anixa Biosciences Inc, 804
+ANNX, Annexon Inc, 805
+ANPC, AnPac Bio-Medical Science Co Ltd, 806
+ANPDY, ANTA Sports Products Ltd, 807
+ANSLY, Ansell Ltd, 808
+ANSS, Ansys Inc, 809
+ANTE, AirNet Technology Inc, 810
+ANTM, Anthem Inc, 811
+ANVS, Annovis Bio Inc, 813
+ANY, Sphere 3D Corp, 816
+ANZBY, Australia and New Zealand Banking Group Ltd, 817
+ANZU, Anzu Special Acquisition Corp I, 818
+AON, Aon PLC, 823
+AONE, One, 824
+AONNY, AEON Co Ltd, 825
+AOS, A.O. Smith Corp, 826
+AOSL, Alpha & Omega Semiconductor Ltd, 827
+AOUT, American Outdoor Brands Inc, 828
+AOZOY, Aozora Bank Ltd, 830
+AP, Ampco-Pittsburgh Corp, 831
+APA, APA Corp, 832
+APAM.AS, Artisan Partners Asset Management Inc, 833
+APAM, Artisan Partners Asset Management Inc, 834
+APD, Air Products & Chemicals Inc, 837
+APDN, Applied DNA Sciences Inc, 838
+APEI, American Public Education Inc, 839
+APELY, Alps Alpine Co Ltd, 840
+APEN, Apollo Endosurgery Inc, 841
+APG, APi Group Corp, 844
+APGB, Apollo Strategic Growth Capital II, 845
+APH.L, Amphenol Corp, 846
+APH, Amphenol Corp, 847
+API, Agora Inc, 848
+APLE, Apple Hospitality REIT Inc, 849
+APLO, Apollo Bancorp Inc, 850
+APLS, Apellis Pharmaceuticals Inc, 851
+APLS.L, Apellis Pharmaceuticals Inc, 852
+APLT, Applied Therapeutics Inc, 853
+APM, Aptorum Group Ltd, 854
+APNHY, Aspen Pharmacare Holdings Ltd, 855
+APO, Apollo Global Management Inc, 856
+APOG, Apogee Enterprises Inc, 857
+APOP, Cellect Biotechnology Ltd, 858
+APP.L, AppLovin Corp, 859
+APP, AppLovin Corp, 860
+APPF, AppFolio Inc, 861
+APPH, AppHarvest Inc, 862
+APPN, Appian Corp, 863
+APPS, Digital Turbine Inc, 864
+APR, Apria Inc, 866
+APRE, Aprea Therapeutics Inc, 867
+APRN, Blue Apron Holdings Inc, 868
+APSG, Apollo Strategic Growth Capital, 869
+APT, Alpha Pro Tech Ltd, 870
+APTL, Alaska Power & Telephone Co, 872
+APTO, Aptose Biosciences Inc, 873
+APTS, Preferred Apartment Communities Inc, 874
+APTV, Aptiv PLC, 875
+APTX, Aptinyx Inc, 876
+APVO, Aptevo Therapeutics Inc, 877
+APWC, Asia Pacific Wire & Cable Corp Ltd, 878
+APXT, Apex Technology Acquisition Corp, 879
+APYX, Apyx Medical Corp, 880
+AQB, AquaBounty Technologies Inc, 881
+AQMS, Aqua Metals Inc, 882
+AQN, Algonquin Power & Utilities Corp, 883
+AQSP, Acquired Sales Corp, 885
+AQST, Aquestive Therapeutics Inc, 886
+AQUA, Evoqua Water Technologies Corp, 887
+AR, Antero Resources Corp, 889
+ARAV, Aravive Inc, 890
+ARAY, Accuray Inc, 891
+ARBG, Aequi Acquisition Corp, 894
+ARBV, American Riviera Bank, 895
+ARC, ARC Document Solutions Inc, 896
+ARCB, ArcBest Corp, 898
+ARCC, Ares Capital Corp, 899
+ARCE, Arco Platform Ltd, 900
+ARCH, Arch Resources Inc, 901
+ARCO, Arcos Dorados Holdings Inc, 902
+ARCT, Arcturus Therapeutics Holdings Inc, 903
+ARD, Ardagh Group SA, 904
+ARDS, Aridis Pharmaceuticals Inc, 905
+ARDX, Ardelyx Inc, 906
+ARE, Alexandria Real Estate Equities Inc, 907
+ARE.L, Alexandria Real Estate Equities Inc, 908
+AREC, American Resources Corp, 909
+ARES, Ares Management Corp, 910
+ARGO, Argo Group International Holdings Ltd, 912
+ARGX, argenx SE, 913
+ARGX, argenx SE, 914
+ARHN, Archon Corp, 915
+ARI, Apollo Commercial Real Estate Finance Inc, 916
+ARKAY, Arkema SA, 918
+ARKO, ARKO Corp, 919
+ARKR, Ark Restaurants Corp, 920
+ARL, American Realty Investors Inc, 921
+ARL.DE, American Realty Investors Inc, 922
+ARLO, Arlo Technologies Inc, 923
+ARLP, Alliance Resource Partners LP, 924
+ARMK, Aramark, 925
+ARMP, Armata Pharmaceuticals Inc, 926
+ARNA, Arena Pharmaceuticals Inc, 927
+ARNC, Arconic Corp, 928
+AROC, Archrock Inc, 930
+AROW, Arrow Financial Corp, 932
+ARPO, Aerpio Pharmaceuticals Inc, 933
+ARQT, Arcutis Biotherapeutics Inc, 934
+ARR.L, ARMOUR Residential REIT Inc, 935
+ARR, ARMOUR Residential REIT Inc, 936
+ARRW, Arrowroot Acquisition Corp, 937
+ARRY, Array Technologies Inc, 938
+ARTL, Artelo Biosciences Inc, 940
+ARTNA, Artesian Resources Corp, 941
+ARTNB, Artesian Resources Corp, 942
+ARTW, Art's-Way Manufacturing Co Inc, 943
+ARVL, Arrival, 944
+ARVN, Arvinas Inc, 945
+ARW.L, Arrow Electronics Inc, 946
+ARW, Arrow Electronics Inc, 947
+ARWR, Arrowhead Pharmaceuticals Inc, 948
+ARXRF, Infinite Ore Corp, 949
+ARYA, ARYA Sciences Acquisition Corp III, 950
+ARYD, ARYA Sciences Acquisition Corp IV, 951
+ARZGY, Assicurazioni Generali, 952
+ASAI.L, Sendas Distribuidora SA, 953
+ASAN, Asana Inc, 954
+ASAQ, Atlantic Avenue Acquisition Corp, 955
+ASAX, Astrea Acquisition Corp, 956
+ASAZY, Assa Abloy AB, 957
+ASB, Associated Banc-Corp, 958
+ASBFY, Associated British Foods PLC, 959
+ASC, Ardmore Shipping Corp, 960
+ASC.L, Ardmore Shipping Corp, 961
+ASCCY, ASICS Corp, 962
+ASEKY, Aisin Corp, 966
+ASGLY, AGC Inc, 968
+ASGN, ASGN Inc, 969
+ASH, Ashland Global Holdings Inc, 970
+ASHTY, Ashtead Group PLC, 972
+ASIX, AdvanSix Inc, 975
+ASLE, AerSale Corp, 978
+ASLN, ASLAN Pharmaceuticals Ltd, 980
+ASM.AS, Avino Silver & Gold Mines Ltd, 981
+ASMB, Assembly Biosciences Inc, 982
+ASML, ASML Holding NV, 983
+ASML.AS, ASML Holding NV, 984
+ASMVY, ASM Pacific Technology Ltd, 985
+ASND, Ascendis Pharma A/S, 986
+ASO, Academy Sports and Outdoors Inc, 987
+ASOMY, ASOS PLC, 988
+ASOZY, Asseco Poland SA, 989
+ASPC, Alpha Capital Acquisition Co, 990
+ASPL, Aspirational Consumer Lifestyle Corp, 992
+ASPL.L, Aspirational Consumer Lifestyle Corp, 993
+ASPN, Aspen Aerogels Inc, 994
+ASPS, Altisource Portfolio Solutions SA, 995
+ASPU, Aspen Group Inc, 996
+ASR, Grupo Aeroportuario del Sureste SAB de CV, 997
+ASRT, Assertio Holdings Inc, 999
+ASRV, AmeriServ Financial Inc, 1000
+ASTC, Astrotech Corp, 1002
+ASTE, Astec Industries Inc, 1003
+ASTO.L, Astro Communications Inc, 1004
+ASTS, AST SpaceMobile Inc, 1005
+ASUR, Asure Software Inc, 1006
+ASX, ASE Technology Holding Co Ltd, 1007
+ASXC, Asensus Surgical Inc, 1008
+ASXFY, ASX Ltd, 1009
+ASYS, Amtech Systems Inc, 1011
+ASZ, Austerlitz Acquisition Corp II, 1012
+ATA.PA, Americas Technology Acquisition Corp, 1015
+ATAQ, Altimar Acquisition Corp III, 1017
+ATASY, Atlantia SpA, 1018
+ATC, Atotech Ltd, 1019
+ATCN, Atec Inc, 1020
+ATCO, Atlas Corp, 1021
+ATCX, Atlas Technical Consultants Inc, 1022
+ATDRY, Auto Trader Group PLC, 1023
+ATEC, Alphatec Holdings Inc, 1026
+ATEN, A10 Networks Inc, 1027
+ATER, Aterian Inc, 1028
+ATEX, Anterix Inc, 1029
+ATEYY, Advantest Corp, 1030
+ATGE, Adtalem Global Education Inc, 1032
+ATGN, AltiGen Communications Inc, 1033
+ATH, Athene Holding Ltd, 1034
+ATHA, Athira Pharma Inc, 1035
+ATHE, Alterity Therapeutics Ltd, 1036
+ATHM, Autohome Inc, 1037
+ATHN, Athena Technology Acquisition Corp, 1038
+ATHX, Athersys Inc, 1039
+ATI, Allegheny Technologies Inc, 1040
+ATIF, ATIF Holdings Ltd, 1041
+ATKR, Atkore Inc, 1042
+ATLC, Atlanticus Holdings Corp, 1043
+ATLCY, Atlas Copco AB, 1044
+ATLKY, Atlas Copco AB, 1045
+ATLO, Ames National Corp, 1046
+ATMR, Altimar Acquisition Corp II, 1049
+ATNF, 180 Life Sciences Corp, 1050
+ATNI, ATN International Inc, 1051
+ATNM, Actinium Pharmaceuticals Inc, 1052
+ATNX, Athenex Inc, 1053
+ATO, Atmos Energy Corp, 1054
+ATO.PA, Atmos Energy Corp, 1055
+ATOM, Atomera Inc, 1056
+ATOS, Atossa Therapeutics Inc, 1057
+ATR, AptarGroup Inc, 1059
+ATR.L, AptarGroup Inc, 1060
+ATRA, Atara Biotherapeutics Inc, 1061
+ATRC, AtriCure Inc, 1062
+ATRI, Atrion Corp, 1063
+ATRO, Astronics Corp, 1064
+ATROB, Astronics Corp, 1065
+ATRS, Antares Pharma Inc, 1066
+ATSG, Air Transport Services Group Inc, 1069
+ATTO, Atento S.A, 1073
+ATUS, Altice USA Inc, 1074
+ATUSF, Altius Minerals Corp, 1075
+ATVI, Activision Blizzard Inc, 1076
+ATVK, Ameritek Ventures, 1077
+ATXI, Avenue Therapeutics Inc, 1078
+ATYM.L, Asia Time Corp, 1080
+AU, Anglogold Ashanti Ltd, 1081
+AUB, Atlantic Union Bankshares Corp, 1082
+AUBN, Auburn National Bancorp Inc, 1083
+AUCOY, Polymetal International PLC, 1085
+AUD, Audacy Inc, 1086
+AUDC, AudioCodes Ltd, 1087
+AUMN, Golden Minerals Co, 1092
+AUOTY, AU Optronics Corp, 1093
+AUPH, Aurinia Pharmaceuticals Inc, 1094
+AURC, Aurora Acquisition Corp, 1095
+AUS, Austerlitz Acquisition Corp I, 1096
+AUTL, Autolus Therapeutics PLC, 1098
+AUTO.L, AutoWeb Inc, 1100
+AUTO, AutoWeb Inc, 1101
+AUUD, Auddia Inc, 1102
+AUVI, Applied UV Inc, 1103
+AUY, Yamana Gold Inc, 1104
+AVA, Avista Corp, 1108
+AVAH, Aveanna Healthcare Holdings Inc, 1109
+AVAL, Grupo Aval Acciones y Valores SA, 1110
+AVAN, Avanti Acquisition Corp, 1111
+AVAV, AeroVironment Inc, 1113
+AVB, AvalonBay Communities Inc, 1114
+AVBH, Avidbank Holdings Inc, 1115
+AVCO, Avalon Globocare Corp, 1116
+AVCT, American Virtual Cloud Technologies Inc, 1117
+AVD, American Vanguard Corp, 1118
+AVDL, Avadel Pharmaceuticals PLC, 1119
+AVEO, AVEO Pharmaceuticals Inc, 1120
+AVGO, Broadcom Inc, 1122
+AVGR, Avinger Inc, 1123
+AVGR, Avinger Inc, 1124
+AVHNY, Ackermans & Van Haaren NV, 1125
+AVHOQ, Avianca Holdings SA, 1126
+AVID, Avid Technology Inc, 1127
+AVIFY, Advanced Info Service PCL, 1128
+AVIR, Atea Pharmaceuticals Inc, 1129
+AVLNF, Avalon Advanced Materials Inc, 1130
+AVLR, Avalara Inc, 1131
+AVNS, Avanos Medical Inc, 1132
+AVNT, Avient Corp, 1133
+AVNW, Aviat Networks Inc, 1134
+AVO, Mission Produce Inc, 1135
+AVRO, Avrobio Inc, 1137
+AVT, Avnet Inc, 1139
+AVTR, Avantor Inc, 1140
+AVXL, Anavex Life Sciences Corp, 1143
+AVY, Avery Dennison Corp, 1144
+AVYA, Avaya Holdings Corp, 1145
+AWCMY, Alumina Ltd, 1146
+AWH, Aspira Womens Health Inc, 1148
+AWI, Armstrong World Industries Inc, 1149
+AWK, American Water Works Co Inc, 1150
+AWR, American States Water Co, 1151
+AWRE, Aware Inc, 1152
+AWX, Avalon Holdings Corp, 1154
+AX, Axos Financial Inc, 1155
+AXAHY, AXA SA, 1156
+AXAS, Abraxas Petroleum Corp, 1157
+AXDX, Accelerate Diagnostics Inc, 1158
+AXGN, Axogen Inc, 1159
+AXL, American Axle & Mfg Holdings Inc, 1160
+AXLA, Axcella Health Inc, 1161
+AXNX, Axonics Inc, 1162
+AXON, Axon Enterprise Inc, 1163
+AXP, American Express Co, 1164
+AXR, Amrep Corp, 1165
+AXS.L, Axis Capital Holdings Ltd, 1166
+AXS, Axis Capital Holdings Ltd, 1167
+AXSM, Axsome Therapeutics Inc, 1168
+AXTA, Axalta Coating Systems Ltd, 1169
+AXTI, AXT Inc, 1170
+AXU, Alexco Resource Corp, 1171
+AY, Atlantica Sustainable Infrastructure PLC, 1172
+AYAG, Amaya Global Hldgs Corp, 1173
+AYALY, Ayala Corp, 1174
+AYI, Acuity Brands Inc, 1175
+AYLA, Ayala Pharmaceuticals Inc, 1176
+AYRO, AYRO Inc, 1178
+AYSI, Alloy Steel International Inc, 1179
+AYTU, Aytu BioPharma Inc, 1180
+AYX, Alteryx Inc, 1181
+AZEK, The AZEK Co Inc, 1182
+AZIHY, Azimut Holding SPA, 1183
+AZN, AstraZeneca PLC, 1185
+AZN.L, AstraZeneca PLC, 1186
+AZO, AutoZone Inc, 1187
+AZPN, Aspen Technology Inc, 1188
+AZRE, Azure Power Global Ltd, 1189
+AZRX, AzurRx BioPharma Inc, 1190
+AZUL, Azul SA, 1191
+AZYO, Aziyo Biologics Inc, 1192
+AZZ, AZZ Inc, 1193
+B, Barnes Group Inc, 1194
+BA, Boeing Co, 1197
+BA..L, Boeing Co, 1198
+BABA, Alibaba Group Holding Ltd, 1202
+BAC, Bank of America Corp, 1204
+BAESY, BAE Systems PLC, 1207
+BAH, Booz Allen Hamilton Holding Corp, 1210
+BAK, Braskem SA, 1211
+BALY, Ballys Corp, 1215
+BAM, Brookfield Asset Management Inc, 1216
+BANC, Banc of California Inc, 1219
+BAND, Bandwidth Inc, 1220
+BANF, BancFirst Corp, 1221
+BANI, Banneker Inc, 1222
+BANR, Banner Corp, 1223
+BANT, Bantec Inc, 1224
+BAOS, Baosheng Media Group Holdings Ltd, 1226
+BAP, Credicorp Ltd, 1227
+BARK.L, The Original BARK Co, 1231
+BASFY, Basf SE, 1237
+BATL, Battalion Oil Corp, 1239
+BAX, Baxter International Inc, 1242
+BAYRY, Bayer AG, 1244
+BB, BlackBerry Ltd, 1245
+BBAR, Banco BBVA Argentina SA, 1247
+BBBK, Baker Boyer Bancorp, 1249
+BBBY, Bed Bath & Beyond Inc, 1250
+BBCP, Concrete Pumping Holdings Inc, 1251
+BBD, Bank Bradesco SA, 1252
+BBDC, Barings BDC Inc, 1253
+BBDO, Bank Bradesco SA, 1254
+BBGI, Beasley Broadcast Group Inc, 1257
+BBGI.L, Beasley Broadcast Group Inc, 1258
+BBI, Brickell Biotech Inc, 1260
+BBIG, Vinco Ventures Inc, 1261
+BBIO, BridgeBio Pharma Inc, 1263
+BBKCF, BIGG Digital Assets Inc, 1264
+BBL, BHP Group PLC, 1265
+BBQ, BBQ Holdings Inc, 1268
+BBSI, Barrett Business Services Inc, 1269
+BBVA, Banco Bilbao Vizcaya Argentaria SA, 1274
+BBVA, Banco Bilbao Vizcaya Argentaria SA, 1275
+BBW, Build-A-Bear Workshop Inc, 1276
+BBY.L, Best Buy Co Inc, 1277
+BBY, Best Buy Co Inc, 1278
+BC, Brunswick Corp, 1279
+BCAB, BioAtla Inc, 1281
+BCAC, Brookline Capital Acquisition Corp, 1282
+BCAL, Southern Calif Bancorp, 1283
+BCBP, BCB Bancorp Inc, 1286
+BCC, Boise Cascade Co, 1287
+BCDA, BioCardia Inc, 1288
+BCE, BCE Inc, 1289
+BCEI, Bonanza Creek Energy Inc, 1290
+BCEL, Atreca Inc, 1291
+BCH, Banco De Chile, 1292
+BCLI, Brainstorm Cell Therapeutics Inc, 1297
+BCML, BayCom Corp, 1298
+BCNAY, Barco NV, 1300
+BCO, The Brink's Co, 1301
+BCOR, Blucora Inc, 1304
+BCOV, Brightcove Inc, 1305
+BCOW, 1895 Bancorp of Wisconsin Inc, 1306
+BCPC, Balchem Corp, 1307
+BCRX, BioCryst Pharmaceuticals Inc, 1309
+BCS, Barclays PLC, 1310
+BCSF, Bain Capital Specialty Finance Inc, 1312
+BCTF, Bancorp 34 Inc, 1314
+BCTG, BCTG Acquisition Corp, 1315
+BCTX, BriaCell Therapeutics Corp, 1316
+BCUCY, Brunello Cucinelli SpA, 1317
+BCYC, Bicycle Therapeutics PLC, 1319
+BCYP, Big Cypress Acquisition Corp, 1320
+BDC, Belden Inc, 1321
+BDL, Flanigan'S Enterprises Inc, 1323
+BDN, Brandywine Realty Trust, 1324
+BDNNY, Boliden AB, 1325
+BDORY, Banco do Brasil SA BB Brasil, 1326
+BDR, Blonder Tongue Laboratories Inc, 1327
+BDRFY, Beiersdorf AG, 1328
+BDSI, BioDelivery Sciences International Inc, 1329
+BDSX, Biodesix Inc, 1330
+BDTX, Black Diamond Therapeutics Inc, 1332
+BDVSY, Bidvest Group Ltd, 1333
+BDX, Becton, Dickinson and Co, 1334
+BE, Bloom Energy Corp, 1335
+BEAM, Beam Therapeutics Inc, 1337
+BEBE, bebe stores Inc, 1339
+BECN, Beacon Roofing Supply Inc, 1340
+BEDU, Bright Scholar Education Holdings Ltd, 1341
+BEEM, Beam Global, 1342
+BEKE, KE Holdings Inc, 1346
+BELFA, Bel Fuse Inc, 1348
+BELFB, Bel Fuse Inc, 1349
+BELP, Belpointe REIT Inc, 1350
+BELR, Bell Rose Capital Inc, 1351
+BEN, Franklin Resources Inc, 1355
+BENE, Benessere Capital Acquisition Corp, 1356
+BENE.L, Benessere Capital Acquisition Corp, 1357
+BEOB, BEO Bancorp OR, 1358
+BEP, Brookfield Renewable Partners LP, 1359
+BERI.L, Blue Earth Resources Inc, 1360
+BERK, Berkshire Bancorp Inc, 1361
+BERY, Berry Global Group Inc, 1362
+BEST, BEST Inc, 1364
+BFAM, Bright Horizons Family Solutions Inc, 1368
+BFC, Bank First Corp, 1369
+BFI, BurgerFi International Inc, 1370
+BFIN, BankFinancial Corp, 1371
+BFLBY, Bilfinger SE, 1373
+BFLY, Butterfly Network Inc, 1374
+BFRA, Biofrontera AG, 1375
+BFS, Saul Centers Inc, 1376
+BFST, Business First Bancshares Inc, 1379
+BG, Bunge Ltd, 1380
+BG, Bunge Ltd, 1381
+BGAOY, Proximus SA, 1382
+BGCP, BGC Partners Inc, 1384
+BGFV, Big 5 Sporting Goods Corp, 1388
+BGI, Birks Group Inc, 1390
+BGNE, BeiGene Ltd, 1392
+BGS, B&G Foods Inc, 1394
+BGS.L, B&G Foods Inc, 1395
+BGSF, BGSF Inc, 1397
+BGSX, Build Acquisition Corp, 1398
+BH, Biglari Holdings Inc, 1400
+BHAT, Blue Hat Interactive Entertainment Technology, 1402
+BHB, Bar Harbor Bankshares Inc, 1403
+BHC, Bausch Health Companies Inc, 1404
+BHE, Benchmark Electronics Inc, 1405
+BHF, Brighthouse Financial Inc, 1406
+BHLB, Berkshire Hills Bancorp Inc, 1408
+BHP, BHP Group Ltd, 1410
+BHP.L, BHP Group Ltd, 1411
+BHRB, Burke & Herbert Bank & Trust Co, 1412
+BHSE, Bull Horn Holdings Corp, 1413
+BHTG, BioHiTech Global Inc, 1414
+BHVN, Biohaven Pharmaceutical Holding Co Ltd, 1415
+BHWB, Blackhawk Bancorp Inc, 1416
+BICEY, Bic, 1417
+BIDU, Baidu Inc, 1419
+BIG, Big Lots Inc, 1421
+BIGC, BigCommerce Holdings Inc, 1422
+BIIB, Biogen Inc, 1423
+BILI, Bilibili Inc, 1426
+BILL, Bill.com Holdings Inc, 1427
+BIMI, BOQI International Medical Inc, 1429
+BIO, Bio-Rad Laboratories Inc, 1430
+BIO, Bio-Rad Laboratories Inc, 1431
+BIOC, Biocept Inc, 1434
+BIOL, Biolase Inc, 1436
+BIOQ, Bioqual Inc, 1440
+BIOT, Biotech Acquisition Co, 1441
+BIOT.L, Biotech Acquisition Co, 1442
+BIOX, Bioceres Crop Solutions Corp, 1443
+BIP, Brookfield Infrastructure Partners LP, 1444
+BITE, Bite Acquisition Corp, 1446
+BIVI, BioVie Inc, 1447
+BJ, BJ's Wholesale Club Holdings Inc, 1448
+BJRI, BJ's Restaurants Inc, 1449
+BK, Bank of New York Mellon Corp, 1450
+BKCC, BlackRock Capital Investment Corp, 1451
+BKD, Brookdale Senior Living Inc, 1452
+BKE, Buckle Inc, 1453
+BKFG, BKF Capital Group Inc, 1454
+BKGFY, Berkeley Group Holdings (The) PLC, 1456
+BKGM, BankGuam Holding Co, 1457
+BKH, Black Hills Corp, 1458
+BKHYY, Bank Hapoalim BM, 1460
+BKI, Black Knight Inc, 1461
+BKNG, Booking Holdings Inc, 1462
+BKOR, Oak Ridge Financial Services Inc, 1463
+BKR, Baker Hughes Co, 1464
+BKSC, Bank of South Carolina Corp, 1466
+BKTI, BK Technologies Corp, 1468
+BKU, BankUnited Inc, 1469
+BKUH, Bakhu Holdings Corp, 1470
+BKUT, Bank Of Utica (ny), 1471
+BKUTK, Bank Of Utica (ny), 1472
+BKYI, BIO-key International Inc, 1475
+BL, BlackLine Inc, 1476
+BLBD, Blue Bird Corp, 1477
+BLCM, Bellicum Pharmaceuticals Inc, 1478
+BLCT, BlueCity Holdings Ltd, 1479
+BLD, TopBuild Corp, 1480
+BLDE, Blade Air Mobility Inc, 1481
+BLDP, Ballard Power Systems Inc, 1482
+BLDR, Builders FirstSource Inc, 1483
+BLFS, BioLife Solutions Inc, 1484
+BLHEY, Baloise Holding AG, 1485
+BLHK, BlueHarbor Bank, 1486
+BLI, Berkeley Lights Inc, 1487
+BLIN, Bridgeline Digital Inc, 1488
+BLK, BlackRock Inc, 1489
+BLKB, Blackbaud Inc, 1490
+BLL, Ball Corp, 1491
+BLMN, Bloomin Brands Inc, 1492
+BLNK, Blink Charging Co, 1494
+BLPH, Bellerophon Therapeutics Inc, 1497
+BLRX, BioLine Rx Ltd, 1498
+BLSA, BCLS Acquisition Corp, 1500
+BLSFY, BlueScope Steel Ltd, 1501
+BLTS, Bright Lights Acquisition Corp, 1503
+BLUE, bluebird bio Inc, 1504
+BLUW, Blue Water Acquisition Corp, 1506
+BLX, Banco Latinoamericano de Comercio Exterior SA, 1509
+BMA, Banco Macro SA, 1510
+BMBL, Bumble Inc, 1511
+BMBN, Benchmark Bankshares Inc, 1512
+BMEA, Biomea Fusion Inc, 1515
+BMI, Badger Meter Inc, 1516
+BMMJ, Body and Mind Inc, 1518
+BMNM, Bimini Capital Management Inc, 1520
+BMO, Bank of Montreal, 1521
+BMRA, Biomerica Inc, 1523
+BMRC, Bank of Marin Bancorp, 1524
+BMRN, Biomarin Pharmaceutical Inc, 1525
+BMRRY, B&M European Value Retail SA, 1526
+BMTC, Bryn Mawr Bank Corp, 1528
+BMTX, BM Technologies Inc, 1529
+BMWYY, Bayerische Motoren Werke AG, 1534
+BMY, Bristol-Myers Squibb Co, 1535
+BMY.L, Bristol-Myers Squibb Co, 1536
+BNCC, BNCCORP Inc, 1540
+BNCDY, Banca Mediolanum, 1541
+BNED, Barnes & Noble Education Inc, 1542
+BNFT, Benefitfocus Inc, 1543
+BNGO, Bionano Genomics Inc, 1544
+BNL, Broadstone Net Lease Inc, 1548
+BNPQY, BNP Paribas, 1550
+BNR.DE, Burning Rock Biotech Ltd, 1551
+BNR, Burning Rock Biotech Ltd, 1552
+BNS, Bank of Nova Scotia, 1553
+BNSO, Bonso Electronics International Inc, 1554
+BNTC, Benitec Biopharma Inc, 1555
+BNTGY, Brenntag SE, 1556
+BNTX, BioNTech SE, 1557
+BOAC, Bluescape Opportunities Acquisition Corp, 1559
+BOAS, BOA Acquisition Corp, 1560
+BOCH.L, Bank of Commerce Holdings Inc, 1561
+BOCH, Bank of Commerce Holdings Inc, 1562
+BOH, Bank of Hawaii Corp, 1564
+BOKF, BOK Financial Corp, 1567
+BOLT, Bolt Biotherapeutics Inc, 1570
+BOMN, Boston Omaha Corp, 1571
+BOOM.L, DMC Global Inc, 1573
+BOOM, DMC Global Inc, 1574
+BOOT.L, Boot Barn Holdings Inc, 1575
+BOOT, Boot Barn Holdings Inc, 1576
+BOREF, Borealis Exploration Ltd, 1578
+BORR, Borr Drilling Ltd, 1579
+BORT, Bank of Botetourt Buchanan VA, 1580
+BOSC, BOS Better Online Solutions Ltd, 1581
+BOSSY, Hugo Boss AG, 1583
+BOTJ, Bank of the James Financial Group Inc, 1585
+BOWX, BowX Acquisition Corp, 1587
+BOX, Box Inc, 1588
+BOXL, Boxlight Corp, 1589
+BOZTY, Boozt AB, 1591
+BP.L, BP PLC, 1592
+BP, BP PLC, 1593
+BP.A.L, BP PLC, 1594
+BP.B.L, BP PLC, 1595
+BPFH, Boston Private Financial Holdings Inc, 1600
+BPMC, Blueprint Medicines Corp, 1601
+BPOP, Popular Inc, 1602
+BPOSY, Bpost SA de Droit Public, 1604

@@ -62,6 +62,25 @@ def get_sector(tag):
 			return None, None
 
 
+def get_name(tag):
+	'''
+	'''
+	print("tag = ", tag)
+	link = 'https://ycharts.com/companies/%s' % tag.split('.')[0].strip()
+	soup = get_soup(link)
+	
+	if soup is None:
+		return None
+	else:
+		div_el = soup.findAll("div", {"id": "securityQuoteInner"})
+		if div_el:
+			h1_el = div_el[0].findAll('h1')
+			a_el = h1_el[0].findAll('a')
+			return a_el[0].text
+		else:
+			return None
+
+
 def get_pe(tag):
 	'''
 	'''
