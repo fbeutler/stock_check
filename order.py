@@ -8,7 +8,7 @@ max_num = 20
 market_exclude = ['NON-ISA OTC Markets']
 country_exclude = ['Cayman Islands', 'Monaco', 'Panama', 'Bermuda', 'Argentina', 'Greece', 'China']
 max_dict = {'Financial Services': 0.20, 
-			'Real Estate': 0.1, 'Energy': 0.1}
+			'Real Estate': 0.1, 'Energy': 0.1, 'South Korea': 0.1}
 
 def get_data(filename, col_id=1, exclude=[], sep=' '):
 
@@ -63,10 +63,10 @@ def main():
 	for k, v in pb_dict.items():
 		pb_dict[k] = float(v)
 
-	# filename = 'existing_tags_names.txt'
-	# name_dict = get_data(filename, sep=', ')
-	# for k, v in name_dict.items():
-	# 	name_dict[k] = float(v)
+	filename = 'existing_tags_names.txt'
+	name_dict = get_data(filename, sep=', ')
+	for k, v in name_dict.items():
+		name_dict[k] = v
 
 	filename = 'existing_tags_pe.txt'
 	pe_dict = get_data(filename, sep=' ')
@@ -95,7 +95,7 @@ def main():
 
 				if check(sector_dict, sectors, global_id) and check(country_dict, countries, global_id):
 
-					print("%s, %s, %f, %f, %s, %s, %s, %s" % (tag, names[int(global_id)], pbratio, pe_dict[int(global_id)], markets[int(global_id)], sector_dict[int(global_id)], industry_dict[int(global_id)], country_dict[int(global_id)]))
+					print("%s, %s, %f, %f, %s, %s, %s, %s" % (tag, name_dict[int(global_id)], pbratio, pe_dict[int(global_id)], markets[int(global_id)], sector_dict[int(global_id)], industry_dict[int(global_id)], country_dict[int(global_id)]))
 					sectors.append(sector_dict[int(global_id)])
 					industries.append(industry_dict[int(global_id)])
 					countries.append(country_dict[int(global_id)])
