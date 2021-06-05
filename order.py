@@ -4,9 +4,9 @@ from matplotlib import pyplot as plt
 
 from harvest_trading212 import get_tags
 
-max_num = 20
+max_num = 200
 market_exclude = ['NON-ISA OTC Markets']
-country_exclude = ['Cayman Islands', 'Monaco', 'Panama', 'Bermuda', 'Argentina', 'Greece', 'China']
+country_exclude = ['Cayman Islands', 'Monaco', 'Panama', 'Bermuda', 'Argentina', 'Greece']
 max_dict = {'Financial Services': 0.20, 
 			'Real Estate': 0.1, 'Energy': 0.1, 'South Korea': 0.1}
 
@@ -95,7 +95,8 @@ def main():
 
 				if check(sector_dict, sectors, global_id) and check(country_dict, countries, global_id):
 
-					print("%s, %s, %f, %f, %s, %s, %s, %s" % (tag, name_dict[int(global_id)], pbratio, pe_dict[int(global_id)], markets[int(global_id)], sector_dict[int(global_id)], industry_dict[int(global_id)], country_dict[int(global_id)]))
+					if country_dict[int(global_id)] == 'China':
+						print("%s, %s, %f, %f, %s, %s, %s, %s" % (tag, name_dict[int(global_id)], pbratio, pe_dict[int(global_id)], markets[int(global_id)], sector_dict[int(global_id)], industry_dict[int(global_id)], country_dict[int(global_id)]))
 					sectors.append(sector_dict[int(global_id)])
 					industries.append(industry_dict[int(global_id)])
 					countries.append(country_dict[int(global_id)])
